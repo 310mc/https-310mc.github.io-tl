@@ -50,7 +50,8 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 ## Index
 
-**Ensemble Stars**
+<big>Interested to read Enstars stories? Check out this translation masterlist → <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">Event & Scout stories</a> / <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">Feature & Idol stories</a></big>
+
 <ul>
 <li><a href="#Main-Stories">Main Story</a></li>
 <li><a href="#Event-Stories">Event Story</a></li>
@@ -59,6 +60,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <li><a href="#Other-Stories">Other Story (Mini Talk, Management Story, Birthday Story)</a></li>
 <li><a href="#Song-Lyrics">Song Lyrics</a></li>
 <li><a href="#Other">Other</a></li>
+<li><a href="#Information-Posts">Information Posts</a></li>
 </ul>
 
 ## Main Stories
@@ -69,7 +71,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/es2mainstory/firstmainstorybanner.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_N675715a5RzsoLM1.webp?timestamp=1733760424929"
             alt="1st Main Story"
         />
     </div>
@@ -81,7 +83,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/es2mainstory/ssfinalsbanner.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_jxzXtSJ675715a57.webp?timestamp=1733760424240"
             alt="SS Finals"
         />
     </div>
@@ -98,12 +100,24 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/christmaslive/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_8w867546441Wkfr3.webp?timestamp=1733583945159"
                 alt="Christmas Live"
             />
         </div>
         <a href="/christmas_live" class="storyName" target="_blank">
             <span>Christmas Live</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_sNUZ675710f36z64.webp?timestamp=1733759221513"
+                alt="Scroll of the Elements"
+            />
+        </div>
+        <a href="https://citrinesea.github.io/translation/scroll_of_the_elements/" class="storyName" target="_blank">
+            <span>Scroll of the Elements (by citrinesea)</span>
             <span class="read"></span>
         </a>
     </div>
@@ -134,7 +148,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/aquarium/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_dFna6757129cGir4.webp?timestamp=1733759648519"
                 alt="Aquarium"
             />
         </div>
@@ -146,7 +160,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83voAESG50.webp?timestamp=1733754251916"
                 alt="Sweet Halloween"
             />
         </div>
@@ -199,7 +213,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_gkazX67709a61b95.webp?timestamp=1735432807695"
                 alt="Motor Show"
             />
         </div>
@@ -223,7 +237,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_aM6759f004dHmnm2.webp?timestamp=1733947401125"
                 alt="Submarine"
             />
         </div>
@@ -235,7 +249,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_lv6759f4e7COzMw2.webp?timestamp=1733948650950"
                 alt="Ring"
             />
         </div>
@@ -259,7 +273,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_8MO7Sl67570ca8b6.webp?timestamp=1733758123348"
                 alt="Supervillain"
             />
         </div>
@@ -271,7 +285,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_OFKttAE6756ec337.webp?timestamp=1733749813697"
                 alt="Wedding March!"
             />
         </div>
@@ -283,7 +297,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/parallelworld/tomoyabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_uPZa0R67571019P6.webp?timestamp=1733759003773"
                 alt="Parallel World"
             />
         </div>
@@ -295,7 +309,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_j9i6754b91a6WL73.webp?timestamp=1733605670991"
                 alt="Tropical"
             />
         </div>
@@ -325,6 +339,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </div>
         <a href="/vs_gourmet" class="storyName" target="_blank">
             <span>VS★GOURMET</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_1s66e72235XkZzJ2.webp?timestamp=1726423611381"
+                alt="WILDLAND"
+            />
+        </div>
+        <a href="/wildland" class="storyName" target="_blank">
+            <span>WILDLAND</span>
             <span class="read"></span>
         </a>
     </div>
@@ -372,7 +398,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/scoutstory/zodiac/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_tr6759ac5amEcB02.webp?timestamp=1733930080157"
                 alt="Zodiac"
             />
         </div>
@@ -460,7 +486,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/scoutstory/flowersofthewasteland/nagisabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_9oADz67673c085Y5.webp?timestamp=1734818830519"
                 alt="Flowers of the Wasteland"
             />
         </div>
@@ -472,7 +498,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/scoutstory/ushimairip2/yuzurubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_dW5KtUQ67671d4b7.webp?timestamp=1734810961494"
                 alt="Ushimairi, Part Two"
             />
         </div>
@@ -481,27 +507,27 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             <span class="read"></span>
         </a>
     </div>
-    <!--<div class="story">
-        <div class="thumbimage">
-            <img
-                src="/img/es/scoutstory/roaringseamarina/izumibcgframe_300px.jpg"
-                alt="Roaring Sea Marina"
-            />
-        </div>
-        <a href="/roaring_sea_marina" class="storyName" target="_blank">
-            <span>Roaring Sea Marina (Coming Soon!)</span>
-            <span class="read"></span>
-        </a>
-    </div>-->
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/scoutstory/soleil/mitsurubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_yeCim67671c33DC5.webp?timestamp=1734810681494"
                 alt="Soleil"
             />
         </div>
         <a href="/soleil" class="storyName" target="_blank">
             <span>Soleil (Chapter 1 Only!)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_67671454b8okwx20.webp?timestamp=1734808667282"
+                alt="Free-spirited City Rider"
+            />
+        </div>
+        <a href="/whimsical_city_rider" class="storyName" target="_blank">
+            <span>Whimsical City Rider</span>
             <span class="read"></span>
         </a>
     </div>
@@ -532,7 +558,19 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_VBFp6767185b2lJ4.webp?timestamp=1734809695854"
+            alt="Sports Survivors"
+        />
+    </div>
+    <a href="/sports_survivors" class="storyName" target="_blank">
+        <span>Sports Survivors</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_jY676719895rCIR2.webp?timestamp=1734809998875"
             alt="Exhibition In A Blink Of An Eye"
         />
     </div>
@@ -540,7 +578,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Exhibition In A Blink Of An Eye</span>
         <span class="read"></span>
     </a>
-</div>
+    </div>
 </div>
 
 ## Idol Stories
@@ -882,7 +920,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -894,7 +932,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>
@@ -1074,7 +1112,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/trainingpromise/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_oof5675b15c731U4.webp?timestamp=1734022604970"
             alt="The Promise To Train"
         />
     </div>
@@ -1146,7 +1184,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_86jp0675ac72b5l5.webp?timestamp=1734002481395"
             alt="True To Myself, Taking A Step Forward"
         />
     </div>
@@ -1163,7 +1201,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/minitalkbanner.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eD41l6759be6cOe5.webp?timestamp=1733934701769"
             alt="Mini Talks"
         />
     </div>
@@ -1175,7 +1213,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/manageconvo/coverv2_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_IqMpI675718edW35.webp?timestamp=1733761263895"
             alt="Management Story"
         />
     </div>
@@ -1187,7 +1225,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/midoribday2018.gif"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_HHLLjs675717a3O6.gif?timestamp=1733760934458"
             alt="Birthday Story"
         />
     </div>
@@ -1217,7 +1255,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/songs/ryuseitaiunitsong2ndcd_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_xGeK6759a40ey2y4.webp?timestamp=1733927952792"
             alt="Goshoku no Shooting ☆ Star!!!!! – The Five-Colored Shooting ☆ Star!!!!!"
         />
     </div>
@@ -1229,7 +1267,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6da1hhIJ4X0.webp?timestamp=1733928669099"
                 alt="SUPER NOVA REVOLU5TAR"
             />
         </div>
@@ -1241,7 +1279,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/ryuseitaiunitsong3rdcd_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6da1hhIJ4X0.webp?timestamp=1733928669099"
                 alt="GROWING STARRY DAYS"
             />
         </div>
@@ -1253,7 +1291,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/ryuseitaiswitchanimeed.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_0SBjw86759a585H6.webp?timestamp=1733928327117"
                 alt="Meteor Scramble ☆ Ryuseitai!"
             />
         </div>
@@ -1269,7 +1307,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/songs/dateplanatoz.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_lfe2V46759a52as6.webp?timestamp=1733928237004"
             alt="Date Plan A to Z"
         />
     </div>
@@ -1281,7 +1319,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/aislebewithyou_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ggl6759a4a93A0v3.webp?timestamp=1733928107648"
                 alt="Aisle, be with you"
             />
         </div>
@@ -1291,9 +1329,21 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         </a>
     </div>
     <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_7673f1342AovCFj1.webp?timestamp=1732186947859"
+                alt="Venus in my eyes ~Tonight, I won’t let go~"
+            />
+        </div>
+        <a href="/venus_in_my_eyes" class="storyName" target="_blank">
+            <span>Venus in my eyes ~Tonight, I won’t let go~</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
     <div class="thumbimage">
           <img
-              src="/img/es/songs/suiseihalation_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_iMm6759a4809STu3.webp?timestamp=1733928067354"
               alt="Suisei HALATION"
           />
       </div>
@@ -1305,7 +1355,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/nekketsuryuseininpouchou_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_z6759a4f7LEq2WF1.webp?timestamp=1733928185552"
               alt="Nekketsu ☆ Ryusei Ninpouchou"
           />
       </div>
@@ -1317,7 +1367,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/heartheatbeat_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_I8PT6759a649BOx4.webp?timestamp=1733928523936"
               alt="Heart Heat Beat"
           />
       </div>
@@ -1329,7 +1379,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/colorsarise_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_spEpfOH6759a5bc7.webp?timestamp=1733928382315"
               alt="Colors Arise"
           />
       </div>
@@ -1341,7 +1391,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/relaxparadise_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_76e6759a5e5hnE93.webp?timestamp=1733928424065"
               alt="RELAX PARADISE"
           />
       </div>
@@ -1353,7 +1403,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/songs/bokuranostella_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a6aeA34FKcr0.webp?timestamp=1733928624964"
               alt="Bokura no Stella"
           />
       </div>
@@ -1365,7 +1415,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/ryuseitaialbumtrip_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
               alt="NEW DAYBREAK"
           />
       </div>
@@ -1377,7 +1427,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/tetorasolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_a1Ne6759a7aaJur4.webp?timestamp=1733928875858"
               alt="Unmei Power Energy! (Tetora Solo)"
           />
       </div>
@@ -1389,7 +1439,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/midorisolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_F6759a7d5MRXv9V1.webp?timestamp=1733928919205"
               alt="Green to the sky (Midori Solo)"
           />
       </div>
@@ -1401,7 +1451,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/shinobusolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_uDVL6759a7ecWkX4.webp?timestamp=1733928942469"
               alt="Seisei Doudou Ouenka! (Shinobu Solo)"
           />
       </div>
@@ -1413,7 +1463,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/chiakisolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_wfxEIo6759a7c0i6.webp?timestamp=1733928898178"
               alt="Kokoro de Pittari Ai ni Naru (Chiaki Solo)"
           />
       </div>
@@ -1425,7 +1475,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
   <div class="story">
       <div class="thumbimage">
           <img
-              src="/img/es/ryuseitaialbumtrip/kanatasolo_300px.jpg"
+              src="https://f005.backblazeb2.com/file/reitoouji/ro_Ak6759a793j94kH2.webp?timestamp=1733928853302"
               alt="happy drops (Kanata Solo)"
           />
       </div>
@@ -1434,6 +1484,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
           <span class="read"></span>
       </a>
   </div>
+  <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ve666ff0505Q7RN3.webp?timestamp=1727989004179"
+                alt="WILDLAND SURVIVOR"
+            />
+        </div>
+        <a href="/WILDLAND_SURVIVOR" class="storyName" target="_blank">
+            <span>WILDLAND SURVIVOR</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
 
 ## Other
@@ -1444,19 +1506,19 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/songs/ryuseitaialbum_300px.jpg"
-                alt="Ryuseitai Album Messages"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a432Y4urJyu0.webp?timestamp=1733927988162"
+                alt="Ryuseitai Album Campaign"
             />
         </div>
         <a href="/ryuseitai_album" class="storyName" target="_blank">
-            <span>Ryuseitai Album Messages</span>
+            <span>Ryuseitai Album Campaign</span>
             <span class="read"></span>
         </a>
     </div>
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/banner/esscoutquotes_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_mEZo675717a3Iad4.webp?timestamp=1733760932751"
                 alt="ES! 5* Scout Quotes"
             />
         </div>
@@ -1473,7 +1535,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/8thanniversary.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_4zJ9P6757171aNx5.webp?timestamp=1733760795618"
             alt="8th Anniversary (Ryuseitai)"
         />
     </div>
@@ -1485,7 +1547,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/9thanniversary.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_5iSwe6757174fDR5.webp?timestamp=1733760849152"
             alt="9th Anniversary (Ryuseitai)"
         />
     </div>
@@ -1497,7 +1559,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/dokisuta/cover.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_M67546279ywRRD61.webp?timestamp=1733583489497"
                 alt="Dokisuta Ryuseitai"
             />
         </div>
@@ -1509,12 +1571,65 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/songs/ryuseitaialbumtrip_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_6759a38eaAnoEhS0.webp?timestamp=1733927825677"
             alt="Ryuseitai Album TRIP"
         />
     </div>
     <a href="/ryuseitai_album_trip" class="storyName" target="_blank">
         <span>Ryuseitai Album TRIP Campaign</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_mEZo675717a3Iad4.webp?timestamp=1733760932751"
+            alt="Cafe Cinnamon Interview (Midori Takamine)"
+        />
+    </div>
+    <a href="/cinnamon_interview" class="storyName" target="_blank">
+        <span>Cafe Cinnamon Interview (Midori Takamine)</span>
+        <span class="read"></span>
+    </a>
+    </div>
+</div>
+
+## Information Posts
+
+<div class="stories">
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_Anh669f7c74b58a3.webp?timestamp=1721728121643"
+            alt="Kamen Rider Den-O and Gundam 00 Explanation (VS★GOURMET)"
+        />
+    </div>
+    <a href="/deno_and_gundam" class="storyName" target="_blank">
+        <span>Kamen Rider Den-O and Gundam 00 Explanation (VS★GOURMET)</span>
+        <span class="read"></span>
+    </a>
+    </div>
+    <!--<div class="story">
+        <div class="thumbimage">
+            <img
+                src="/img/es/idolstory/banner/ibukiidolstory1.jpg"
+                alt="About Ibuki Taki (FAQ)"
+            />
+        </div>
+        <a href="/about_ibuki" class="storyName" target="_blank">
+            <span>About Ibuki Taki (FAQ)</span>
+            <span class="read"></span>
+        </a>
+    </div>-->
+    <div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/idolstory/banner/fuyumeidolstory2.jpg"
+            alt="Midori Takamine and Fuyume Hanamura Story Masterpost"
+        />
+    </div>
+    <a href="/midori_fuyume" class="storyName" target="_blank">
+        <span>Midori Takamine and Fuyume Hanamura Story Masterpost</span>
         <span class="read"></span>
     </a>
     </div>

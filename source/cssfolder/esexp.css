@@ -1550,7 +1550,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_horrified.png");
 }
 [character="Subaru"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_idle.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_serious.png");
 }
 [character="Subaru"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_niya.png");
@@ -1571,7 +1571,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_norsmile2.png");
 }
 [character="Subaru"][norsmile3] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_norsmile3.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_norsmile.png");
 }
 [character="Subaru"][northinking] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/subaru_northinking.png");
@@ -1998,7 +1998,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_horrified.png");
 }
 [character="Eichi"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_idle.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_serious.png");
 }
 [character="Eichi"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/eichi_niya.png");
@@ -2277,7 +2277,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_horrified.png");
 }
 [character="Adonis"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_idle.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_serious.png");
 }
 [character="Adonis"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_niya.png");
@@ -2291,11 +2291,14 @@
 [character="Adonis"][nod2] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_nod2.png");
 }
+[character="Adonis"][norsmile0] {
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile0.png");
+}
 [character="Adonis"][norsmile] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile.png");
 }
 [character="Adonis"][norsmile2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile.png");
 }
 [character="Adonis"][norsmile3] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/adonis_norsmile3.png");
@@ -4802,7 +4805,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_frown.png");
 }
 [character="Tomoya"][frown2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_frown2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_frown.png");
 }
 [character="Tomoya"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_frownshake.png");
@@ -4829,7 +4832,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_horrified.png");
 }
 [character="Tomoya"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_idle.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_serious.png");
 }
 [character="Tomoya"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tomoya_niya.png");
@@ -5010,7 +5013,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_frown.png");
 }
 [character="Hajime"][frown2] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_frown2.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_frown.png");
 }
 [character="Hajime"][frownshake] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_frownshake.png");
@@ -5040,7 +5043,7 @@
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_horrified.png");
 }
 [character="Hajime"][idle] {
-  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_idle.png");
+  --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_serious.png");
 }
 [character="Hajime"][niya] {
   --icon:url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/hajime_niya.png");

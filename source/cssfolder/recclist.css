@@ -1,3 +1,4 @@
+/* To spread the post to the full page */
 .header {
     display: none;
 }
@@ -15,148 +16,71 @@
     box-sizing: border-box;
     width: 100%;
     margin-right: 0;
+    overflow: clip;
+}
+
+.main-inner .post-block {
+    box-shadow: none;
 }
 
 .footer-inner {
     padding-left: 0px;
 }
- 
+
+body {
+    background: var(--content-bg-color);
+}
+
+/* remove bookmark 
+.book-mark-link {
+    display: none;
+}
+*/
+
+/* scrollbar */
+::-webkit-scrollbar-thumb:vertical {
+    border-left: 5px solid #919191;
+}
+::-webkit-scrollbar {
+    width: 5px;
+}
+
 * {box-sizing:  border-box;}
 
-::-webkit-scrollbar-thumb:vertical {border-left:6px solid var(--body-bg-color);}
-::-webkit-scrollbar {width:6px}
-
-pre {font-family:consolas;
-    white-space: pre-wrap;       /* css-3 */
-    white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
-    white-space: -pre-wrap;      /* Opera 4- */
-    white-space: -o-pre-wrap;    /* Opera 7 */
-    word-wrap: break-word;}      /* Internet Explorer 5.5+ */
-
-body, figure{margin:0;padding:0}
-blockquote {margin:0;padding:0;}
-hr {border:0;border-top:1px solid var(--borders);margin:0;}
-
-/* filters sidebar */
-
-#hamburger-checkbox {display: none;}
-.hamburger {display: none;}
-
-#hamburger-checkbox:checked~#filters-navigation {
-    transition: 2s ease;
-    transform: translateX(0px);
-}
-
-figure.filters-image {
-    width:5rem;
-    height: 5rem;
-    margin:3rem auto;
-}
-
-img.filters-image {
-    width: 100%;
-    height: 100%;
-    display: block;
-    margin:auto;
-    border-radius: 100%;
-    object-fit:cover
-}
-    
-#filters-navigation {
-    width: 13rem;
-    height: 100vh;
-    position: fixed;top:0;bottom:0;left:0;
-    transition: 2s ease;
-    overflow: auto;
-    padding:  2rem;
-    background-color: var(--filters-background);
-    border-right: 1px solid var(--borders);
-}
-
-.button-group button {
-    display: block;
-    border: 0;
-    background-color: transparent;
-    padding: 0;
-    margin:1rem 0 0;
-    font-family: 'Karla', sans-serif!important;
-    color:var(--text);
-    text-align:left;
-    line-height:155%;
-}
-
-.button-group {
-    margin: 0 0 4rem;
-    padding-bottom: 4rem;
-    border-bottom: 1px solid var(--borders);
-}
-
-.button-group:last-of-type {
-    border-bottom: 0;
-    margin-bottom: 0;
-    padding-bottom: 0;
-}
-
-.button-group h3 {
-    text-transform: uppercase;
-    margin:0rem 0 2rem;
-}
-
-.button-group button:before {
-    font-family: 'Font Awesome 5 Free';
-    font-weight: 900;
-    color: var(--links);
-    content: '\f111';
-    margin-right: 1rem;
-    font-size: .5rem;
-}
-
-.button-group button:focus {outline: 0;}
-
-.is-checked {
-    color:var(--links)!important;
-    font-weight: 700;
-    transition-duration: .2s;
+.info-item {
+    border: solid 2px rgba(var(--storyColor-rgb), 0.4);
 }
 
 /* boxes */
-/**
-#main {
-    width: calc(100vw - 15rem);
-    padding: 3rem 0;
-    box-sizing: border-box;
-}**/
-
-#mainbox {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: center;
-    /**margin-left: 8rem;**/
+.storylist-grid {
+    width: 100%;
+    margin: 0 auto 25px;
 }
 
-.fanfic-box {
-    width: calc(50% - 10rem);
-    /*background: #fff;*/
+.storylist-box {
+    width: 25%;
+    min-width: 33%;
     border-radius: 0.4rem;
-    /**border: 1px solid rgba(90, 193, 137, 0.5);**/
-    margin: 1.5rem 2rem;
-    height: 30rem;
-    overflow: auto;
+    margin-top: 1.2rem;
+    height: 44rem;
+    max-width: 400px;
+    overflow: hidden;
     font-size: 14px;
 }
 
-.upper-section {
+.top-section {
     display: flex;
-    flex-flow: row wrap;
     justify-content: center;
 }
 
-/**figure.fanfic-image {
-    width: 13rem;
-    height: 5rem;
-}**/
+figure.storylist-image {
+    border-radius: 5px;
+    max-height: 6rem;
+    margin: 0 1rem;
+    padding: 0;
+}
 
-img.fanfic-image {
+img.storylist-image {
     width:100%;
     height:100%;
     object-fit: contain;
@@ -165,154 +89,147 @@ img.fanfic-image {
     border-radius: 5px;
 }
 
-.title-author,.star-rating {
-    overflow: auto;
-    /**height: 5rem;**/
-    flex-grow: 1;
+.second-section {
+    display: flex;
+    margin-top: .25em;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    border-radius: 5px;
+    border: 2px solid rgba(90, 193, 137, 0.4);
 }
 
-.title-top {
-    padding-bottom: .5rem;
-    width: 100%;
-    text-align: center;
-    margin: .2rem;
-}
-
-.title-author {
-    width: 100%;
-    text-align: center;
-    margin: .1rem;
-}
-
-.title {
-    font-size: 1.1rem;
-    font-weight: 700;
-}
-
-.author {
-    font-size: 0.7rem;
-    margin-top: 0.6rem;
-    font-style: italic;
-    letter-spacing: .05rem;
-    text-decoration: underline;
-}
-
-.author a{color:var(--text)}    
-
-.recommended .title:not(.no-icon)::before {
+.ryuseitai1 .second-section .title::before {
     content: '\f005';
     font-family: 'Font Awesome 5 Free';
     margin-right: .3rem;
+    padding-top: 1rem;
     color: #ff8910;
 }
 
-.recommended .title:not(.no-icon)::after {
-    content: '\f005';
-    font-family: 'Font Awesome 5 Free';
-    margin-left: .3rem;
-    color: #ff8910;
-}
-
-.star-rating {
-    width: 30%;
-    text-align: right;
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-around;
-    align-items: center;
-}
-
-.star-rating i{
-    font-size: .8rem;
-}
-
-.one-stars .fa-star:nth-of-type(1),
-.two-stars .fa-star:nth-of-type(-n+2),
-.three-stars .fa-star:nth-of-type(-n+3),
-.four-stars .fa-star:nth-of-type(-n+4),
-.five-stars .fa-star:nth-of-type(-n+5)
-{
-    color:var(--stars);
-}
-
-.ship-and-fandom {
-    display: flex;
-    flex-flow: row wrap;
-    justify-content: space-between;
-    padding: 0rem 0.5rem;
-    text-transform: uppercase;
-    letter-spacing: .04rem;
-}
-
-.ship {
-    width: 70%;
-    flex-grow: 1;
-}
-
-.fandom {
-    width: 30%;
-    flex-grow: 1;
-    padding-top: 30px;
-}
-
-.fandom {text-align: right;}
-
-.fanfic-summary {
-    margin: 0.8rem 0;
-    padding: 0 1rem;
-}
-
-.fanfic-links {
-    font-weight: 700;
+.second-section .title {
     font-size: 1.1rem;
-    padding-top: 0.5rem;
-    border-top: 1px solid var(--borders);
-    padding-right: 1rem;
-    text-align: right;
-    text-transform: uppercase;
-}
-
-.fanfic-info {
-    margin-top: 0.8rem;
-    border-top: 1px solid var(--borders);
-    font-size: 0.9rem;
-    padding: 0 1rem;
-    /**height: 25px;
-    overflow: auto**/
-}
-
-.fanfic-info li {display: inline-block;}
-
-.fanfic-info li:after {
-    content: ' ';
-    margin:0 1rem
-}
-
-.fanfic-info li:last-of-type:after {
-    content: '';
-    margin:0
-}
-.fanfic-info b {font-size: 0.9rem;}
-
-.fanfic-series {
-    text-transform: uppercase;
-    font-weight: 600;
+    font-weight: 700;
+    width: 50%;
+    padding-right: .7rem;
+    margin: auto 0 auto 1rem;
     text-align: center;
-    margin:2rem 0
+    text-wrap: wrap;
+    color: rgb(68, 99, 80);
 }
 
-.fanfic-series a{text-decoration: underline;}
-
-.fanfic-triggers {margin:1rem 0 0;}
-
-.fanfic-triggers li {
-    display: inline-block;
-    margin-right: 1rem;
+.second-section .no-tl {
+    font-size: .9em;
+    background: #828f87;
+    padding: .7em 1.25em .5rem;
+    border-radius: .25em;
+    text-align: center;
+    flex-shrink: 4;
+    transition: all 0.4s;
+    color: #fff;
 }
 
-.fa-triangle-exclamation {
-    margin-right:1rem;
-    color:yellow
+.second-section a {
+    font-size: 1em;
+    background: #149245;
+    padding: .7em 1.25em .5rem;
+    border-radius: .25em;
+    text-align: center;
+    flex-grow: 1;
+    transition: all 0.4s;
+    font-weight: 700;
+    color: #fff;
+    border-bottom: none;
+}
+
+.second-section a:hover {
+    background: rgb(90, 193, 137);
+    transition: all 0.4s;
+}
+
+a.unstyled {
+    background: none;
+    padding: 0;
+    color: #000000;
+    font-weight: 500;
+    border-radius: 0;
+    border-bottom: 1px solid #000;
+}
+
+a.unstyled:hover {
+    transition: all 0.4s;
+    background: none;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+}
+
+.tl-credit {   
+    font-size: .8em;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.story-summary .tl-credit {
+    text-align: center;
+}
+
+.three-wrapper {
+    margin-bottom: 7px;
+}
+
+.synopsis-border {
+    border-top: 1px dotted #446350;
+    padding-top: 0.3rem;
+    width: 80%;
+    margin: auto;
+}
+
+.small-synopsis {
+    padding-bottom: 0.4rem;
+}
+
+.story-summary {
+    border-radius: 5px;
+    margin: 0 1rem;
+    border: 2px solid rgba(90, 193, 137, 0.7);
+    padding: 5px 10px;
+    height: 14rem;
+    overflow: auto;
+    /*box-shadow: 0px 0px 6px 2px rgb(90, 193, 137, 0.6);*/
+}
+
+.story-summary .label {
+    padding: 0;
+    font-weight: 700;
+    font-size: 1.2em;
+    text-align: center;
+}
+
+ul.key-points {
+    padding: 0;
+    margin: .1rem 0;
+}
+
+.key-points li {
+    padding-bottom: 0.1rem;
+    font-size: 1.1em;
+    list-style-type: none;
+}
+
+.key-points .shinobu {
+    color: #ffc814;
+}
+
+.key-points .tetora {
+    color: #8B838E;
+}
+
+/* For character appearances */
+.info {
+    margin: 0 1rem;
+}
+
+.info-item>.label {
+    font-size: 1em;
 }
 
 .characters { 
@@ -331,113 +248,173 @@ img.fanfic-image {
     width: 40px;
     margin: 0 -3px;
 }
-/* medias */
 
-@media only screen and (min-width:0px) and (max-width:650px) {
-
-    #mainbox {
-        margin-left: 2.2rem;
-    }
-    
-    .fanfic-box {
-        width: calc(100% - 4rem);
-        padding: 0;
-        margin: 1.5rem 0rem;
-        height: 23rem;
-        overflow: auto;
-    }
-
-    .fanfic-summary {
-        height: 80px;
-        overflow: auto;
-    }
-
-    figure.fanfic-image {
-        width: 10rem;
-        height: 4rem;
-    }
-
-    .title-author {
-        width: calc(50% - 4rem);
-        margin: 0rem 0.3rem;
-        padding-top: .2rem;
-    }
+[character=ChiakiRecc] {
+    --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/chiakirecc.png")
 }
 
-@media only screen and (min-width:651px) and (max-width:1300px) {
+[character=KanataRecc] {
+    --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/kanatarecc.png")
+}
 
-    #mainbox {
-        /**margin-left: 2rem;**/
-        margin-left:0;
+[character=TetoraRecc] {
+    --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/tetorarecc.png")
+}
+
+[character=MidoriRecc] {
+    --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/midorirecc.png")
+}
+
+[character=ShinobuRecc] {
+    --charahead: url("https://cdn.jsdelivr.net/gh/310mc/css@latest/img/shinoburecc.png")
+}
+
+.ryuseitai-color {
+    color: #ff8910;
+}
+
+.three-wrapper .info-item.one {
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+}
+
+.three-wrapper .info-item.two {
+    grid-column: 2 / 5;
+}
+
+.three-wrapper .info-item.three {
+    display: none;
+}
+
+/* for filters */
+.filters-list {
+    width: 100%;
+    background: #44497b;
+    color: #fff;
+    border-radius: 5px;
+    padding: 0.01rem 0rem;
+    padding-right: 1rem;
+    font-size: 16px;
+}
+
+.filters-list li {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.filters-list li a {
+    margin: 0 5px;
+    color: #fff;
+    border-bottom: none;
+}
+
+.filters-list li a:link {
+    text-decoration: none;
+}
+
+.filters-list li a:visited {
+    text-decoration: none;
+}
+
+.filters-list li a:hover {
+    text-decoration: none;
+    color: #828f87;
+}
+
+.filters-list li a:active {
+    text-decoration: none;
+}
+
+.filters-list .star-color {
+    color: #ff8910;
+}
+
+.filters-title {
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-right: 1rem;
+}
+
+.selected {
+    font-weight: 700;
+    border-bottom: 2px solid #fff !important;
+}   
+
+/* medias */
+@media only screen and (max-width:650px) {
+
+    .storylist-grid {
+        padding: 3rem 0;
+        box-sizing: border-box;
+        width: 100%;
+        display: inline-block;
     }
 
-    .fanfic-box {
-        margin: 1.5rem 1rem;
-        padding: 0;
-        width: calc(50% - 4rem);
+    .storylist-box {
+        width: 100%;
+        margin: 0;
+        min-width: 100%;
+        margin-bottom: 2rem;
+        height: 46rem;
+        overflow: hidden;
     }
-/**
-    figure.fanfic-image {
-        width: 13rem;
-        height: 5rem;
-    }
-**/
-    .fanfic-summary {
-        height: 80px;
+
+    .story-summary {
+        height: 14rem;
         overflow: auto;
     }
 
+    .list {
+        padding-left: 1.1rem;
+    }
+
+}
+
+@media only screen and (min-width:651px) and (max-width:800px) {
+
+    .storylist-box {
+        width: 49%;
+    }
+
+}
+
+@media only screen and (max-width:1300px) {
+
+    .filters-list li a:hover {
+        color: none;
+    }
+
+}
+
+@media only screen and (min-width:1850px) {
+
+    .storylist-box {
+        min-width: 24%;
+    }
+    
 }
 
 @media (prefers-color-scheme: dark) {
-    .recommended .title:not(.no-icon)::before,
-    .recommended .title:not(.no-icon)::after {
-    color: #fcee21;
-  }
-}
 
-@media only screen and (min-width:0px) and (max-width:900px) {
-
-    .hamburger {display: block;}
-
-    .hamburger .fa-filter {
-        font-size: 1.7rem;
-        z-index: 9999999999999!important;
-        cursor:pointer;
-        position: fixed;top:1.7rem;left:1.7rem;
-        background-color: var(--filters-background);
-        padding: .9rem;
-        border-radius: 7px;
+    .filters-list {
+        background: #1b181d;
+        color: #fff;
     }
 
-    /**header {
-        width: 90%;
-        max-width: 100%;
-        margin: 10rem auto 0;
-        padding: 0;
-    }**/
-
-    #filters-navigation {
-        z-index: 9999999!important;
-        transform: translateX(-13rem);
-        box-sizing: border-box;
-        padding: 4rem 2rem 2rem;
+    .second-section .title {
+        color: #c0e7cb;
     }
 
-    #mainbox {
-        width: 95%;
-        padding: 3rem 0;
-        box-sizing: border-box;
+    .synopsis-border {
+        border-top: 1px dotted #9dbe9d;
     }
 
-}
-
-@media only screen and (min-width:2001px) and (max-width:99999999999px) {
-
-    .fanfic-box {
-        width: calc(33% - 8rem);
-        margin: 1.5rem 2rem;
-        flex-grow: 1;
+    :root {
+        --storyColor: #5ac189;
+        --storyColor-rgb: 90, 193, 137;
+        --storyColor-h: 147.4;
+        --storyColor-s: 45.4%;
+        --storyColor-l: 55.5%;
     }
-    
+
 }

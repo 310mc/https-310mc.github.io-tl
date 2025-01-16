@@ -5,7 +5,7 @@ description: About 310mc's Translation Archive Blog. Typically found translating
 
 ## Introduction
 
-{% img /img/banner/about.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jpU3m675717a3355.webp?timestamp=1733760934009 %}
 
 Heya, this is 310mc's Translation site! In here are my unofficial JP→ENG translations for Ensemble Stars. I also JP proofread for Enstars translators ♪
 
@@ -40,3 +40,5 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 BIGGEST thank you to <a href="https://twitter.com/riamuyumemi" target="_blank">Ren</a> who customized this *ENTIRE* site's code to be used for Enstars translators. It's literally all thanks to him that I can make all the translations look pretty and exciting! Another thank you to <a href="https://stars-ensemble.tumblr.com/" target="_blank">stars-ensemble</a> for guiding me with Github and helping me get used to the setup!
 
 Thank you to <a href="https://twitter.com/gradualcolors" target="_blank">gradualcolors</a> for their game assets (such as chibis, cards, banners, etc.), and the Ensemble Stars Wiki for its screenshots and data!
+
+Credits to <a href="https://www.w3schools.com/" target="_blank">w3schools</a> for various tutorials and how-to's for coding, especially the dropup list in my navigation bar!

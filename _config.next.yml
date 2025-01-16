@@ -85,7 +85,8 @@ menu:
   home: / || fa fa-home
   about: /about || fa fa-user
   Translations: /translations || fas fa-book
-  Ryuseitai Story List: /storylist/ryuseitai || fa fa-star
+  Ryuseitai Story List: /ryuseitaistory || fa fa-star
+  Ryuseitai Story Timeline: /ryuseitaitimeline || fa fa-star
   categories: /categories || fa fa-folder-open
   tags: /tags || fa fa-tags
   archives: /history || fa fa-history
