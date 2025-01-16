@@ -62,7 +62,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
 
 ## Chapter 9
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch9_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3trIVX67570ca8E6.webp?timestamp=1733758126396 %}
 
 <div class="msr-narration">
     <p>Next morning. In the agency office of Crimson Production’s headquarters…</p>
@@ -236,7 +236,7 @@ Ossu, roger that!
 
 ## Chapter 10
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch10_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_54v7mzL67570ca87.webp?timestamp=1733758127245 %}
 
 <div class="msr-narration">
     <p>A few minutes later. Within the Crimson Production building, at the film studio…</p>
@@ -457,7 +457,7 @@ While self-sacrifice is what makes a hero… Unlike me, you never wanted to beco
 All I ever wanted to be was someone I could be proud of — someone I could love.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch11_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8vF67570ca83OfZ3.webp?timestamp=1733758127620 %}
 
 {% bubble Tetora sad2 %}
 —I’ve always hated myself.
@@ -653,7 +653,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 
 ## Chapter 13
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch13_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8mh3A8hr0.webp?timestamp=1733758128782 %}
 
 <div class="msr-narration">
     <p>A week later. Within the city, at the ‘Supervillains’ promotion concert venue…</p>
@@ -681,7 +681,7 @@ I swear to you — This time around, I won’t make any bit of that go to waste.
 “The embodiment of the blackened earth and great nature! Ryusei Black No.4, Takamine Midori!”
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vS6d67570ca8CnO4.webp?timestamp=1733758128455 %}
 
 {% bubble Shinobu v2 %}
 “Ryusei Black No.5! The embodiment of the black darkness! Sengoku Shinobu! Nin-nin…♪”
@@ -754,11 +754,11 @@ Exactly what a “transformation” is all about.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
-Well, it works as a good rehearsal for the filming of ‘Supervillains’…
+Well, it works as a rehearsal for our acting performance in the blockbuster show ‘Supervillains’…
 {% endbubble %}
 
 {% bubble Midori nod2 %}
-With the usual Ryuseitai, I don’t really get to play as a villain ‘cause Morisawa-senpai doesn’t like those roles much, so this feels new…
+With the usual Ryuseitai, I don’t really play the villain role ‘cause Morisawa-senpai doesn’t like it, so this feels new…
 
 Ahh\~ It’s sooo much easier to play the villain\~ You don’t have to worry about all kinds of things\~…♪
 
@@ -766,7 +766,7 @@ I don’t have to preach about justice or morality or whatever else I don’t ev
 {% endbubble %}
 
 {% bubble Chiaki shocked %}
-Y-You disliked playing the ally of justice that much!? You could’ve told me so!
+Y-You disliked playing the hero of justice that much!? Then you could’ve told me so!
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
@@ -1131,7 +1131,7 @@ What we need to defeat, or simply improve, is the environment itself.
 The very system within the world that taints ordinary people with evil.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_PS67570dc3O7i0C2.webp?timestamp=1733758407187 %}
 
 {% bubble Chiaki smilesoft2 %}
 And as for you — You’re trying to achieve that *exact* sort of justice by denouncing Crimson Production.
@@ -1150,7 +1150,7 @@ And I can assure you that I’m not saying any of this to coddle you.
 {% bubble Tetora norsmile2 %}
 …Ossu.
 
-Thank you, Senpai. Thank you for always watching over me and appreciating me.
+Thank you, Senpai — for always watching over me and appreciating me.
 {% endbubble %}
 
 {% bubble Tetora smilesoft %}
@@ -1166,7 +1166,7 @@ This time around, I’ve walked my own path away from you. A pitch dark path[^5]
 
 —The path of evil.
 
-And that’s where I finally felt something change in me — I saw the possibility that I could surpass you and become greater than you.
+And that’s where I finally felt something change in me — I saw the possibility that I could surpass you and become someone greater than you.
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
@@ -1181,7 +1181,7 @@ Then I’ll grasp onto something, and become a bigger man than you’ve ever bee
 No, it’s not even about that, really. That’s <em>exactly</em> who I want to be.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fwmIf67570ca8Md5.webp?timestamp=1733758128700 %}
 
 {% bubble Tetora svbcg %}
 I’ll become someone that I can love. Even if it’s hard for me now, someday, for sure…
@@ -1209,6 +1209,17 @@ But I’m certain of one thing — Our paths will surely lead us all down to the
                 </a>
             </div>
             <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/supervillain/prologue">Prologue</a>
+                    <a href="/supervillain/dark_star">Dark Star</a>
+                    <a href="/supervillain/supersized_villain">Supersized Villain Ch1–8</a>
+                    <div>Supersized Villain Ch9–15</div>
+                    <a href="/supervillain/epilogue">Epilogue</a>
+                    <a href="/supervillain/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/supervillain/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

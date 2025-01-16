@@ -67,7 +67,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p>The following chapters contain descriptions of violence, and mentions of bullying.</p>
 </div>
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_q2URC67570ca8oD5.webp?timestamp=1733758128550 %}
 
 <div class="msr-narration">
     <p>Later in the day. In Okinawa, within the forested area, where Crimson Production resides…</p>
@@ -115,7 +115,7 @@ Hello, Kanata? Takamine’s with you, right?
 Yeah, it looks worse than we expected. I’m planning to get out of here immediately, so you guys pack your bags and get to the airport as soon as possi—
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_N67570ca8P7UPhl1.webp?timestamp=1733758127850 %}
 
 {% bubble Tetora vside %}
 —You talk to yourself a lot, “Taichou”.
@@ -251,7 +251,7 @@ If you don’t, this is what’s gonna happen.
 —……!
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ShFo67570dc3zEa4.webp?timestamp=1733758406159 %}
 
 {% bubble Chiaki svocg %}
 … … …………
@@ -625,7 +625,7 @@ I choose to deliberately tell you, my immature and foolish junior, my favorite p
 
 ## Chapter 4
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0xobydB67570ca87.webp?timestamp=1733758127675 %}
 
 <div class="msr-narration">
     <p>Nearly an hour later. Inside Crimson Production’s agency office…</p>
@@ -708,7 +708,7 @@ Ahh, I didn’t know you used to talk normally when you were young. Makes sense,
 {% endbubble %}
 
 {% bubble Tetora idle %}
-Yeah, I was trained thoroughly to speak that way when I started learning karate, or well, it’s just that it became so natural to start saying “Ossu” and the like.
+Yeah, I was trained thoroughly to speak in a different way when I started learning karate, or well, it’s just that it became so natural to start saying “Ossu” and the like.
 
 In Shinkai-senpai’s case, it feels as though he may have been this way for a long time — but “Shinobu-kun” didn’t always speak like a ninja either, did he?
 {% endbubble %}
@@ -802,7 +802,7 @@ But if I ever end up getting obsessed with all that hatred, that’s when I’ll
 
 There are a lot of things I don’t like about ES and our agency, but that doesn’t mean I think they’re all hateful, evil beings to be trampled on.
 
-There have been just as many happy, grateful things that have happened to me at ES. And there are also a lot of people I love there.
+There have been just as many things that have happened to me at ES that made me feel happy or grateful. And there are also a lot of people I love there.
 {% endbubble %}
 
 {% bubble Shinobu norsmile %}
@@ -868,7 +868,7 @@ Apparently, there was a huge dispute with a local vigilante-like group called �
 {% endbubble %}
 
 {% bubble Kanata smile %}
-ah— i have heard of mr. [oni]. apparently, they had an association with the [okinawan] people who still [worship] me.
+ah— i have heard of [oni]-san. apparently, they had an association with the [okinawan] people who still [worship] me.
 
 but now, because their [boss] is no longer around, they appear to have [disbanded].
 {% endbubble %}
@@ -901,7 +901,7 @@ It’s a real battle between evil and evil, doing all they can to devour and cru
 
 ## Chapter 6
 
-{% img /img/es/eventstory/supervillain/supersizedvillainch6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_A67570ca8t6tNgx1.webp?timestamp=1733758127378 %}
 
 <div class="msr-narration">
     <p>Later that night. In the film studio within Crimson Production…</p>
@@ -1170,7 +1170,7 @@ You can see how that led me to have no opportunity to get in contact with any of
 {% bubble Tetora frown %}
 Apparently, it’s because the current head of Crimson Production is extremely paranoid.
 
-I guess he’s just being cautious after having been thoroughly beaten by Oni once before, though.
+I guess he’s just being cautious after having been thoroughly beaten by the people from Oni once before, though.
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}
@@ -1178,7 +1178,7 @@ Oni, huh… Can’t we rely on people from the vigilante group? They’re in opp
 {% endbubble %}
 
 {% bubble Tetora idle %}
-Yeah. They’re a local vigilante group, but now that the boss has moved to the US, they’ve weakened in power.
+Yeah. They’re a local vigilante group, but since the boss has moved to the US, they’ve now weakened in power.
 
 They have no chance of opposing Crimson Production with the way they are right now.
 {% endbubble %}
@@ -1386,6 +1386,17 @@ Let’s also assemble a happy ending for our reality — an ending that everyone
                 </a>
             </div>
             <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/supervillain/prologue">Prologue</a>
+                    <a href="/supervillain/dark_star">Dark Star</a>
+                    <div>Supersized Villain Ch1–8</div>
+                    <a href="/supervillain/supersized_villain_p2">Supersized Villain Ch9–15</a>
+                    <a href="/supervillain/epilogue">Epilogue</a>
+                    <a href="/supervillain/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/supervillain/supersized_villain_p2" title="Next Chapter: Supersized Villain (Chapter 9–15)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

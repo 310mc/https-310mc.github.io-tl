@@ -79,7 +79,7 @@ This story is connected to the card [Upperclassman’s Present] Midori Takamine.
 {% img /img/es/idolstory/morningpractice/1.jpg %}
 
 {% bubble Chiaki grin2 %}
-<em><th>(Breathe in, breathe out)… (Breathe in, breathe out)</th></em>…♪
+<em><th>(Breathe in, breathe out)</th>… <th>(Breathe in, breathe out)</th></em>…♪
 
 Mhm, that’s Takamine’s house over there! ☆ My sixth sense tells me so…!
 

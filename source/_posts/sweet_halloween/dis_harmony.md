@@ -25,16 +25,16 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
-                <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                    <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                    <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -76,7 +76,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p><span><b>Location:</b> Classroom 1-A</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/disharmony1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Z6Wt6756fd83gNi4.webp?timestamp=1733754254307 %}
 
 {% bubble Tomoya sigh %}
 *Sigh…*
@@ -254,7 +254,7 @@ So we’re all in the same boat together this time~♪
     <p><span><b>Location:</b> At the Fountain</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/disharmony2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_wm6756fd83QIVed2.webp?timestamp=1733754252485 %}
 
 {% bubble Kanata v2 %}
 *puka, puka…♪*
@@ -300,7 +300,7 @@ Wffhg!? Bffppt — A bit of water splashed into my mouth!
 Shinkai-dono, pleaaase\~! Don't splash around like a little child! Get out of there already\~!
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/disharmony2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7E6756fd83XooNS2.webp?timestamp=1733754252024 %}
 
 {% bubble Madara %}
 Hahaha! *How peaceful!* You’re getting along with a junior — I didn’t expect that! How fortunate for youuu, Kanata-san~♪
@@ -364,7 +364,7 @@ Besides, I can grow to love almost anything as long as it is ninja-related~
 
 ## Chapter 3
 
-{% img /img/es/eventstory/sweethalloween/disharmony3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hsrg3H6756fd83e6.webp?timestamp=1733754254909 %}
 
 {% bubble Mitsuru %}
 Slaaam! ☆
@@ -480,7 +480,7 @@ three [units] together… that is a pretty large amount of [people]. hmm, will w
     <p><span><b>Location:</b> Basketball Court</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/disharmony4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_F6756fd83AghUG51.webp?timestamp=1733754253574 %}
 
 {% bubble Chiaki srsthinking %}
 ……………
@@ -840,7 +840,7 @@ Okaaay~ You may end up needing the toilet if you drink it too quickly, so please
 …………
 {% endbubble %}
 
-{% bubble Nazuna sigh2 %}
+{% bubble Nazuna sighdrop %}
 <th>(Mmm… Hajime-chin and Tomo-chin are still acting awkward around each other…)</th>
 
 <th>(I thought that things between them would go back to normal after a while, since it’s those two we’re talking about, but I guess not…)</th>
@@ -1038,6 +1038,18 @@ So, what do *you* want to do? You’ve been given plenty of choices, so think cl
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/sweet_halloween/prologue">Prologue</a>
+                    <div>dis harmony</div>
+                    <a href="/sweet_halloween/sweet_home">sweet home Ch1–6</a>
+                    <a href="/sweet_halloween/sweet_home_p2">sweet home Ch7–11</a>
+                    <a href="/sweet_halloween/lets_party">let's party!</a>
+                    <a href="/sweet_halloween/epilogue">Epilogue</a>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/sweet_halloween/sweet_home" title="Next Chapter: sweet home (Chapter 1–6)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -71,22 +71,22 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 ## Chapter 1
 
 {% note narration %}
-**Chapter Translation Note:** Nirai-Kanai is Okinawan for “The paradise across the ocean” or “The paradise on the bottom of the ocean”, i.e. the land of the gods. One way to put it in Japanese is *umi no kanata*, so on top of everything else, it’s also a wordplay with Kanata’s name.
+**Chapter Translation Note:** Nirai-Kanai refers to the Ryukyuan religious belief of a “land of the gods”: a paradise across the sea or beyond the horizon. As an interesting note, Kanata’s name is homophonous with the word meaning “beyond (the other side)”.
 {% endnote %}
 
-<a href="https://verdantgrove.dreamwidth.org/16284.html" target="_blank"><img src="/img/es/eventstory/submarine/chsoumakuro.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/16284.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_qfL6759eeb3qSmB3.webp?timestamp=1733947066069" style="width:100%;height:100%;"></a>
 
-**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/16284.html" target="_blank">Click here to read Chapter 11!</a>**
+**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/16284.html" target="_blank">Click here to read Chapter 1!</a>**
 
 ## Chapter 2
 
-<a href="https://verdantgrove.dreamwidth.org/16854.html" target="_blank"><img src="/img/es/eventstory/submarine/chsoumakuro.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/16854.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_qfL6759eeb3qSmB3.webp?timestamp=1733947066069" style="width:100%;height:100%;"></a>
 
-**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/16854.html" target="_blank">Click here to read Chapter 12!</a>**
+**This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/16854.html" target="_blank">Click here to read Chapter 2!</a>**
 
 ## Chapter 3
 
-{% img /img/es/eventstory/submarine/p2ch3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RBVBB6759f21dBo5.webp?timestamp=1733947936922 %}
 
 <div class="msr-narration">
     <p>Several minutes later, at the restaurant that Akatsuki frequents…</p>
@@ -390,7 +390,7 @@ The truth is, it seems that our Kanata has been enshrined as a god by a local re
 
 ## Chapter 5
 
-{% img /img/es/eventstory/submarine/p2ch5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8KVQ6759f21dkMd4.webp?timestamp=1733947936286 %}
 
 <div class="msr-narration">
     <p>That night, in a prohibited area within Okinawa…</p>
@@ -592,7 +592,7 @@ Everything we’ve been through since spring has taken a huge toll on us, but I 
 
 ## Chapter 6
 
-{% img /img/es/eventstory/submarine/kanataorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_E6759f004pILveH1.webp?timestamp=1733947401733 %}
 
 <div class="msr-narration">
     <p>At the same time, deep within the cave eroded by water…</p>
@@ -636,7 +636,7 @@ Everything we’ve been through since spring has taken a huge toll on us, but I 
 <th>(that Child would listen to Whatever i say, after all. unlike the children from my unit, he has yet to enter his Rebellious phase—)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p2ch6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KhQ59cH6759f21d7.webp?timestamp=1733947937044 %}
 
 {% bubble Shinobu worried %}
 Please listen to us, Kanzaki-dono! You are not allowed to go beyond here! It’s off-limits!
@@ -946,7 +946,7 @@ O-Ossu, roger that! You’re awesome, Taishou, you always get me every time! ☆
 Nah, it’s just that I’m like that, too. Let the smart people figure out the hard stuff — Things usually work out better that way.
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p2ch7_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JyBA46759f21dHP5.webp?timestamp=1733947938285 %}
 
 {% bubble Tetora fist %}
 Ossu, understood! But unfortunately, nobody in Ryuseitai is smart!
@@ -978,7 +978,7 @@ Ugh, nothing is making any sense! Just *what* is going on here…!?
 
 ## Chapter 8
 
-{% img /img/es/eventstory/submarine/p2ch8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YiuhW6759f21dGU5.webp?timestamp=1733947938120 %}
 
 <div class="msr-narration">
     <p>Next morning. After waiting for the break of dawn — on the boat ride back to the mainland…</p>
@@ -1194,7 +1194,7 @@ so that is the reason. it is simply much more Convenient for everyone that way.
 
 ## Chapter 9
 
-{% img /img/es/eventstory/submarine/p2ch9_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_cD6759f21ddpJ3j2.webp?timestamp=1733947936997 %}
 
 <div class="msr-narration">
     <p>Several hours later, at the ryokan for ES idols — Ryuseitai’s room…</p>
@@ -1351,7 +1351,7 @@ Oh? Well, don’t you worry, Takamine! I’m *extremely* interested in you!
 {% endbubble %}
 
 {% bubble Midori frown2 %}
-That’s just creepy. Please go die.
+That’s just gross. Please go die.
 {% endbubble %}
 
 {% bubble Chiaki surprised0 %}
@@ -1568,13 +1568,13 @@ We are idols affiliated with ES. If that ES has bared its fangs toward us with m
 
 ## Chapter 11
 
-<a href="https://verdantgrove.dreamwidth.org/17542.html" target="_blank"><img src="/img/es/eventstory/submarine/chgatekeeper.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/17542.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_vfrr0pL6759eeb37.webp?timestamp=1733947066688" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/17542.html" target="_blank">Click here to read Chapter 11!</a>**
 
 ## Chapter 12
 
-{% img /img/es/eventstory/submarine/p2ch12_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_M1h36759f21dJt64.webp?timestamp=1733947937961 %}
 
 <div class="msr-narration">
     <p>The next day, at noon — At a sandy beach in Okinawa, during Ryuseitai and Akatsuki’s match…</p>
@@ -1682,7 +1682,7 @@ And that means — we ended up with this decision *because* everyone preferred p
 Gentlemen, feast your eyes on this!
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/soumaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_M6759f391Gsxdir1.webp?timestamp=1733948312519 %}
 
 {% bubble Souma smileconfident %}
 This is a secret technique of the Kanzaki blade style: Dance of Divine Slicing[^6]…!
@@ -1806,7 +1806,7 @@ Ossu, I appreciate it. I’ll dig in!
 <th>(Was I just being overly self-conscious by thinking they were paying too much attention to me…? Ugh, I’m such an embarrassment…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p2ch13_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_MX6759f21dY7T2L2.webp?timestamp=1733947936826 %}
 
 {% bubble Kanata smile %}
 fufu. this is truly so Peaceful and Relaxing~♪
@@ -2066,6 +2066,16 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
                 </a>
             </div>
             <a target="_blank" href="/submarine" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="https://verdantgrove.dreamwidth.org/7838.html">Prologue</a>
+                    <a href="/submarine/ruthless_battlefield">Ruthless Battlefield, Okinawa</a>
+                    <div>Nirai-Kanai</div>
+                    <a href="/submarine/epilogue">Epilogue</a>
+                    <a href="/submarine/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/submarine/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -2074,9 +2084,9 @@ Anzu-dono! We are happily performing our *idol* activities here in the far south
 
 ## Translation Notes
 
-[^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/main-sections/translations/Event-Stories/Scroll-of-the-Elements/scrolls-preview.html" target="_blank">Akatsuki and Ryuseitai story</a>.
+[^1]: Scroll of the Elements is an <a href="https://citrinesea.github.io/translation/scroll_of_the_elements/" target="_blank">Akatsuki and Ryuseitai story</a> from ! Era (Yumenosaki) days.
 [^2]: Referring to Chapter 200 of the first main story.
-[^3]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian from Okinawan mythology.
+[^3]: King Caesar is a kaijuu in Godzilla. It looks like a Shisa, a guardian that wards evil, found in Ryukyuan beliefs.
 [^4]: For anyone interested, <a href="https://www.youtube.com/watch?v=vJmWVWCdTYo" target="_blank">here is a video</a> that discusses how Japan views religion, that I found to be relevant to this story.
 [^5]: Typically, <em>kakusu</em> means to conceal, but it has an archaic meaning to say “to behead”.
 [^6]: “The Dance of Divine Slicing” shares a pronunciation with the name <em>Kanzaki</em>, the <em>kan</em> in the technique being “god”, and the <em>zaki</em> being “to slice; cut open.” This is also related to his role as a Kanzaki mentioned earlier in the story, as well as in <a href="/meteor_impact" target="_blank">Meteor Impact</a> (One Year Ago, Chapter 11).

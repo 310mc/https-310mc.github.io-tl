@@ -68,13 +68,13 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 
 ## Chapter 1
 
-<a href="https://verdantgrove.dreamwidth.org/13777.html" target="_blank"><img src="/img/es/eventstory/submarine/chsoumakeito.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/13777.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_h6xTh6759eeb3zb5.webp?timestamp=1733947066516" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/13777.html" target="_blank">Click here to read Chapter 1!</a>**
 
 ## Chapter 2
 
-<a href="https://verdantgrove.dreamwidth.org/14046.html" target="_blank"><img src="/img/es/eventstory/submarine/chakatsukionly.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/14046.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_o6759eeb3xL67Tn1.webp?timestamp=1733947066255" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/14046.html" target="_blank">Click here to read Chapter 2!</a>**
 
@@ -89,7 +89,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
     <p><span><b>Location:</b> Tropical Island Sandy Beach</span></p>
 </div>
 
-{% img /img/es/eventstory/submarine/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_B6759eeb3WgWt4q1.webp?timestamp=1733947066180 %}
 
 <div class="msr-narration">
     <p>Around an hour later…</p>
@@ -107,7 +107,7 @@ You can’t allow such evil to take control of you! You all need to stop fightin
 Why do you think we have a mouth to speak, a heart to feel, and words to express ourselves with? It’s so you can talk it out with your foe and get along with one another!
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p1ch3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_g6759f1889YRHHH1.webp?timestamp=1733947789181 %}
 
 {% bubble Keito serious %}
 Morisawa.
@@ -191,7 +191,7 @@ But considerin’ we accepted their challenge and all, I’m basically onstage r
 I can’t be lookin’ all pathetic in front of all these other people, so I’m pushin’ myself through this as much as I can.
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p1ch3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2VXd6759f1884te4.webp?timestamp=1733947790501 %}
 
 {% bubble Souma v3 %}
 Haha, Hasumi-dono and I alone were sufficient enough to rout such miniscule foes.
@@ -251,7 +251,7 @@ Haha… I don’t really want Tetsu seein’ me like this.
     <p><span><b>Location:</b> Okinawa Restaurant</span></p>
 </div>
 
-{% img /img/es/eventstory/submarine/p1ch4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lkTF6759f188H6p4.webp?timestamp=1733947790147 %}
 
 <div class="msr-narration">
     <p>Another hour or so passes…</p>
@@ -273,7 +273,7 @@ But I doubt the Akatsuki members would do anything lame like that, so we should 
 It doesn’t feel right to call it harassment, in my opinion. I feel as though it was just bad timing on both sides — like an unfortunate accident.
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/p1ch4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_n6759f188tYT9al1.webp?timestamp=1733947789920 %}
 
 {% bubble Midori awkward %}
 Your soul is so pure, Shinobu-kun… I hope you stay that way forever…
@@ -901,7 +901,7 @@ Okinawa seems to be a much more ruthless battlefield than I had anticipated. How
 
 ## Chapter 8
 
-{% img /img/es/eventstory/submarine/p1ch8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uMyps6759f188AV5.webp?timestamp=1733947788356 %}
 
 <div class="msr-narration">
     <p>At around the same time, at the ryokan for ES idols…</p>
@@ -1055,7 +1055,7 @@ Hah? The hell’s goin’ on…?
 
 ## Chapter 9
 
-{% img /img/es/eventstory/submarine/p1ch9_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QE0HA3g6759f1887.webp?timestamp=1733947789762 %}
 
 <div class="msr-narration">
     <p>That evening, in Ryuseitai’s room inside the ryokan exclusively for ES idols…</p>
@@ -1485,13 +1485,13 @@ That sort of wishy-washy stance is not the hero I’ve aspired to be since I was
 
 ## Chapter 11
 
-<a href="https://verdantgrove.dreamwidth.org/15809.html" target="_blank"><img src="/img/es/eventstory/submarine/chakatsukionly.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/15809.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_o6759eeb3xL67Tn1.webp?timestamp=1733947066255" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/15809.html" target="_blank">Click here to read Chapter 11!</a>**
 
 ## Chapter 12
 
-<a href="https://verdantgrove.dreamwidth.org/15894.html" target="_blank"><img src="/img/es/eventstory/submarine/chakatsukionly.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/15894.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_o6759eeb3xL67Tn1.webp?timestamp=1733947066255" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/15894.html" target="_blank">Click here to read Chapter 12!</a>**
 
@@ -1509,6 +1509,16 @@ That sort of wishy-washy stance is not the hero I’ve aspired to be since I was
                 </a>
             </div>
             <a target="_blank" href="/submarine" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="https://verdantgrove.dreamwidth.org/7838.html">Prologue</a>
+                    <div>Ruthless Battlefield, Okinawa</div>
+                    <a href="/submarine/nirai_kanai">Nirai-Kanai</a>
+                    <a href="/submarine/epilogue">Epilogue</a>
+                    <a href="/submarine/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/submarine/nirai_kanai" title="Next Chapter: Nirai-Kanai"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -61,10 +61,10 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p><span><b>Season:</b> Summer (after Comet Show)</span></p>
 </div>
 
-{% img /img/es/eventstory/supervillain/prologue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_f667570beaVpsSl2.webp?timestamp=1733757937020 %}
 
 <div class="msr-narration">
-    <p>ES’s first year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: ‘Supervillains’…</p>
+    <p>ES’s 1st year of establishment. Right after Comet Show — during rehearsal for the upcoming spring show: ‘Supervillains’…</p>
 </div>
 
 {% bubble Tetora surprised0 %}
@@ -230,6 +230,17 @@ the ryuseitai that we love would come to an [end] here.
                 </a>
             </div>
             <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/supervillain/dark_star">Dark Star</a>
+                    <a href="/supervillain/supersized_villain">Supersized Villain Ch1–8</a>
+                    <a href="/supervillain/supersized_villain_p2">Supersized Villain Ch9–15</a>
+                    <a href="/supervillain/epilogue">Epilogue</a>
+                    <a href="/supervillain/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/supervillain/dark_star" title="Next Chapter: Dark Star"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

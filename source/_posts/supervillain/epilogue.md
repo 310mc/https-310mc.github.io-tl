@@ -61,7 +61,7 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p><span><b>Location:</b> In the training room within ES</span></p>
 </div>
 
-{% img /img/es/eventstory/supervillain/epilogue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iipjC7d67570d3e7.webp?timestamp=1733758271684 %}
 
 <div class="msr-narration">
     <p>Time passes since then…</p>
@@ -297,6 +297,17 @@ It really is just like us Ryuseitai to be messing around like this, right?
                 </a>
             </div>
             <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/supervillain/prologue">Prologue</a>
+                    <a href="/supervillain/dark_star">Dark Star</a>
+                    <a href="/supervillain/supersized_villain">Supersized Villain Ch1–8</a>
+                    <a href="/supervillain/supersized_villain_p2">Supersized Villain Ch9–15</a>
+                    <div>Epilogue</div>
+                    <a href="/supervillain/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

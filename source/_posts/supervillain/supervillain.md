@@ -15,11 +15,11 @@ permalink: supervillain/
 
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/supervillain/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8Hd3uXaI0.webp?timestamp=1733758129403')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Supervillain</div>
-                <div class="title-area__subtitle">スーパーヴィラン</div>
+                <div class="title-area__subtitle">Colored Stars, Reborn! The Universe That Envelops Everything Whole</div>
                 <div class="title-area__start"><a href="/supervillain/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -104,14 +104,14 @@ permalink: supervillain/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/supervillain/tetoraorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_l9mZzf67570ca8g6.webp?timestamp=1733758126574)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8Hd3uXaI0.webp?timestamp=1733758129403"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Supervillain</div>
-                <div class="title-area__subtitle">スーパーヴィラン</div>
+                <div class="title-area__subtitle">Colored Stars, Reborn! The Universe That Envelops Everything Whole</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -215,7 +215,7 @@ permalink: supervillain/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_l9mZzf67570ca8g6.webp?timestamp=1733758126574">
                                 </div>
                                 <div class="caption">
                                     Dark Star 4
@@ -223,7 +223,7 @@ permalink: supervillain/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/shinobuorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_hbC67570ca8EZGU3.webp?timestamp=1733758127283">
                                 </div>
                                 <div class="caption">
                                     Dark Star 6
@@ -231,7 +231,7 @@ permalink: supervillain/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ShFo67570dc3zEa4.webp?timestamp=1733758406159">
                                 </div>
                                 <div class="caption">
                                     Supersized Villain 2
@@ -239,7 +239,7 @@ permalink: supervillain/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/shinobubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vS6d67570ca8CnO4.webp?timestamp=1733758128455">
                                 </div>
                                 <div class="caption">
                                     Supersized Villain 13
@@ -247,7 +247,7 @@ permalink: supervillain/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_PS67570dc3O7i0C2.webp?timestamp=1733758407187">
                                 </div>
                                 <div class="caption">
                                     Supersized Villain 15
@@ -255,7 +255,7 @@ permalink: supervillain/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/supervillain/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_fwmIf67570ca8Md5.webp?timestamp=1733758128700">
                                 </div>
                                 <div class="caption">
                                     Supersized Villain 15
@@ -273,10 +273,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ysu67570ca8BS9v3.webp?timestamp=1733758123567">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8MO7Sl67570ca8b6.webp?timestamp=1733758123348">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -309,10 +309,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8EoKzl7M0.webp?timestamp=1733758124300">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_f8elW67570ca8pW5.webp?timestamp=1733758124263">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -345,10 +345,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_yfUHO67570dc31e5.webp?timestamp=1733758405413">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_867570dc3lwa6M21.webp?timestamp=1733758406016">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -381,10 +381,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoriframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_NbahY67570e11ZI5.webp?timestamp=1733758484613">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_3xgOt2g67570e117.webp?timestamp=1733758483644">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -417,10 +417,10 @@ permalink: supervillain/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanataframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570e115iRzojQ0.webp?timestamp=1733758482902">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_7moac67570e11K75.webp?timestamp=1733758483408">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -532,7 +532,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ysu67570ca8BS9v3.webp?timestamp=1733758123567"
                 alt="The Planning Of That Show"
             />
         </div>
@@ -544,7 +544,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_8MO7Sl67570ca8b6.webp?timestamp=1733758123348"
                 alt="Unaligned Feelings"
             />
         </div>
@@ -556,7 +556,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8EoKzl7M0.webp?timestamp=1733758124300"
                 alt="What An Evil Ninja Is"
             />
         </div>
@@ -568,7 +568,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_f8elW67570ca8pW5.webp?timestamp=1733758124263"
                 alt="Preparing For The Mission"
             />
         </div>
@@ -580,7 +580,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_yfUHO67570dc31e5.webp?timestamp=1733758405413"
                 alt="Hungry Hero"
             />
         </div>
@@ -592,7 +592,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_867570dc3lwa6M21.webp?timestamp=1733758406016"
                 alt="The Path of a Hero Turning Evil"
             />
         </div>
@@ -604,7 +604,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_NbahY67570e11ZI5.webp?timestamp=1733758484613"
                 alt="Recommendations"
             />
         </div>
@@ -616,7 +616,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_3xgOt2g67570e117.webp?timestamp=1733758483644"
                 alt="Work, work, work"
             />
         </div>
@@ -628,7 +628,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_67570e115iRzojQ0.webp?timestamp=1733758482902"
                 alt="planning a trip"
             />
         </div>
@@ -640,7 +640,7 @@ permalink: supervillain/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_7moac67570e11K75.webp?timestamp=1733758483408"
                 alt="sea crook"
             />
         </div>

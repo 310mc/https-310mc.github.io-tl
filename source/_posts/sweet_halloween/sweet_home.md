@@ -25,16 +25,16 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
-                <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                    <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                    <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -76,7 +76,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethome1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_S9m4j675700637H5.webp?timestamp=1733754984714 %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -166,7 +166,7 @@ Shut it. Uuu\~… I guess I could just roll my pants up if there isn’t anythin
 It’s really unusual for something prepared by Anzu to be like this… Did she get my size wrong?
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/sweethome1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ogmZwH6757006346.webp?timestamp=1733754985869 %}
 
 {% bubble Mitsuru %}
 Nii\~chan, Nii\~chan! Maybe yours is mixed up with mine? Look, I’m having the opposite problem! It doesn’t reach my feet!
@@ -268,7 +268,7 @@ O-Okay. Wait— Then why are *Mitsuru-chin’s* pants not long enough?
 Huh—? Ah— Uuu…? I bet I messed up and wore yours, too! A-Ahaha! So your legs were short all along, Nii~chan!
 {% endbubble %}
 
-{% bubble Nazuna sigh2 %}
+{% bubble Nazuna sighdrop %}
 They’re not short, I’m just short in general… I’ve completely stopped growing in size, haven’t I……
 {% endbubble %}
 
@@ -408,7 +408,7 @@ Uuu… Whenever Mikejima-san’s around, it starts to feel like my past seniors 
     <p><span><b>Location:</b> Halloween Party Hallway</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethome3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rv67570063oCoUB2.webp?timestamp=1733754985408 %}
 
 {% bubble Shinobu v2 %}
 Hup, here we go…♪
@@ -586,7 +586,7 @@ Mm… No, I’m the one who’s sorry… I’m also shocked by my own reaction�
 
 ## Chapter 4
 
-{% img /img/es/eventstory/sweethalloween/sweethome4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ff67570063TSvLx2.webp?timestamp=1733754985879 %}
 
 {% bubble Midori curious %}
 But no, really… Hasn’t Morisawa-senpai been kinda off…?
@@ -668,7 +668,7 @@ Mmm\~…? He really *is* acting weird… Or like, he’s trying really, *really*
     <p><span><b>Location:</b> Garden Terrace’s Kitchen</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethome4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_9lesMd67570063O6.webp?timestamp=1733754986521 %}
 
 {% bubble Madara %}
 Hahaha! *A balanced diet leads to a healthy life!* It’s time to cook with Mama!
@@ -762,7 +762,7 @@ So go ahead. …You seem to be acting awkward around Tomo-chin, so make sure you
 Tell me if you need a mediator, or any kinda help in general.
 {% endbubble %}
 
-{% bubble Hajime smile2 %}
+{% bubble Hajime smilesoft2 %}
 Okay. Thank you very much, Nii~chan.
 
 I’ll be going now. I’ll come back to help with the cooking as soon as I can, along with Tomoya-kun…♪
@@ -774,7 +774,7 @@ I’ll be going now. I’ll come back to help with the cooking as soon as I can,
     <p><span><b>Location:</b> Animal Shed</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethome5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_p675700638aHioa1.webp?timestamp=1733754985771 %}
 
 {% bubble Hajime angry %}
 <th>(O-Okay, I’m going to do this… I have to properly make up with Tomoya-kun.)</th>
@@ -954,7 +954,7 @@ Uh… Umm… I don’t really get what you mean…?
 
 ## Chapter 6
 
-{% img /img/es/eventstory/sweethalloween/tomoyaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_59p675700636lT83.webp?timestamp=1733754986785 %}
 
 {% bubble Tomoya swthlwocg %}
 Like! If I make a cute pose like this! Do you get excited like you would with a cute girl?
@@ -1122,6 +1122,18 @@ It frustrates me… I feel so pathetic… I’m not even some *normal* kid at th
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/sweet_halloween/prologue">Prologue</a>
+                    <a href="/sweet_halloween/dis_harmony">dis harmony</a>
+                    <div>sweet home Ch1–6</div>
+                    <a href="/sweet_halloween/sweet_home_p2">sweet home Ch7–11</a>
+                    <a href="/sweet_halloween/lets_party">let's party!</a>
+                    <a href="/sweet_halloween/epilogue">Epilogue</a>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/sweet_halloween/sweet_home_p2" title="Next Chapter: sweet home (Chapter 7–11)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

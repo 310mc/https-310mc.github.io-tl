@@ -25,16 +25,16 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
-                <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                    <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                    <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -76,7 +76,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p><span><b>Location:</b> Passage 1-F (Halloween Party)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/letsparty1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_xCQj6756fea1nqw4.webp?timestamp=1733754533836 %}
 
 <div class="msr-narration">
     <p>Two weeks later, the day of Halloween Party…</p>
@@ -152,7 +152,7 @@ Heaaave— Up you goooo! You were on your way to someplace, riiight? I’ll carr
 Where shall we head to? It’s all up to you, Anzu-san! Super Express Mama No.1, taking you to the galaxy and beyond! It’s time to depart~! ☆
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/letsparty1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5nuSFK6756fea1Z6.webp?timestamp=1733754535270 %}
 
 {% bubble Kanata smileconfident %}
 hey rooogue~♪ trick or treat!
@@ -212,7 +212,7 @@ so i have to be the one to show enthusiasm, yes? supporting and helping each oth
 Eeeek!! There’s a ghooooost!!!
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/letsparty1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_e7XF6756fea1zS64.webp?timestamp=1733754536303 %}
 
 {% bubble Tetora shocked %}
 Eep—!! Please don’t just yell outta nowhere! You scared me!
@@ -252,7 +252,7 @@ Ahaha… Morisawa-senpai’s acting just like a little kid at a haunted house…
 
 ## Chapter 2
 
-{% img /img/es/eventstory/sweethalloween/letsparty2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_P6756fea1YIbXVf1.webp?timestamp=1733754535165 %}
 
 {% bubble Midori smile %}
 Morisawa-senpai, you really are bad with monsters, huh…?
@@ -468,7 +468,7 @@ That’s exactly why I’m not one bit scared of you guys…♪
     <p><span><b>Location:</b> Halloween Party Concert Hall (Ryuseitai)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/letsparty3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YEmHtO6756fea1M6.webp?timestamp=1733754536705 %}
 
 {% bubble Mitsuru %}
 Heeey! Ryuseitai! Over here, over here~! ♪
@@ -576,7 +576,7 @@ Everyone~! It looks like we have a full crowd now, so please don’t chit-chat.
 We have to show them something, or else this big crowd will go to waste, right?
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/letsparty3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_TXWk6756fea17514.webp?timestamp=1733754538137 %}
 
 {% bubble Tomoya %}
 Ahaha, it’s all ‘cause of you, Hajime. You got way too into it, and even invited guests over to the hall.
@@ -750,7 +750,7 @@ I think I finally got through them all, though… Ahh man, I’m exhausted.
 Heheh, you’ve got a lot of stamina, so you’ll be fine! You can do it, you can~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4JNRjn6756fd83R6.webp?timestamp=1733754252820 %}
 
 {% bubble Chiaki swthlwbcg %}
 Yep! So, now that all of us monsters are here, let’s quit the chatter and start entertaining our guests!
@@ -798,7 +798,7 @@ that’s right, it is just as chiaki [said]~ come, let’s all dance together~�
 
 ## Chapter 5
 
-{% img /img/es/eventstory/sweethalloween/letsparty5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7R8P6756fea1IF14.webp?timestamp=1733754535911 %}
 
 {% bubble Kanata v2 %}
 “♪\~♪\~♪”
@@ -822,7 +822,7 @@ Besides, no one’ll notice shooting stars if they don’t shine when they fly b
 That’s why I’ll do my best, at least once in a while…♪
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_456756fea1fFCMv2.webp?timestamp=1733754535649 %}
 
 {% bubble Midori swthlwbcg %}
 “♪\~♪\~♪”
@@ -882,7 +882,7 @@ With our comrades in Ryuseitai, even world peace is achievable! If we’re toget
 Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be afraid of!
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/letsparty5_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_CWx6756fea1d1vE3.webp?timestamp=1733754538313 %}
 
 {% bubble Chiaki smilesoft %}
 “♪\~♪\~♪”
@@ -892,7 +892,7 @@ Ahh, I’m so happy! What was I even *thinking!* There really is nothing to be a
     <p><span><b>Location:</b> Halloween Party Concert Hall (Ra*bits)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/letsparty5_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ErqAt6756fea18h5.webp?timestamp=1733754536010 %}
 
 {% bubble Hajime %}
 <th>(…Heheh, everyone looks like they’re having fun. I’m so glad.)</th>
@@ -940,7 +940,7 @@ Wha—!? T-Tomoya-kun!? Don’t carry me!
 D-Don’t move around! You’re pretty heavy, y'know!
 {% endbubble %}
 
-{% bubble Hajime frown2 %}
+{% bubble Hajime frownshake %}
 I-I’m not heavy, you’re just weak~… Now do you see! You shouldn’t carry me like a princess! It isn’t right!
 {% endbubble %}
 
@@ -956,7 +956,7 @@ I’m actually really happy I get to help you like this again. We’re gonna pul
 So this is my turn, basically.
 {% endbubble %}
 
-{% bubble Hajime blushdazed %}
+{% bubble Hajime blushwidesmile %}
 T-Tomoya-kun…♪
 {% endbubble %}
 
@@ -974,6 +974,18 @@ T-Tomoya-kun…♪
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/sweet_halloween/prologue">Prologue</a>
+                    <a href="/sweet_halloween/dis_harmony">dis harmony</a>
+                    <a href="/sweet_halloween/sweet_home">sweet home Ch1–6</a>
+                    <a href="/sweet_halloween/sweet_home_p2">sweet home Ch7–11</a>
+                    <div>let's party!</div>
+                    <a href="/sweet_halloween/epilogue">Epilogue</a>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/sweet_halloween/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

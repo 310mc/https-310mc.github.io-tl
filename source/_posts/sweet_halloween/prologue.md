@@ -17,8 +17,8 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -63,7 +63,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
     <p><span><b>Location:</b> At the Bulletin Board</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/prologue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67570063vBJXaAg0.webp?timestamp=1733754984552 %}
 
 {% bubble Hajime sigh %}
 <th>(*Sigh…* I’m not sure what to do now… Why did things turn out this way…)</th>
@@ -95,7 +95,7 @@ It’s a little tricky to show that change in speech pattern in English, so I’
 <th>(I’m just a no good dunce, aren’t I…? It’s like I’ve gone straight back to how I was before I met Tomoya-kun.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/prologue_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pI0B67570063D9j4.webp?timestamp=1733754984606 %}
 
 {% bubble Chiaki sigh %}
 <th>(<em>Sigh~…</em>)</th>
@@ -276,6 +276,18 @@ Wah-wah— Um, please don’t pat my head so roughly~!
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/sweet_halloween/dis_harmony">dis harmony</a>
+                    <a href="/sweet_halloween/sweet_home">sweet home Ch1–6</a>
+                    <a href="/sweet_halloween/sweet_home_p2">sweet home Ch7–11</a>
+                    <a href="/sweet_halloween/lets_party">let's party!</a>
+                    <a href="/sweet_halloween/epilogue">Epilogue</a>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/sweet_halloween/dis_harmony" title="Next Chapter: dis harmony"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

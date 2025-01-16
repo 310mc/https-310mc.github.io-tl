@@ -14,11 +14,11 @@ permalink: submarine/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/submarine/kanatabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_6759f004t8pYl2j0.webp?timestamp=1733947401027')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Submarine</div>
-                <div class="title-area__subtitle">サブマリン</div>
+                <div class="title-area__subtitle">SS Arc／2nd Stage Submarine</div>
                 <div class="title-area__start"><a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -105,14 +105,14 @@ permalink: submarine/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/submarine/soumaorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_M6759f391Gsxdir1.webp?timestamp=1733948312519)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/submarine/kanatabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_6759f004t8pYl2j0.webp?timestamp=1733947401027"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Submarine</div>
-                <div class="title-area__subtitle">サブマリン</div>
+                <div class="title-area__subtitle">SS Arc／2nd Stage Submarine</div>
                 <div class="title-area__start">
                     <a href="https://verdantgrove.dreamwidth.org/7838.html">Start Reading</a>
                 </div>
@@ -210,7 +210,7 @@ permalink: submarine/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kuroorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_BPziV6759f0c8WM5.webp?timestamp=1733947596589">
                                 </div>
                                 <div class="caption">
                                     Prologue
@@ -218,7 +218,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_B6759eeb3WgWt4q1.webp?timestamp=1733947066180">
                                 </div>
                                 <div class="caption">
                                     Ruthless Battlefield, Okinawa 3
@@ -226,7 +226,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_E6759f004pILveH1.webp?timestamp=1733947401733">
                                 </div>
                                 <div class="caption">
                                     Nirai-Kanai 6
@@ -234,7 +234,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/soumaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_M6759f391Gsxdir1.webp?timestamp=1733948312519">
                                 </div>
                                 <div class="caption">
                                     Nirai-Kanai 13
@@ -242,7 +242,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kurobcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6759f0c8qaD0qct0.webp?timestamp=1733947596700">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -250,7 +250,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_5kpE6759eeb3DV34.webp?timestamp=1733947065727">
                                 </div>
                                 <div class="caption">
                                     Epilogue 3
@@ -258,7 +258,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/soumabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_9wZ6759f391RaZE3.webp?timestamp=1733948312198">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -266,7 +266,7 @@ permalink: submarine/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/submarine/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ejn16759f004e5T4.webp?timestamp=1733947401622">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -284,10 +284,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/kanataframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_TC2b6759f004VWX4.webp?timestamp=1733947399917">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/kanatabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_aM6759f004dHmnm2.webp?timestamp=1733947401125">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -320,10 +320,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/soumaframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kF6759f391704L02.webp?timestamp=1733948311459">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/soumabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_H0k6759f391eWa13.webp?timestamp=1733948309359">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -356,10 +356,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/chiakiframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6BIq26759eeb3gt5.webp?timestamp=1733947064199">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_1e0D6759eeb3P444.webp?timestamp=1733947065210">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -392,10 +392,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/kuroframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Dr6759f0c800F6o2.webp?timestamp=1733947596143">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/kurobcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_qEmOfU6759f0c8z6.webp?timestamp=1733947598310">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -428,10 +428,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/tetoraframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_p6759f391vmEHbD1.webp?timestamp=1733948311733">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/tetorabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_75X1086759f39156.webp?timestamp=1733948309416">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -464,10 +464,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/midoriframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_O7ApK6759f0c8Er5.webp?timestamp=1733947595985">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/midoribcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_h1A6As6759f0c8s6.webp?timestamp=1733947595434">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -500,10 +500,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/shinobuframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8fNaGu6759f391L6.webp?timestamp=1733948309251">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/shinobubcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8J0YYT6759f391C6.webp?timestamp=1733948308770">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -536,10 +536,10 @@ permalink: submarine/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/submarine/keitoframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6759f004bXgG6Hz0.webp?timestamp=1733947400101">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/submarine/keitobcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Yr66759f004Nqi43.webp?timestamp=1733947400138">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -595,8 +595,8 @@ permalink: submarine/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -639,7 +639,7 @@ permalink: submarine/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/submarine/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6BIq26759eeb3gt5.webp?timestamp=1733947064199"
                 alt="Okinawa Red!"
             />
         </div>
@@ -651,7 +651,7 @@ permalink: submarine/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_1e0D6759eeb3P444.webp?timestamp=1733947065210"
                 alt="Troubled Hero"
             />
         </div>

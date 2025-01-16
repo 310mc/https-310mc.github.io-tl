@@ -32,10 +32,10 @@ This story is connected to the card [Senpai Hero] Chiaki Morisawa.
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-								<a href="/categories/Enstars/Midori" character="Midori"></a>
-								<a href="/categories/Enstars/Tetora" character="Tetora"></a>
-								<a href="/categories/Enstars/Jin" character="Jin"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Jin" character="Jin"></a>
                 </div>
             </div>
             <div class="info-item one">

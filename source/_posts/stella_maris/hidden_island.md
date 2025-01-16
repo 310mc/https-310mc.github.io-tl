@@ -66,6 +66,10 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 **Chapter TL Note:** The chapter title “hidden island” is written in hiragana only, so I’ve written the title in lowercase letters, similar to how Kanata’s speech quirk (speaks in hiragana only) is written in my translations.
 {% endnote %}
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Vocal Room (ES Building)</span></p>
 </div>
@@ -934,6 +938,19 @@ That star island, “Hoshijima”, is in immeasurable ruins.
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/stella_maris/prologue">Prologue</a>
+                    <div>hidden island Ch1–5</div>
+                    <a href="/stella_maris/hidden_island_p2">hidden island Ch6–11</a>
+                    <a href="/stella_maris/birthplace_of_stars">birthplace of stars Ch1–6</a>
+                    <a href="/stella_maris/birthplace_of_stars_p2">birthplace of stars Ch7–15</a>
+                    <a href="/stella_maris/epilogue">Epilogue</a>
+                    <a href="/stella_maris/epilogue#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/stella_maris/hidden_island_p2" title="Next Chapter: hidden island (Chapter 6–11)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -948,17 +965,17 @@ That star island, “Hoshijima”, is in immeasurable ruins.
 [^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Supernova" target="_blank">Supernova</a>, a story that happens during their Yumenosaki Academy days together.
 [^5]: Referring to Ryuseitai and Akatsuki’s SS story, <a href="/submarine" target="_blank">Submarine</a>. Submarine covers various aspects mentioned in this story.
 [^6]: Kanata says “let’s go” as you would in English, but written in hiragana in the text, as that’s how Kanata speaks.
-[^7]: This is how Okinawans say “Welcome”.
+[^7]: Meaning “Welcome” in <em>uchinaaguchi</em> (Okinawan) language.
 [^8]: Chiaki has mentioned this before to Kuro in <a href="/submarine/ruthless_battlefield/#Chapter-8" target="_blank">Submarine, Ruthless Battlefield 8</a>.
 [^9]: Referring to 2wink’s Climax Event, <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>. Wiki link <a href="https://ensemble-stars.fandom.com/wiki/2%C3%972" target="_blank">here</a>.
 [^10]: Midori literally says “mascot character” in Japanese here. This is a different term from Midori’s favorite type of mascots, known as <em>yuruchara</em> (which are known to have odd but cute designs, unlike the typical mascot characters).
-[^11]: “Haitai” is how Okinawan women say “hello”, whereas “haisai” is how Okinawan men say it. “Haitai” sounds softer between the two.
+[^11]: “Haitai” is how Okinawan women say “hello” in <em>uchinaaguchi</em> (Okinawan) language, whereas “haisai” is how Okinawan men say it. “Haitai” sounds softer between the two.
 [^12]: Okinawa is a prefecture in Japan, but it’s also its own island far away from the rest of Japan, so Okinawans refer to the rest of Japan as “mainland” (In this case, mainland’s language is referring to standard Japanese). Okinawans also have their own history and culture separate from the Japan mainland. Read more <a href="https://en.wikipedia.org/wiki/Okinawa_Prefecture" target="_blank">here</a>.
 [^13]: Mizusaba uses the 吾 (wa~) first-person pronoun. It’s a slightly old-fashioned, formal pronoun to refer to oneself. They also speak with a lot of tildes (~), and usually ends their sentences with <em>sa~</em> (an Okinawan dialect).
 [^14]: Mizusaba has no character model in the story. Since their name originates from a shark, I’ve decided to use a shark icon in the translation, so that they’re identifiable. The icon used is <a href="https://iconduck.com/icons/114306/sharktale" target="_blank">this</a>.
 [^15]: The whale shark is extremely large, see <a href="https://en.wikipedia.org/wiki/Whale_shark" target="_blank">here</a>.
 [^16]: Mizusaba calling Kanata with “sama” indicates a deep respect for him. In addition, as general knowledge, the <em>sama</em> honorific is also used to refer to superior beings, like gods, deities, etc.
-[^17]: Okinawa prefecture consists of a huge island and many small islands surrounding it. The huge island is referred to as “(Okinawa) main island”.
+[^17]: Okinawa consists of a huge island and many small islands surrounding it. The huge island is referred to as “(Okinawa) main island”.
 [^18]: The word for “monster” here is <em>kaibutsu</em> (怪物), usually referring to an ominous, strong-looking creature.
 [^19]: In Japanese, Kanata says the words “main house, primary line, branch house, supporting line” all in hiragana, since Kanata always speaks in hiragana. However, this can be confusing to comprehend due to the lack of kanji to differentiate the words from each other. Shinobu then repeats the same 4 words, but in kanji this time. I decided to add an English equivalent to simulate a similar feeling the original line had. Thank you to my proofreader <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a> for the localization!
 [^20]: Originally, the wordplay is <em>basuke</em> (Basketball) with <em>risuke</em> (Reschedule). I tried to make an English equivalent of that.

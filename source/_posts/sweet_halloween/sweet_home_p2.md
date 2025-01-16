@@ -25,16 +25,16 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
-                <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-                <a href="/categories/Enstars/Madara" character="Madara"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                    <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
+                    <a href="/categories/Enstars/Madara" character="Madara"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -76,7 +76,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p><span><b>Location:</b> Dojo (Futons)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/sweethome7_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jJWEU67570063ox5.webp?timestamp=1733754986049 %}
 
 {% bubble Nazuna sigh %}
 Ahhh, I’m exhausted… Having t’prepare everythin’ *and* practice is justoo much…
@@ -90,7 +90,7 @@ Hahaha, you’re slurring your words, Nazuna-san.
 Nnnn… I godda concentrate to talk right… Now that we’re done, we don’t hafta focus anymore, so 's fine…
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/sweethome7_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_U67570063iyB8PG1.webp?timestamp=1733754985870 %}
 
 {% bubble Chiaki mgn %}
 ~……♪
@@ -138,7 +138,7 @@ It kind of seems like you’ve finished growing, though… You still look the sa
 Yep. Standing next to each other, you and I would look like a parent and their kid, Nazuna-san. So c’mooon, go ahead and call me Mama~♪
 {% endbubble %}
 
-{% bubble Nazuna sleep %}
+{% bubble Nazuna sleepsmile %}
 zzz…zzz…♪
 {% endbubble %}
 
@@ -190,7 +190,7 @@ It’s juuust like the shadow mentioned in psychology.[^1] It’s an illusion ca
 Sooo you should make sure to be in a happy, good mood. C’mooon, don’t read a book; let’s go play a board game with the kids~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4dAE3K6756fd83m6.webp?timestamp=1733754254999 %}
 
 {% bubble Chiaki mgnsweeth %}
 I’ve made it a habit to read something before I sleep, but… yeah, alright. I can always read some other time.
@@ -258,7 +258,7 @@ I see… Sounds like she’s compleeetely focused on her work… I wish she’d 
 
 ## Chapter 8
 
-{% img /img/es/eventstory/sweethalloween/sweethome8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_o2k675700635Mll3.webp?timestamp=1733754985323 %}
 
 {% bubble Madara curious %}
 Anyway, that aside… Why a horror movie? How about we watch something we can aaall enjoy instead, like an action movie?
@@ -410,7 +410,7 @@ i am back~♪
 …? things are quite [lively] here~ it is [midnight] by now, so you are going to [disturb] the neighborhood, you know?
 {% endbubble %}
 
-{% bubble Nazuna frown2 %}
+{% bubble Nazuna frownshake %}
 …………
 {% endbubble %}
 
@@ -511,7 +511,7 @@ Huh…? Um…? I-It isn’t that I don’t want to…
 {% endbubble %}
 
 {% bubble Midori smileconfident %}
-Heeey, Morisawa-senpai…?
+Heeey~, Morisawa-senpai…?
 
 Come on out from under your blankets\~ You’re being rude to the movie makers by missing out on the climax, y'know\~? ♪
 {% endbubble %}
@@ -538,7 +538,7 @@ U-Uuu! It hurts when you say that!
 Uuu~? No, you’re wrong! I’m fine! Horror movies don’t scare me one bit!
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_EdC6756fea1HAeb3.webp?timestamp=1733754535562 %}
 
 {% bubble Midori swthlwocg %}
 Then why exactly are you tugging on my sleeve and shaking in fear…?
@@ -605,7 +605,7 @@ there is not a single scary thing in this whole [world].
 
 ## Chapter 10
 
-{% img /img/es/eventstory/sweethalloween/sweethome10_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_g67570063i3jc5J1.webp?timestamp=1733754985578 %}
 
 <div class="msr-narration">
     <p>The next day…</p>
@@ -615,7 +615,7 @@ there is not a single scary thing in this whole [world].
 zzz…zzz…♪
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/hajimeorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LbX6756fd83Ftnp3.webp?timestamp=1733754255146 %}
 
 {% bubble Hajime smile %}
 …………
@@ -739,7 +739,7 @@ About how I wanted to be praised more…
 You don’t have to rush yourself so much, y'know?
 {% endbubble %}
 
-{% bubble Hajime frown2 %}
+{% bubble Hajime frownshake %}
 No, I have to. I’m much slower than everyone else. I’m far behind, so I have to hurry and catch up.
 
 I want to keep working harder and harder… so I can grow to become a strong, great idol.
@@ -787,7 +787,7 @@ The future I’m aiming for might be a little different from yours.
 After all, you’ve always loved cool idols, not cute ones.
 {% endbubble %}
 
-{% bubble Hajime frown2 %}
+{% bubble Hajime frownshake %}
 So someday, we may end up walking different paths from each other, but…
 
 I want to believe that that “someday” will be far, far away from now… and that no matter what, I shouldn't stop in my tracks.
@@ -949,6 +949,18 @@ Handshake~…♪ Ehehe, Tomoya-kun, you really are so warm!
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/sweet_halloween/prologue">Prologue</a>
+                    <a href="/sweet_halloween/dis_harmony">dis harmony</a>
+                    <a href="/sweet_halloween/sweet_home">sweet home Ch1–6</a>
+                    <div>sweet home Ch7–11</div>
+                    <a href="/sweet_halloween/lets_party">let's party!</a>
+                    <a href="/sweet_halloween/epilogue">Epilogue</a>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/sweet_halloween/lets_party" title="Next Chapter: let's party!"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

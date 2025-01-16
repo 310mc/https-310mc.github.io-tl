@@ -19,10 +19,10 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
-                <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                    <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
+                    <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
+                    <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -59,7 +59,7 @@ description: "[ES!] As Ryuseitai, Ra*bits, and MaM work hard for the Halloween P
     <p><span><b>Location:</b> Halloween Party Concert Hall (Ra*bits)</span></p>
 </div>
 
-{% img /img/es/eventstory/sweethalloween/ep1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_G6756fd83hVsk8R1.webp?timestamp=1733754251980 %}
 
 {% bubble Nazuna curious %}
 Tomo-chin? Hajime-chin? What’s up, did something happen?
@@ -137,7 +137,7 @@ I really, really am alright.
 …Yeah, gotcha. If that’s what you say, then I believe you.
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/tomoyabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_II67570063kN57B2.webp?timestamp=1733754987294 %}
 
 {% bubble Tomoya swthlwbcg %}
 To be honest, I don’t ever have the time to be worrying about other people. I’ve been scraping the barrel just trying to reach the average.
@@ -149,7 +149,7 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% bubble Hajime smile2 %}
+{% bubble Hajime smilesoft2 %}
 <th>(Ahaha, you’re hopping about, Tomoya-kun… You did practice acting like a bunny a whole lot, after all.)</th>
 
 <th>(It’s so cute how you work hard with all your might.)</th>
@@ -165,9 +165,9 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
 <th>(Yet you still carried me, even though you didn’t have the strength to… All for my sake.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/sweethalloween/hajimebcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_66756fd8332v4M01.webp?timestamp=1733754252704 %}
 
-{% bubble Hajime smile2 %}
+{% bubble Hajime smilesoft2 %}
 <th>(You’ve been my prince ever since that day.)</th>
 
 <th>(It may be wrong to make a cool prince do cute things…)</th>
@@ -195,6 +195,18 @@ Ahh, man! Life’s such a pain, dammit~! It’s a rollercoaster!
                 </a>
             </div>
             <a target="_blank" href="/sweet_halloween" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/sweet_halloween/prologue">Prologue</a>
+                    <a href="/sweet_halloween/dis_harmony">dis harmony</a>
+                    <a href="/sweet_halloween/sweet_home">sweet home Ch1–6</a>
+                    <a href="/sweet_halloween/sweet_home_p2">sweet home Ch7–11</a>
+                    <a href="/sweet_halloween/lets_party">let's party!</a>
+                    <div>Epilogue</div>
+                    <a href="/sweet_halloween/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

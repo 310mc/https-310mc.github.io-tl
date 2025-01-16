@@ -15,11 +15,11 @@ permalink: sweet_halloween/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/sweethalloween/chiakibcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_Tc6756fd83Bk37i2.webp?timestamp=1733754254553')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Sweet Halloween</div>
-                <div class="title-area__subtitle">スイートハロウィン</div>
+                <div class="title-area__subtitle">Lots of Monsters ☆ Sweet Halloween</div>
                 <div class="title-area__start"><a href="/sweet_halloween/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -61,10 +61,10 @@ permalink: sweet_halloween/
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
                         <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
                         <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                         <a href="/categories/Enstars/Madara" character="Madara"></a>
                         </div>
                     </div>
@@ -107,14 +107,14 @@ permalink: sweet_halloween/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/sweethalloween/hajimeorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_LbX6756fd83Ftnp3.webp?timestamp=1733754255146)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/sweethalloween/chiakibcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_Tc6756fd83Bk37i2.webp?timestamp=1733754254553"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Sweet Halloween</div>
-                <div class="title-area__subtitle">スイートハロウィン</div>
+                <div class="title-area__subtitle">Lots of Monsters ☆ Sweet Halloween</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -158,10 +158,10 @@ permalink: sweet_halloween/
                         <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                         <a href="/categories/Enstars/Tetora" character="Tetora"></a>
                         <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
                         <a href="/categories/Enstars/Nazuna" character="Nazuna"></a>
                         <a href="/categories/Enstars/Mitsuru" character="Mitsuru"></a>
-                        <a href="/categories/Enstars/Tomoya" character="Tomoya"></a>
-                        <a href="/categories/Enstars/Hajime" character="Hajime"></a>
                         <a href="/categories/Enstars/Madara" character="Madara"></a>
                         </div>
                     </div>
@@ -213,7 +213,7 @@ permalink: sweet_halloween/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/tomoyaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_59p675700636lT83.webp?timestamp=1733754986785">
                                 </div>
                                 <div class="caption">
                                     sweet home 6
@@ -221,7 +221,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_4dAE3K6756fd83m6.webp?timestamp=1733754254999">
                                 </div>
                                 <div class="caption">
                                     sweet home 7
@@ -229,7 +229,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_EdC6756fea1HAeb3.webp?timestamp=1733754535562">
                                 </div>
                                 <div class="caption">
                                     sweet home 9
@@ -237,7 +237,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/hajimeorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_LbX6756fd83Ftnp3.webp?timestamp=1733754255146">
                                 </div>
                                 <div class="caption">
                                     sweet home 10
@@ -245,7 +245,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_4JNRjn6756fd83R6.webp?timestamp=1733754252820">
                                 </div>
                                 <div class="caption">
                                     let's party! 4
@@ -253,7 +253,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_456756fea1fFCMv2.webp?timestamp=1733754535649">
                                 </div>
                                 <div class="caption">
                                     let's party! 5
@@ -261,7 +261,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/tomoyabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_II67570063kN57B2.webp?timestamp=1733754987294">
                                 </div>
                                 <div class="caption">
                                     Epilogue
@@ -269,7 +269,7 @@ permalink: sweet_halloween/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/sweethalloween/hajimebcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_66756fd8332v4M01.webp?timestamp=1733754252704">
                                 </div>
                                 <div class="caption">
                                     Epilogue
@@ -287,10 +287,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_CJUN9C6756fd83E6.webp?timestamp=1733754251113">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83voAESG50.webp?timestamp=1733754251916">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -305,11 +305,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ショッキングナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ナイトストーリー--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -319,10 +319,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/hajimecard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_wEgCej6756fd83c6.webp?timestamp=1733754251134">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/hajimebcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83gI1GubL0.webp?timestamp=1733754253499">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -337,11 +337,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--スイートナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--爽やか目覚まし--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -351,10 +351,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jD6P76756fea1685.webp?timestamp=1733754534061">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_g6756fea1C8Dd2P1.webp?timestamp=1733754532813">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -369,11 +369,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--グルーミーナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--隊長の弱点--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -383,10 +383,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/tomoyacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_qPbn867570063NO5.webp?timestamp=1733754983751">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/tomoyabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_bgRcFH67570063O6.webp?timestamp=1733754984509">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -401,11 +401,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--がむしゃらナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--かわいいの極意--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -415,10 +415,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Vt67570b1dvQrGR2.webp?timestamp=1733757731130">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ag67570b1d55ut12.webp?timestamp=1733757731279">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -433,11 +433,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--忍法ナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--許容範囲--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -447,10 +447,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_nZKzsx67570b1ds6.webp?timestamp=1733757731060">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570b1dpO9Qf3D0.webp?timestamp=1733757731258">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -465,11 +465,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--カンフーナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--夜の付き添い--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -479,10 +479,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_wP7H2E67570b1dz6.webp?timestamp=1733757731854">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_4sNsIv67570b1d26.webp?timestamp=1733757731823">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -497,11 +497,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ゆらゆらないと--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--おとまりかい--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -511,10 +511,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/mitsurucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_YDd167570b1d9fc4.webp?timestamp=1733757731527">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/mitsurubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_a67570b1dFtES681.webp?timestamp=1733757731287">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -529,11 +529,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--チアフルナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--戸惑い関係--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -543,10 +543,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/nazunacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ZD67570b1dJKIGh2.webp?timestamp=1733757731468">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/nazunabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_dyi67570b1dgsHm3.webp?timestamp=1733757732101">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -561,11 +561,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--スリラーナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--過密スケジュール--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -575,10 +575,10 @@ permalink: sweet_halloween/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/madaracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570b1dL9HEnW40.webp?timestamp=1733757730707">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/sweethalloween/madarabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67570b1dxTZfoG50.webp?timestamp=1733757731230">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -593,11 +593,11 @@ permalink: sweet_halloween/
                                     <div class="skills">
                                         <ul>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--古代ナイト--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--子供の面倒--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -636,8 +636,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -645,8 +645,8 @@ permalink: sweet_halloween/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -680,7 +680,7 @@ permalink: sweet_halloween/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_CJUN9C6756fd83E6.webp?timestamp=1733754251113"
             alt="Anxious over…?"
         />
     </div>
@@ -692,7 +692,7 @@ permalink: sweet_halloween/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83voAESG50.webp?timestamp=1733754251916"
             alt="The Monster Appears!"
         />
     </div>
@@ -704,7 +704,7 @@ permalink: sweet_halloween/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/midoriframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_jD6P76756fea1685.webp?timestamp=1733754534061"
             alt="Halloween Costume"
         />
     </div>
@@ -716,7 +716,7 @@ permalink: sweet_halloween/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/midoribcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_g6756fea1C8Dd2P1.webp?timestamp=1733754532813"
             alt="Fun Training Camp?"
         />
     </div>

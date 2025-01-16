@@ -68,7 +68,7 @@ description: "[ES!!] When the local idols in Okinawa show their determination to
 
 ## Chapter 1
 
-{% img /img/es/eventstory/submarine/epch1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fZVH6759f0040p74.webp?timestamp=1733947401704 %}
 
 <div class="msr-narration">
     <p>A week later. During the qualifying round, the final stage…</p>
@@ -187,7 +187,7 @@ Whaa…!? Don’t take what I say in the wrong way! Why do you guys keep doing t
 {% bubble Kanata frownshake %}
 yes, it is sad, isn’t it? i do not recall having brought you up to Behave this way, you know~?
 
-but it cannot be helped. after all, this is likely to be a Rebellious phase that came a little late.
+but it is what it is. after all, this is likely to be a Rebellious phase that came a little late.
 {% endbubble %}
 
 {% bubble Tetora awkward0 %}
@@ -196,7 +196,7 @@ It really annoys me when I get told that I’m going through a rebellious phase,
 But the very fact I feel that way is a sign that it *is* that, isn’t it?
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/epch1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mjUb6759f004m0E4.webp?timestamp=1733947404102 %}
 
 {% bubble Midori norsmile %}
 Yeah… But please don’t worry, we don’t plan on going against ES’s orders on top of that…
@@ -267,7 +267,7 @@ Ohh, you included me in the “sensitive” category, too!? I’m so glad to kno
 {% endbubble %}
 
 {% bubble Midori sideeye %}
-Hmph… You do realize that none of us would still think you’re a hot-headed, dumbass hero without a single thought in his head, right… We’ve all seen you read books with glasses on before you sleep…
+Hmph… You do realize that none of us would still think you’re a hot-blooded, dumbass hero without a single thought in his head, right… Not when you read books while wearing glasses before you sleep…
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -282,13 +282,13 @@ If they take any longer, we’ll end up stealing the limelight!
 
 ## Chapter 2
 
-<a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank"><img src="/img/es/eventstory/submarine/chakatsukionly.jpg" style="width:100%;height:100%;"></a>
+<a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank"><img src="https://f005.backblazeb2.com/file/reitoouji/ro_o6759eeb3xL67Tn1.webp?timestamp=1733947066255" style="width:100%;height:100%;"></a>
 
 **This chapter is translated by verdantgrove. <a href="https://verdantgrove.dreamwidth.org/17804.html" target="_blank">Click here to read Epilogue 2!</a>**
 
 ## Chapter 3
 
-{% img /img/es/eventstory/submarine/epch3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7996759f004XuGR3.webp?timestamp=1733947402280 %}
 
 {% bubble Chiaki smileconfident %}
 “♪\~♪\~♪”
@@ -340,10 +340,10 @@ If they take any longer, we’ll end up stealing the limelight!
 <th>(I’m good at that sort of thing, and I already know that everyone in Ryuseitai will work hard alongside me.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/submarine/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5kpE6759eeb3DV34.webp?timestamp=1733947065727 %}
 
 {% bubble Chiaki smilesoft2 %}
-<th>(I’ll never, ever forget the moment you guys rushed over to help me clean up that day, like it was the most natural thing to do. It meant everything to me.)[^3]</th>
+<th>(I’ll never, ever forget the moment you guys rushed over to help me clean up that day, like it was the most natural thing to do. It meant everything to me.)</th>[^3]
 
 <th>(The heroes I’ve waited so long for had finally arrived.)</th>
 
@@ -364,6 +364,16 @@ If they take any longer, we’ll end up stealing the limelight!
                 </a>
             </div>
             <a target="_blank" href="/submarine" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="https://verdantgrove.dreamwidth.org/7838.html">Prologue</a>
+                    <a href="/submarine/ruthless_battlefield">Ruthless Battlefield, Okinawa</a>
+                    <a href="/submarine/nirai_kanai">Nirai-Kanai</a>
+                    <div>Epilogue</div>
+                    <a href="/submarine/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="https://verdantgrove.dreamwidth.org/18078.html" title="Next Chapter: Epilogue 3"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -372,6 +382,6 @@ If they take any longer, we’ll end up stealing the limelight!
 
 ## Translation Notes
 
-[^1]: “Mensoore” is an Okinawan greeting.
-[^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses the first-person pronoun <em>boku</em> here, instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself).
+[^1]: Meaning “Welcome” in <em>uchinaaguchi</em> (Okinawan) language.
+[^2]: Alongside the switch to no ninja-talk while on stage, Shinobu uses the first-person pronoun <em>boku</em> here, instead of his usual <em>sessha</em> (the more ninja-like way to refer to oneself). He also refers to Chiaki by <em>-senpai</em> instead of <em>-dono</em>.
 [^3]: Referring to the last chapter of <a href="/meteor_impact/epilogue/#Chapter-2" target="_blank">Meteor Impact</a>.
