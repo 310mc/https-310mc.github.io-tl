@@ -50,7 +50,7 @@ description: "[ES!!] Tetora's second Mini Talk from Supervillain. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_tetora2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jW67570bea3dyNK2.webp?timestamp=1733757935923 %}
 
 {% bubble Tetora sad2 %}
 <th>(……I wonder if Morisawa-senpai is still at the doctor's office…)</th>

@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Supervillain. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zLvoF67570beaOa5.webp?timestamp=1733757939636 %}
 
 {% bubble Chiaki v2 %}
 Anzu! Could you hear me out for a bit!?

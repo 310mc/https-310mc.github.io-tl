@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Sweet Hall
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756ffb7JRCTLAN0.webp?timestamp=1733754812446 %}
 
 {% bubble Chiaki srsthinking %}
 …………
@@ -128,7 +128,7 @@ Ugh, I can't believe I got preoccupied with my thoughts and bumped into someone 
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4r6756ffb7UU8b42.webp?timestamp=1733754812122 %}
 
 {% bubble Chiaki mgngrin %}
 <th><em>(Humming)</em></th> Hmhmhm~♪ We worked so hard today, most especially the juniors! I need to shower them with praise later—
@@ -205,7 +205,7 @@ W-Wait, Anzu!? A-Ahh, y-you suprised me…!
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z6756ffb7GBbN1J1.webp?timestamp=1733754812965 %}
 
 {% bubble Chiaki mgncurious %}
 By the way, Anzu, it's pretty late in the night… Are you sure it's alright to stay here?

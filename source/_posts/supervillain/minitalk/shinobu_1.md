@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's first Mini Talk from Supervillain. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_shinobu1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bcH67570beamIhz3.webp?timestamp=1733757937477 %}
 
 {% bubble Shinobu v2 %}
 I have watched historical dramas with an evil magistrate, but how would an evil *ninja* be like…?

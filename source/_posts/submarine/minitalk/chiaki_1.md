@@ -56,10 +56,10 @@ description: "[ES!!] Chiaki's first Mini Talk from Submarine. From multiple POVs
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JFx6759f0c8TQD23.webp?timestamp=1733947597777 %}
 
 {% bubble Chiaki %}
-Heheh, there are Okinawan souvenirs here!
+Fufu, there are Okinawan souvenirs here!
 
 Oh, Sengoku, they have a handful of mascots. Which do you think would suit Takamine?
 
@@ -85,7 +85,7 @@ Since you’re the same age as him, I’d be happy to get your advice on which t
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
-            Heheh, those would be a better gift for Kanata, wouldn't they?
+            Fufu, those would be a better gift for Kanata, wouldn't they?
 
             Oh! How about I buy matching accessories for all five of us? That wouldn't be a bad idea, either~♪
 			{% endbubble %}
@@ -107,7 +107,7 @@ Since you’re the same age as him, I’d be happy to get your advice on which t
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1bexA6759f0c8005.webp?timestamp=1733947596286 %}
 
 {% bubble Chiaki frown %}
 You can't have a ryokan trip without a pillow fight… I do want to agree with that, but—
@@ -158,7 +158,7 @@ With that being said, I'd like to ask you something, Kanata. Where am I going wr
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GfK66759f0c8lJd4.webp?timestamp=1733947597087 %}
 
 {% bubble Chiaki curious %}
 Oh yeah, where'd Kanata go?
@@ -199,7 +199,7 @@ Nagumo, have you heard anything from Kanata? Or if you've seen him head off to t
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
-            Heheh, so it was just as I imagined. I knew he'd be drawn to Okinawa's sea.
+            Fufu, so it was just as I imagined. I knew he'd be drawn to Okinawa's sea.
 
             Aaalright then, let's go find him! Could you call over the other two, Nagumo?
 			{% endbubble %}

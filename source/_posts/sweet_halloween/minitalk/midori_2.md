@@ -50,7 +50,7 @@ description: "[ES!] Translation of Midori's second Produce Course from Sweet Hal
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_oMRW6756ffb7yjL4.webp?timestamp=1733754812922 %}
 
 {% bubble Midori frown %}
 Ah, there she is… Anzu-san…!
@@ -123,7 +123,7 @@ Ughh, why is this school so freakishly huge…
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_IJrjwFs6756ffb77.webp?timestamp=1733754812992 %}
 
 {% bubble Midori %}
 Is there something vibrating…? Ahh, it was Anzu-san's phone…
@@ -196,7 +196,7 @@ I got carried away talking a bit, but… I should go back to everyone else, too�
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756ffb7apJtIvS0.webp?timestamp=1733754813764 %}
 
 {% bubble Midori sigh %}
 *Sigh…* Today has finally come, huh…

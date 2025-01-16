@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's second Mini Talk from Supervillain. From Anzu's P
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_shinobu2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67570beajiTLXK70.webp?timestamp=1733757938488 %}
 
 {% bubble Shinobu v2 %}
 Aaalright! I've bought everything I need.

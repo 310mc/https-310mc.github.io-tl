@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Supervillain. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_O67570beamhuNRa1.webp?timestamp=1733757936916 %}
 
 {% bubble Chiaki v2 %}
 Oh? Hello, Anzu! Are you on your way home after finishing work, too?
@@ -101,7 +101,7 @@ Mhm, this is perfect timing for both of us! How about we eat dinner together?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/supervillain/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NRqRz867570bea46.webp?timestamp=1733757935799 %}
 
 {% bubble Chiaki v2 %}
 They say hunger is the best sauce in the world, and they were right! Everything tastes super delicious when you're hungry!

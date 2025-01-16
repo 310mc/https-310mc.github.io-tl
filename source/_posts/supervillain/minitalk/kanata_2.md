@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's second Mini Talk from Supervillain. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_kanata2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_COpKgD67570beac6.webp?timestamp=1733757937079 %}
 
 {% bubble Kanata v2 %}
 puka, puka…♪ rawr~☆

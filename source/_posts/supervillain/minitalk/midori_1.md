@@ -50,7 +50,7 @@ description: "[ES!!] Midori's first Mini Talk from Supervillain. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_A67570beaUvr7vJ1.webp?timestamp=1733757938437 %}
 
 {% bubble Midori curious %}
 Huh? Anzu-san, what're you doing here?
@@ -93,7 +93,7 @@ Oh wow, what a coincidence. I'm on my way to the rental shop 'cause I have somet
             {% bubble Midori norsmile %}
             Hmm… I don't really watch that much stuff, honestly.
 
-            Ah— This one tokusatsu movie Morisawa-senpai showed me before was pretty interesting. I watched it a long time ago though, so I don't even remember the name anymore…
+            Ah— But this one tokusatsu movie Morisawa-senpai showed me before was pretty interesting. I watched it a long time ago though, so I don't even remember the name anymore…[^1]
 			{% endbubble %}
         </div>
     </div>
@@ -150,7 +150,7 @@ What about you, Anzu-san? Do you usually watch movies?
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/supervillain/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z67570beaqrfzro1.webp?timestamp=1733757938979 %}
 
 {% bubble Midori norsmile %}
 You were able to rent the DVD you wanted? I'm glad…♪
@@ -200,3 +200,7 @@ But I feel like we got a lot out of it. We'll get to have a lot of fun watching 
 </div>
 <br>
 <div toc>{% btn /minitalk/#Supervillain,, star, Index %}{% btn /supervillain/minitalk/midori_2,, arrow-right, Midori Mini Talk: Work, work, work %}</div>
+
+## Translation Notes
+
+[^1]: Random fun fact, in Enstars!! Basic, he activates a FEVER UP on this answer.

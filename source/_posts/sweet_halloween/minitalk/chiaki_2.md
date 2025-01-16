@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Sweet Hal
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_EboJf6756ffb7z15.webp?timestamp=1733754812193 %}
 
 {% bubble Chiaki yawn %}
 <th><em>(Yawns)</em></th>… Ahh~… I'm so sleepy…
@@ -127,7 +127,7 @@ Wait, don't tell me you saw what I did just now…!?
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_p6756ffb7EZ5YJQ1.webp?timestamp=1733754813655 %}
 
 {% bubble Chiaki grin2 %}
 Trick or Treat! Any naughty kids around~!?[^1]
@@ -203,7 +203,7 @@ However! In a sense, punishment and pranks are similar! Ha ha ha! ♪
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mJSxCv6756ffb7Z6.webp?timestamp=1733754814139 %}
 
 {% bubble Chiaki norsmile %}
 A lot happened, but the sleepover party was extremely valuable!

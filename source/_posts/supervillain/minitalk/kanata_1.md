@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's first Mini Talk from Supervillain. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_kanata1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_FXCZmn67570bea26.webp?timestamp=1733757937808 %}
 
 {% bubble Kanata v2 %}
 hello, anzu-san\~♪ we have such nice weather today, don't we\~?

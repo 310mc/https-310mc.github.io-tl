@@ -54,7 +54,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Submarine. From multiple POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SXGoN6759f0c87T5.webp?timestamp=1733947596801 %}
 
 {% bubble Chiaki %}
 I heard that the Okinawan idols are powerhouses, yet Akatsuki managed to defeat them all with ease… Unbelievable.
@@ -105,7 +105,7 @@ Anyway, it's lunch time now! Takamine, make sure that you eat meat and fish too,
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_D6759f0c85EtUIj1.webp?timestamp=1733947597783 %}
 
 {% bubble Chiaki %}
 That all being said, it's surprising to see you complain about your concerns, Kiryu. I've always had the impression of you being a bold and daring guy, ever since The War days—
@@ -122,7 +122,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
         </div>
         <div class="minitalk-option_content">
             {% bubble Chiaki %}
-            Heheh, that's wonderful!
+            Fufu, that's wonderful!
 
             You guys have been influential since your days at Yumenosaki, after all! I bet you're doing great nowadays, too.
 			{% endbubble %}
@@ -156,7 +156,7 @@ I've been having my own worries about Ryuseitai, so maybe I could get an idea of
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/submarine/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iW6759f0c8cPpnI2.webp?timestamp=1733947596918 %}
 
 {% bubble Chiaki %}
 <th>(The Okinawan idols are asking for Ryuseitai's help.)</th>

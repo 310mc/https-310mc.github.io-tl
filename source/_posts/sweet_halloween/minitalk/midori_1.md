@@ -50,7 +50,7 @@ description: "[ES!] Translation of Midori's first Produce Course from Sweet Hall
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_rmTm6756ffb7ekk4.webp?timestamp=1733754813863 %}
 
 {% bubble Midori smile %}
 Huh…? Is that Anzu-san over there…?
@@ -125,7 +125,7 @@ Long time no see, Anzu-san…♪
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756ffb7ciEmU910.webp?timestamp=1733754813301 %}
 
 {% bubble Midori sighfrown %}
 What is it? Ahh, you want to know if we decided on a costume…?
@@ -199,7 +199,7 @@ But if this were the usual, Morisawa-senpai would've gladly told us lots of idea
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/sweethalloween/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756ffb7fZJqbU90.webp?timestamp=1733754814085 %}
 
 {% bubble Midori smileconfident %}
 Anzu-san…? Are you okay? You're wobbling about…

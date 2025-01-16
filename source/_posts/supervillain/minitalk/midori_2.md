@@ -50,7 +50,7 @@ description: "[ES!!] Midori's second Mini Talk from Supervillain. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/supervillain/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_kG67570beads1nK2.webp?timestamp=1733757938193 %}
 
 {% bubble Midori sad %}
 <th>(Yesterday I had work. Today I have work. Tomorrow I'll have work. Every day from morning to evening is work, work, and more work… Ahh… I'm so depressed…)</th>
