@@ -141,7 +141,7 @@ Notes:
 
 <ul class="list">
 <li>Hello Kitty Collab</li>
-<li><a href="https://distortedheart.dreamwidth.org/4191.html" target="_blank">2018 April Fools Story</a> (Translation by adriessene)</li>
+<li><a href="https://distortedheart.dreamwidth.org/4191.html" target="_blank">Hero Sentai Meteoranger</a> (Translation by adriessene)</li>
 <li><a href="/management_story" target="_blank">Management Stories</a> (! Era stories)</li>
 <li><a href="/birthday_story" target="_blank">Birthday Stories</a> (All years)</li>
 <li><a href="/minitalk" target="_blank">Mini Talks</a></li>

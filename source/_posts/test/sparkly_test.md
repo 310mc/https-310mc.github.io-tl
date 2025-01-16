@@ -166,7 +166,7 @@ hidden: true
             <div class="story">
                 <div class="thumbimage">
                     <img
-                        src="/img/es/songs/colorsarise_300px.jpg"
+                        src="https://f005.backblazeb2.com/file/reitoouji/ro_spEpfOH6759a5bc7.webp?timestamp=1733928382315"
                         alt="Colors Arise"
                     />
                 </div>

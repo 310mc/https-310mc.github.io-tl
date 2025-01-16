@@ -209,7 +209,7 @@ description: Ryuseitai Timeline in chronological order.
                 </article>
                 <article class="stories-image">
                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_j5xBW678035e3fK5.webp?timestamp=1736455655126" class="stories-image">
-                    <figcaption>Shichihenge</figcaption>
+                    <figcaption>Youkai Shichihenge</figcaption>
                 </article>
                 <article class="stories-image">
                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ny867803129pnSY3.webp?timestamp=1736454445625" class="stories-image">

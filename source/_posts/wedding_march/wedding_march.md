@@ -11,11 +11,11 @@ permalink: wedding_march/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/weddingmarch/chiakibcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_Ud6756ec33CJAIq2.webp?timestamp=1733749817073')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Wedding March!</div>
-                <div class="title-area__subtitle">ウェディングマーチ！</div>
+                <div class="title-area__subtitle">Bridegroom Training?／Wedding March!</div>
                 <div class="title-area__start"><a href="/wedding_march/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -107,14 +107,14 @@ permalink: wedding_march/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/weddingmarch/junorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_6756ed21ybhcP8M0.webp?timestamp=1733750052992)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/weddingmarch/chiakibcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_Ud6756ec33CJAIq2.webp?timestamp=1733749817073"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Wedding March!</div>
-                <div class="title-area__subtitle">ウェディングマーチ！</div>
+                <div class="title-area__subtitle">Bridegroom Training?／Wedding March!</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -196,7 +196,7 @@ permalink: wedding_march/
                                 Event
                             </div>
                             <div class="value">
-                                Bridegroom Training? / Wedding March!
+                                Bridegroom Training? ／ Wedding March!
                             </div>
                         </div>
                         <div class="tab-item">
@@ -217,7 +217,7 @@ permalink: wedding_march/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_mI6756ec33O8hqL2.webp?timestamp=1733749814487">
                                 </div>
                                 <div class="caption">
                                     Prologue
@@ -225,7 +225,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/tatsumiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_5lbD6756eddbxG34.webp?timestamp=1733750243829">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 6
@@ -233,7 +233,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/junorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6756ed21ybhcP8M0.webp?timestamp=1733750052992">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 7
@@ -241,7 +241,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/nagisaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_7gXMcGr6756ed857.webp?timestamp=1733750153893">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 10
@@ -249,7 +249,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/tatsumibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_hO6756eddbn4kmu2.webp?timestamp=1733750240387">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 12
@@ -257,7 +257,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/nagisabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_KnLmD6756ed85Fv5.webp?timestamp=1733750154633">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 12
@@ -265,7 +265,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/junbcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_sWEl6756ed2135P4.webp?timestamp=1733750052799">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 12
@@ -273,7 +273,7 @@ permalink: wedding_march/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/weddingmarch/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Oiz6756ec33ZeH73.webp?timestamp=1733749818019">
                                 </div>
                                 <div class="caption">
                                     Red Diamond 12
@@ -305,21 +305,21 @@ permalink: wedding_march/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
-                            </div>
-                        </div>
-                    </div>
-                    <!--<div class="mini-talk">
-                        <div class="mt-header">Character</div>
-                        <div class="mt-content">
-                            <div class="item">
-                            <a href="NOTRANSLATION" id="">x</a>
-                            <a href="NOTRANSLATION" id="">x</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
                     <div class="mini-talk">
+                        <div class="mt-header">Nagisa Ran</div>
+                        <div class="mt-content">
+                            <div class="item">
+                            <a href="https://landofzero-archive.tumblr.com/post/730478705296752640/nagisa-ran-mysterious-gaze" id="">Part 1</a>
+                            <a href="https://landofzero-archive.tumblr.com/post/730479089136320512/nagisa-ran-the-charm-of-walking-around-town" id="">Part 2</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!--<div class="mini-talk">
                         <div class="mt-header">Character</div>
                         <div class="mt-content">
                             <div class="item">
@@ -349,7 +349,7 @@ permalink: wedding_march/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/weddingmarch/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_hn6756ec33lGOfO2.webp?timestamp=1733749816328"
                 alt="Unexpected Dropped Item"
             />
         </div>
@@ -361,7 +361,7 @@ permalink: wedding_march/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_OFKttAE6756ec337.webp?timestamp=1733749813697"
                 alt="If I Were In Kyoto…"
             />
         </div>
@@ -370,4 +370,31 @@ permalink: wedding_march/
             <span class="read"></span>
         </a>
     </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_x67893247eXg4BC1.webp?timestamp=1737044558667"
+                alt="Mysterious Gaze"
+            />
+        </div>
+        <a href="https://landofzero-archive.tumblr.com/post/730478705296752640/nagisa-ran-mysterious-gaze" class="storyName" target="_blank">
+            <span>1: Mysterious Gaze (TL by landofzero)</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_wT29l67893247Fu5.webp?timestamp=1737044559611"
+                alt="The Charm of Walking Around Town"
+            />
+        </div>
+        <a href="https://landofzero-archive.tumblr.com/post/730479089136320512/nagisa-ran-the-charm-of-walking-around-town" class="storyName" target="_blank">
+            <span>2: The Charm of Walking Around Town (TL by landofzero)</span>
+            <span class="read"></span>
+        </a>
+    </div>
 </div>
+
+※ Chiaki's Mini Talks are translated by 310mc
+※ Nagisa's Mini Talks are translated by <a href="https://landofzero-archive.tumblr.com" target="_blank">landofzero</a>

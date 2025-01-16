@@ -50,7 +50,7 @@ description: "[ES!!] Tetora's second Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DvZjjB6754b91ak6.webp?timestamp=1733605673187 %}
 
 {% bubble Tetora v2 %}
 Anego, thanks so much for preparin' a lot for us this time around!
@@ -102,7 +102,7 @@ We all got a lotta coaching from Midori-kun for the Tropical Live.
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a6x4Yu1G0.webp?timestamp=1733605677255 %}
 
 {% bubble Tetora norsmile %}
 Thanks to this job, I've gotten a much deeper understandin' of yurucharas.
@@ -153,10 +153,10 @@ It's a yuruchara that does martial arts, so I felt a connection~♪
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_CD6754b91avT1Rr2.webp?timestamp=1733605676872 %}
 
 {% bubble Tetora v2 %}
-This outfit is meant to match with "Tropical Troppeys," right?
+This outfit is meant to match with ‘Tropical Troppeys’, right?
 
 But it's still made to look cool, so I like it! Most importantly, Midori-kun's super happy 'bout it too.
 

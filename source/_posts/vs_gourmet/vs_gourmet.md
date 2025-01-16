@@ -30,7 +30,7 @@ permalink: vs_gourmet/
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            Spring (ES 2nd Year)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -135,7 +135,7 @@ permalink: vs_gourmet/
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            Spring (ES 2nd Year)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -551,8 +551,8 @@ permalink: vs_gourmet/
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/chiaki_1">Part One</a>
-                            <a href="minitalk/chiaki_2">Part Two</a>
+                            <a href="minitalk/chiaki_1">Part 1</a>
+                            <a href="minitalk/chiaki_2">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -560,8 +560,8 @@ permalink: vs_gourmet/
                         <div class="mt-header">Mitsuru Tenma</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/mitsuru_1">Part One</a>
-                            <a href="minitalk/mitsuru_2">Part Two</a>
+                            <a href="minitalk/mitsuru_1">Part 1</a>
+                            <a href="minitalk/mitsuru_2">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -569,8 +569,8 @@ permalink: vs_gourmet/
                         <div class="mt-header">Hiyori Tomoe</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/hiyori_1">Part One</a>
-                            <a href="minitalk/hiyori_2">Part Two</a>
+                            <a href="minitalk/hiyori_1">Part 1</a>
+                            <a href="minitalk/hiyori_2">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -578,8 +578,8 @@ permalink: vs_gourmet/
                         <div class="mt-header">Raika Hojo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/raika_1">Part One</a>
-                            <a href="minitalk/raika_2">Part Two</a>
+                            <a href="minitalk/raika_1">Part 1</a>
+                            <a href="minitalk/raika_2">Part 2</a>
                             </div>
                         </div>
                     </div>

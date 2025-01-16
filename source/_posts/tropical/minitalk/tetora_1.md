@@ -50,7 +50,7 @@ description: "[ES!!] Tetora's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GvRywM6754b91ag6.webp?timestamp=1733605676902 %}
 
 {% bubble Tetora v2 %}
 Hello, Anzu-Anego! Thank you for all your hard work! Are you gonna eat lunch now?
@@ -103,7 +103,7 @@ Ah— It's bad manners to look at my phone while eatin', right… Sorry, I'll pu
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RD6754b91aSezDB2.webp?timestamp=1733605675617 %}
 
 {% bubble Tetora v2 %}
 I was filming for a TV show just a second ago, and one of the entertainers was late, so it caused a bit of tension…
@@ -154,7 +154,7 @@ I was honestly amazed, 'cuz I could never do that. That's why I thought to learn
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_tetora1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dA6754b91aUkGkp2.webp?timestamp=1733605676858 %}
 
 {% bubble Tetora fist %}
 Lately, RB has been gettin' a lotta attention, so I've been getting a lot more jobs, like the one I just mentioned.

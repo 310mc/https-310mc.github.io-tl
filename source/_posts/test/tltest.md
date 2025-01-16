@@ -146,7 +146,7 @@ body {
     <article class="tl scout">
         <article class="box">
             <div class="left">
-                <img src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg" class="stories-image">
+                <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83voAESG50.webp?timestamp=1733754251916" class="stories-image">
             </div>
             <div class="right">
                 <h2>Climax</h2>
@@ -159,7 +159,7 @@ body {
     <article class="tl event">
         <article class="box">
             <div class="left">
-                <img src="/img/es/eventstory/motorshow/tetorabcgframe_300px.jpg" class="stories-image">
+                <img src="https://f005.backblazeb2.com/file/reitoouji/ro_gkazX67709a61b95.webp?timestamp=1735432807695" class="stories-image">
             </div>
             <div class="right">
                 <h2>Climax</h2>
@@ -185,7 +185,7 @@ body {
     <article class="tl event">
         <article class="box">
             <div class="left">
-                <img src="/img/es/scoutstory/blinkexhibition/reibcgframe_300px.jpg" class="shift-right">
+                <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jY676719895rCIR2.webp?timestamp=1734809998875" class="shift-right">
             </div>
             <div class="right">
                 <h2>Climax</h2>

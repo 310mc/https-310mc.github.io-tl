@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K06754b91aMJkW22.webp?timestamp=1733605674711 %}
 
 {% bubble Chiaki v2 %}
 Oh! Anzu! Perfect timing. I'd like to give you throat lozenge!
@@ -101,7 +101,7 @@ You have to talk to people a lot, right? Then you should take good care of your 
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a8Q4sSuc0.webp?timestamp=1733605671187 %}
 
 {% bubble Chiaki v2 %}
 I was recording for a radio talk about tokusatsu shows. They invite people who worked on shows to chat about it.
@@ -152,7 +152,7 @@ Of course, we managed to make it in time in the end, but it's really hard to hol
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RX6754b91aAqTg22.webp?timestamp=1733605671060 %}
 
 {% bubble Chiaki v2 %}
 For the tokusatsu radio, they told me, "Go all out with your love for tokusatsu!"

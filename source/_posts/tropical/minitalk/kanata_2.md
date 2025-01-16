@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's second Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91andnYvcm0.webp?timestamp=1733605675538 %}
 
 {% bubble Kanata curious %}
 what is it, anzu-san~?
@@ -101,7 +101,7 @@ ahh, i see. it is a [fish yuruchara]~♪
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_c6754b91aFqZIku1.webp?timestamp=1733605674646 %}
 
 {% bubble Kanata smilesoft2 %}
 since this is a yuruchara, i would love to show [it] to midori.
@@ -152,7 +152,7 @@ i am sure it is as precious to him as the [ocean] and [fish] are to me.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vb66754b91asSdY3.webp?timestamp=1733605674566 %}
 
 {% bubble Kanata v2 %}
 you would like to give me something else? this is… a [pamphlet], right?

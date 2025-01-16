@@ -69,7 +69,7 @@ description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki an
 ## Chapter 8
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s Establishment)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year)</span></p>
 </div>
 
 <div class="msr-narration">
@@ -509,7 +509,7 @@ It doesn’t feel bad to get praised…♪
 
 “And in order to support all of you and your efforts, tomorrow’s Gourmet District will be prospering like never seen before!”
 
-“For the seventh day’s screening, the ones you will be serving are not gourmands. It shall be all your fans, who will come to cheer for you!”
+“For the seventh day’s screening, the ones you will be serving are not gourmets. It shall be all your fans, who will come to cheer for you!”
 {% endbubble %}
 
 {% bubble Ritsu v2 %}
@@ -539,7 +539,7 @@ Yeah, as Hiyohiyo says, the idols who’ve always been well-known will likely ha
 {% bubble Nice %}
 “Fufu. I can see that you’re all already racking your brains for a strategy for the final day.”
 
-“Tomorrow, all your fans who have been looking forward to meeting you will likely crowd the venue. We estimate an unparalleled amount of customers compared to the gourmands we’ve had up to now.”
+“Tomorrow, all your fans who have been looking forward to meeting you will likely crowd the venue. We estimate an unparalleled amount of customers compared to the gourmets we’ve had up to now.”
 
 “Gourmet District is a straightforward ‘profit’ contest. Unlike Prince Castle, your ‘competition score’ will also have a massive gap depending on your profits.”
 
@@ -1150,6 +1150,20 @@ I’ll take on that challenge…! I’ll be the one to seize victory in 4piece!
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/vs_gourmet/profile">Profile Cards & PR Videos</a>
+                    <a href="/vs_gourmet/countdown">Introduction & Countdown</a>
+                    <a href="/vs_gourmet/prologue">Prologue</a>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors">Praise of Delicious Flavors Ch1-7</a>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors_p2">Praise of Delicious Flavors Ch8-15</a>
+                    <a href="/vs_gourmet/flood_of_customers">Flood of Customers Ch1-7</a>
+                    <div>Flood of Customers Ch8-12</div>
+                    <a href="/vs_gourmet/epilogue">Epilogue</a>
+                    <a href="/vs_gourmet/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/vs_gourmet/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

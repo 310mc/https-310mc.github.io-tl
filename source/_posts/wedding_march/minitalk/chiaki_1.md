@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Wedding March!. From Anzu's P
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Mfi6756ec97TG6R3.webp?timestamp=1733749914350 %}
 
 {% bubble Chiaki v2 %}
 Anzu! You're working until late at night again, aren't you? ☆
@@ -101,7 +101,7 @@ This… is a marriage application form!? You're going to get married, Anzu!?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Cfp6756ec97BbQl3.webp?timestamp=1733749915455 %}
 
 {% bubble Chiaki srsthinking %}
 Speaking of marriage… Tenshouin asked me to come see him a moment ago…
@@ -152,7 +152,7 @@ It's a shame, but there's nothing we can do about it… The actual problem here 
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v6756ec97S0A6ge1.webp?timestamp=1733749914231 %}
 
 {% bubble Chiaki v2 %}
 Oh! I got so into our conversation…

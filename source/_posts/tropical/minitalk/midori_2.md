@@ -50,7 +50,7 @@ description: "[ES!!] Midori's second Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1g6754b91anPL202.webp?timestamp=1733605676365 %}
 
 {% bubble Midori worried0 %}
 Uu, it's not here either… Where the heck did I drop it…?
@@ -101,7 +101,7 @@ Woah—! Anzu-san…!? Please don't scare me like that…!
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_sQ76754b91atOvQ3.webp?timestamp=1733605676852 %}
 
 {% bubble Midori norsmile %}
 Are you also interested in this yuruchara, Anzu-san?
@@ -152,7 +152,7 @@ I just got recently got me this keychain, so I'm really glad you found it, Anzu-
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8k6754b91afKfIy2.webp?timestamp=1733605677144 %}
 
 {% bubble Midori norsmile %}
 This yuruchara has been trending on social media lately…

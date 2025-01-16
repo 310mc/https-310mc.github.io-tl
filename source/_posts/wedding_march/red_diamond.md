@@ -82,7 +82,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
     <p><span><b>Location:</b> Golden Pavilion</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_nz76sA6756eedc46.webp?timestamp=1733750500777 %}
 
 <div class="msr-narration">
     <p>Time passes until November. In the morning…</p>
@@ -192,7 +192,7 @@ It’s finally time…! I don’t intend on pushing Ryuseitai’s way of doing t
 
 ## Chapter 2
 
-{% img /img/es/eventstory/weddingmarch/red2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756eedcS1BVQp10.webp?timestamp=1733750503192 %}
 
 {% bubble Jin sigh2 %}
 *Sigh…* Why do I gotta babysit when I’m in <em>Kyoto</em>…
@@ -604,7 +604,7 @@ Mhm, I like that idea~♪
     <p><span><b>Location:</b> Near the Togetsukyo Bridge in Arashiyama</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KDwn6756eedcDAh4.webp?timestamp=1733750501544 %}
 
 <div class="msr-narration">
     <p>The same day…</p>
@@ -1062,7 +1062,7 @@ Fufu, looking at the autumn leaves sprung something to mind.
 …It’s this camera, yes? All right, then.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/tatsumiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5lbD6756eddbxG34.webp?timestamp=1733750243829 %}
 
 {% bubble Tatsumi %}
 “…Every time you smile, my heart flutters like the autumn leaves before us.”
@@ -1074,7 +1074,7 @@ Fufu, looking at the autumn leaves sprung something to mind.
     <p><span><b>Location:</b> Inn’s Hot Spring</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_AhvcA6756eedcM55.webp?timestamp=1733750500473 %}
 
 <div class="msr-narration">
     <p>Later that evening…</p>
@@ -1090,7 +1090,7 @@ And the cameras aren’t on us anymore, so we can finally relax a li’l~
 Indeed we can. There will be more filming to do before we sleep, so we cannot stay here for too long… But for now, let’s soothe our bodies so that we may have a good night’s sleep.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red6_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_u6756eedcb9nM8J1.webp?timestamp=1733750500459 %}
 
 {% bubble Nagisa curious %}
 …Chiaki-kun, what have you been doing for the past minute?
@@ -1204,7 +1204,7 @@ Isn’t that kinda out-of-bounds for us…? I mean, we don’t have any experien
 We will have to ask the staff members and the inn management first, but it would surely make for an exciting watch for the viewers.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red6_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_s06756eedcB7N2u2.webp?timestamp=1733750503090 %}
 
 {% bubble Makoto %}
 I like that idea! ♪ Let’s ask Anzu-chan as soon as we’re done soaking in the hot spring.
@@ -1242,7 +1242,7 @@ Let’s just enjoy the beauty of pillow fighting together!
 Hmph! I find it questionable how you simply try to power through your reasoning with mere fervor.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red6_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dTiWB6756eedcB95.webp?timestamp=1733750500313 %}
 
 {% bubble Tatsumi %}
 Fufu, but Nagisa-san seems satisfied with it, so all is well, no?
@@ -1260,7 +1260,7 @@ Perhaps… In the end, it is nothing but a game for children. But I suppose it�
     <p><span><b>Location:</b> Inn’s Room</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red7_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z6756eedci2B2Fk1.webp?timestamp=1733750499366 %}
 
 <div class="msr-narration">
     <p>An hour or so later…</p>
@@ -1288,7 +1288,7 @@ Perhaps… In the end, it is nothing but a game for children. But I suppose it�
 Ohh! I was just thinking about how incredibly elaborate the rules were — So Yuuki came up with them, huh?
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red7_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_y6756eedcW5Yj7t1.webp?timestamp=1733750499706 %}
 
 {% bubble Makoto %}
 Yep! I know nobody asked me to, but I thought it’d make things more fun…♪
@@ -1328,7 +1328,7 @@ Mhm! Let’s observe our surroundings while ensuring all pillows are out of our 
 “Right then, the first round begins… now!”
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red7_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rl6756eedcRuelm2.webp?timestamp=1733750500704 %}
 
 {% bubble Yuzuru %}
 Ran-sama. As per our strategy, you may entrust the frontline defense to me.
@@ -1404,7 +1404,7 @@ Eh? But we have yet to analyze their attacks…
 …It’s time to strike back.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red7_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756eedc2pzdYZI0.webp?timestamp=1733750503865 %}
 
 <div class="msr-narration">
     <p>Before Round Two…</p>
@@ -1498,7 +1498,7 @@ Mm? You’re laying down — Did it tire you out?
 Nah, I just wanna take in the moment for a bit.
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/junorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756ed21ybhcP8M0.webp?timestamp=1733750052992 %}
 
 {% bubble Jun v3 %}
 …I’ve never, ever had a pillow fight before in my whole life.
@@ -1536,7 +1536,7 @@ I had no idea it was <em>this</em> much fun. Haha, I had a real blast…♪
 “Alright then, g’night~”
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_9Jh06756eedcnbg4.webp?timestamp=1733750499199 %}
 
 <div class="msr-narration">
     <p>After the filming…</p>
@@ -1722,7 +1722,7 @@ Good grief… I can only hope I won’t have a nightmare.
     <p><span><b>Location:</b> Kiyomizu Temple</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red9_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6756eedcEkH9xND0.webp?timestamp=1733750499460 %}
 
 <div class="msr-narration">
     <p>Next day, in the morning…</p>
@@ -1946,7 +1946,7 @@ Time to draw a new fortune slip… All right, let me read it. Our fortune is the
     <p><span><b>Location:</b> Kyoto City Shopping District</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red10_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_G6756eedcPnT7v11.webp?timestamp=1733750500321 %}
 
 <div class="msr-narration">
     <p>At noon, during the sightseeing segment: Kyoto City shopping district…</p>
@@ -1972,7 +1972,7 @@ Mm? Strategy?
 Yeah, you can look forward to seeing it tomorrow! Come on now, let’s join the others and enjoy the place! ☆
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/nagisaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7gXMcGr6756ed857.webp?timestamp=1733750153893 %}
 
 {% bubble Nagisa v2 %}
 …Hello, Ibara? Are you in the middle of work?
@@ -2082,7 +2082,7 @@ It isn’t scary if we all go together! Fuhahahaha…! ☆
     <p><span><b>Location:</b> Tokusatsu Set Location</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red11_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_eN6756eedc0hk8J2.webp?timestamp=1733750499594 %}
 
 <div class="msr-narration">
     <p>Next day, the final day of the Kyoto field trip…</p>
@@ -2307,10 +2307,10 @@ We’ve never once talked about that before…!
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Courtyard</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Courtyard</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red11_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_k6756eedcN8e8e11.webp?timestamp=1733750504078 %}
 
 <div class="msr-narration">
     <p>Meanwhile…</p>
@@ -2358,7 +2358,7 @@ Don’t worry about it… I just figured I’d ask… Mm~…
 <th>(…Ah, maybe—)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/red11_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_a1Al96756eedcrK5.webp?timestamp=1733750500451 %}
 
 {% bubble Chiaki grin2 %}
 …Ohh, I see! Thank you, Takamine!
@@ -2550,7 +2550,7 @@ They are perfectly suitable as the winners here…♪
     <p><span><b>Location:</b> Wedding March! Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/red12_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_PqL886756eedcJj5.webp?timestamp=1733750503269 %}
 
 <div class="msr-narration">
     <p>After the recording ended, in the studio of the online show…</p>
@@ -2616,7 +2616,7 @@ Dear viewers, please do enjoy our song with us. ♪
 ♪\~♪\~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/tatsumibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hO6756eddbn4kmu2.webp?timestamp=1733750240387 %}
 
 {% bubble Tatsumi %}
 <th>(The last three days went by in a flash.)</th>
@@ -2630,7 +2630,7 @@ Dear viewers, please do enjoy our song with us. ♪
 ♪\~♪\~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/nagisabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KnLmD6756ed85Fv5.webp?timestamp=1733750154633 %}
 
 {% bubble Nagisa v2 %}
 <th>(…I’m so glad Hiyori-kun and Ibara liked their souvenirs.)</th>
@@ -2644,7 +2644,7 @@ Dear viewers, please do enjoy our song with us. ♪
 ♪\~♪\~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/junbcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_sWEl6756ed2135P4.webp?timestamp=1733750052799 %}
 
 {% bubble Jun v3 %}
 <th>(Nothing about this project is what you’d expect for a bridal company… There’s not a hint of a romantic or sweet air to it.)</th>
@@ -2660,7 +2660,7 @@ Dear viewers, please do enjoy our song with us. ♪
 ♪\~♪\~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Oiz6756ec33ZeH73.webp?timestamp=1733749818019 %}
 
 {% bubble Chiaki smilesoft2 %}
 <th>(While the project did end up becoming a full-on variety show… we were still able to set the mood of a wedding by starting the show with the PV that was originally rejected.)</th>
@@ -2686,6 +2686,16 @@ Dear viewers, please do enjoy our song with us. ♪
                 </a>
             </div>
             <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wedding_march/prologue">Prologue</a>
+                    <a href="/wedding_march/white_diamond">White Diamond</a>
+                    <div>Red Diamond</div>
+                    <a href="/wedding_march/epilogue">Epilogue</a>
+                    <a href="/wedding_march/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wedding_march/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -2699,7 +2709,7 @@ Dear viewers, please do enjoy our song with us. ♪
 [^3]: A <em>yakatabune</em> specifically.
 [^4]: Originally, Nagisa asks what <em>koibana</em> means, to which Jun responds that it’s a short version of “stories of romance”. <em>Koi</em> being romantic love, and <em>bana</em> is shortened from <em>hanashi</em>, which means story. I made it “romantic crush” to give a similar feeling in English.
 [^5]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/School_Trip" target="_blank">School Trip</a>.
-[^6]: The <a href="https://en.japantravel.com/kyoto/otowa-waterfall/14020" target="_blank">Otowa waterfall</a> has three streams, and visitors can drink the water from one of the them for its benefit.
+[^6]: The <a href="https://en.japantravel.com/kyoto/otowa-waterfall/14020" target="_blank">Otowa waterfall</a> has three streams, and visitors can drink the water from one of them for its benefit.
 [^7]: This is what an <a href="https://en.wikipedia.org/wiki/Ema_(Shinto)" target="_blank">ema</a> looks like.
 [^8]: This is <a href="https://www.jishujinja.or.jp/english/" target="_blank">the shrine</a> and its statue in question.
 [^9]: Makoto’s referring to <a href="https://en.wikipedia.org/wiki/Fushimi_Inari-taisha" target="_blank">this</a> specific shrine.

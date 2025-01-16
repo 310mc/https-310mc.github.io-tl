@@ -30,7 +30,7 @@ permalink: wildland/
                             Season
                         </div>
                         <div class="value">
-                            2nd year of ES's Establishment — Spring (May), Summer (June)
+                            ES 2nd Year — Spring (May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +131,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            2nd year of ES's Establishment — Spring (May), Summer (June)
+                            ES 2nd Year — Spring (May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -480,8 +480,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/tetora_1" id="">Part One</a>
-                            <a href="minitalk/tetora_2" id="">Part Two</a>
+                            <a href="minitalk/tetora_1" id="">Part 1</a>
+                            <a href="minitalk/tetora_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -489,8 +489,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="">Part One</a>
-                            <a href="minitalk/shinobu_2" id="">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part 1</a>
+                            <a href="minitalk/shinobu_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -498,8 +498,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/kanata_1" id="">Part One</a>
-                            <a href="minitalk/kanata_2" id="">Part Two</a>
+                            <a href="minitalk/kanata_1" id="">Part 1</a>
+                            <a href="minitalk/kanata_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -507,8 +507,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -516,8 +516,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

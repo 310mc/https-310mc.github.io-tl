@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Wedding March!. From Anzu's 
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_xiOo6756ec97dYM4.webp?timestamp=1733749914488 %}
 
 {% bubble Chiaki v2 %}
 Oh! Anzu! You're at StarPro today, huh?
@@ -101,7 +101,7 @@ You're as busy as ever! If you still have time, how about resting here for a bit
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_e6756ec97TYaLFc1.webp?timestamp=1733749917318 %}
 
 {% bubble Chiaki v2 %}
 Oh yeah, you're joining us for the filming at Kyoto, right?
@@ -152,7 +152,7 @@ Is there anything you'd like to see or try in the city?
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/weddingmarch/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QTjsNB6756ec97k6.webp?timestamp=1733749917794 %}
 
 {% bubble Chiaki v2 %}
 Whenever I go to a different region, I can't help but look for their designated hero.

@@ -50,7 +50,7 @@ description: "[ES!!] Midori's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91aMLWCKpl0.webp?timestamp=1733605675926 %}
 
 {% bubble Midori sigh %}
 (I heard that my next job will be an interview with entertainers… The interview'll happen while walking down the streets of the shopping district…)
@@ -101,7 +101,7 @@ description: "[ES!!] Midori's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1XGa6754b91au9J4.webp?timestamp=1733605675871 %}
 
 {% bubble Midori frown %}
 I've gotten used to doing solo work, but there are times when I wish I had everyone from Ryuseitai around.
@@ -153,7 +153,7 @@ Anzu-san, what do you make sure to do whenever you're working with someone for t
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_eH136754b91aPWm4.webp?timestamp=1733605673206 %}
 
 {% bubble Midori norsmile %}
 I'm so glad I got to ask you, Anzu-san. I feel like it really came in handy.

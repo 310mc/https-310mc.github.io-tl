@@ -61,10 +61,10 @@ permalink: soleil/
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm (Mitsuru, Midori, Tsumugi, and Ibara’s Room)</span></p>
 </div>
 
-{% img /img/es/scoutstory/soleil/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1raLCRv67671c337.webp?timestamp=1734810680967 %}
 
 {% bubble Mitsuru %}
 —Mm?

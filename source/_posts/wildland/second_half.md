@@ -62,7 +62,7 @@ description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an ev
 ## Chapter 1
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment, May)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_ZEi672a7b6eI4sA3.webp?timestamp=1730837364972 %}
@@ -1245,6 +1245,16 @@ Hah, well, now that the case is closed, it’s ‘bout time we head to the stage
                 </a>
             </div>
             <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wildland/prologue">Prologue</a>
+                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <div>Possibility and Guiding Star</div>
+                    <a href="/wildland/epilogue">Epilogue</a>
+                    <a href="/wildland/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wildland/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -1254,7 +1264,7 @@ Hah, well, now that the case is closed, it’s ‘bout time we head to the stage
 ## Translation Notes
 
 [^1]: The word “apocalyptic” is <em>seikimatsu</em> (世紀末), lit. end of the century. For stories, it usually describes apocalyptic or post-apocalyptic settings. The word is also in Tetora’s first !! Era gacha, <a href="https://ensemble-stars.fandom.com/wiki/War_at_the_End_of_Century" target="_blank">End of the Century War</a>, and what’s more, even his gacha embodies an <a href="https://ensemble-stars.fandom.com/wiki/(Survival_and_Bravery)_Tetora_Nagumo" target="_blank">apocalyptic, survival theme</a>!
-[^2]: Referring to the events that took place across the first year of !! Era (ES1) for Ryuseitai. For a summary, please <a href="/dokisuta_ryuseitai" target="_blank">see the Ryuseitai timeline provided by the Dokisuta stream</a>. To learn more about what happened, please read the ES1 Ryuseitai stories, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^2]: Referring to the events that took place across the first year of ES!! Era (ES1) for Ryuseitai. For a summary, please <a href="/dokisuta_ryuseitai" target="_blank">see the Ryuseitai timeline provided by the Dokisuta stream</a>. To learn more about what happened, please read the ES1 Ryuseitai stories, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^3]: Originally, Tetora says <em>yuzurenai</em>, lit. “refuse to yield”. It’s a word that sometimes appears in Ryuseitai’s songs, like <a href="/colors_arise" target="_blank">Colors Arise</a> (Something precious they refuse to yield), or <a href="/goshoku_no_shooting_star" target="_blank">Goshoku no Shooting ☆ Star!!!!!</a> (An unyielding strength we each possess), and even gets mentioned in the prologue of <a href="/stella_maris/prologue" target="_blank">Stella Maris</a>.
 [^4]: Yuruseitai was shown in <a href="/tropical" target="_blank">Tropical</a>, and Ryuseitai-C (C for Cobalt Blue, also known as “fish Ryuseitai”) was shown in <a href="/stella_maris" target="_blank">Stella Maris</a>.
 [^5]: This is referring to the events of Supervillain, especially the <a href="/supervillain/epilogue" target="_blank">epilogue</a>. It’s thanks to Tetora’s efforts and desire to uphold justice as a hero that Ryuseitai found a new path for themselves; the all-leaders Ryuseitai. Tetora’s dialogue right after this one is also referring to his thoughts during Supervillain.

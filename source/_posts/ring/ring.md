@@ -12,11 +12,11 @@ permalink: ring/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/ring/midoribcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_Fg6759f4e7DV7MX2.webp?timestamp=1733948652125')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ring</div>
-                <div class="title-area__subtitle">Ring</div>
+                <div class="title-area__subtitle">SHUFFLE × The Ring That Sounds the Bells</div>
                 <div class="title-area__start"><a href="/ring#Translation">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -97,14 +97,14 @@ permalink: ring/
 </style>
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/ring/maoorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_6m6759f4e7FtZFS2.webp?timestamp=1733948652367)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/ring/midoribcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_Fg6759f4e7DV7MX2.webp?timestamp=1733948652125"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ring</div>
-                <div class="title-area__subtitle">Ring</div>
+                <div class="title-area__subtitle">SHUFFLE × The Ring That Sounds the Bells</div>
                 <div class="title-area__start"><a href="#Translation">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -196,7 +196,7 @@ permalink: ring/
                         </div>
                     </div>
                 </div>
-                <div class="cg-gallery">
+                <!--<div class="cg-gallery">
                     <div class="tab-header">
                         <div class="tab-header__name">CG Gallery</div>
                     </div>
@@ -204,7 +204,7 @@ permalink: ring/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/midoriorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 2
@@ -212,7 +212,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/eichiorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 7
@@ -220,7 +220,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/keitoorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 7
@@ -228,7 +228,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/leoorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 8
@@ -236,7 +236,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/maoorigcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 9
@@ -244,7 +244,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/leobcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 13
@@ -252,7 +252,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/eichibcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 13
@@ -260,7 +260,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/keitobcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 13
@@ -268,7 +268,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/maobcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 13
@@ -276,7 +276,7 @@ permalink: ring/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ring/midoribcg.jpg">
+                                    <img src="TBA">
                                 </div>
                                 <div class="caption">
                                     Take me on 13
@@ -284,7 +284,7 @@ permalink: ring/
                             </div>
                         </div>
                     </div>
-                </div>                
+                </div>-->                
             </div>
             <div class="chapter-area">
                 <div class="chapters">
@@ -361,7 +361,7 @@ permalink: ring/
 
 ## Translation
 
-{% img /img/es/eventstory/ring/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4v6759f4e7zdrTM2.webp?timestamp=1733948651958 %}
 
 <br>
 

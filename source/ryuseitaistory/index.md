@@ -3,7 +3,7 @@ title: (Version 0.1) Ryuseitai Story List
 description: Ryuseitai Story Reading List with recommended stories to read.
 ---
 
-<big>Click <a href="/" target="_blank">here</a> to go back to the homepage!</big>
+<p style="text-align:center;"><big><a href="/" target="_blank">Click here to go back to the homepage!</a></big></p>
 
 <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jpU3m675717a3355.webp?timestamp=1733760934009" width="100%" height="100%" class="preview-image">
 
@@ -842,6 +842,66 @@ Stories are picked based on lore and character relevance. For a full list of eve
 <!-- story box end -->
 
 <!-- story box start -->
+<section class="storylist-box light-read midori1 non-unit">
+    <article class="top-section">
+    <figure class="storylist-image">
+        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_9hB3n677e3bb4295.webp?timestamp=1736326069647"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Colorful Autumn
+        </div>
+        <a target="_blank" href="/colorful_autumn"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
+    </article>
+    <div class="three-wrapper">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="MidoriRecc"></span>
+                        <span class="charhead" character="Tetora"></span>
+                        <span class="charhead" character="Kanata"></span>
+                        <span class="charhead" character="Souma"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        9
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        Yumenosaki Era, Autumn
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Coming soon! List is currently still in its initial release</li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
 <section class="storylist-box light-read chiaki1 midori1 unit-only">
     <article class="top-section">
     <figure class="storylist-image">
@@ -1275,7 +1335,7 @@ Stories are picked based on lore and character relevance. For a full list of eve
                         Chapters
                     </div>
                     <div class="value">
-                        ~4-5 chapters
+                        27 (Appears in 4 chapters)
                     </div>
                 </div>
                 <div class="info-item two">
@@ -1302,6 +1362,7 @@ Stories are picked based on lore and character relevance. For a full list of eve
         <ul class="key-points">
         <li><i class="fa-solid fa-star chiaki"></i> First reveal that Chiaki wears glasses</li>
         <li><i class="fa-solid fa-star chiaki"></i> A first look into Kuro and Chiaki's relationship in the past</li>
+        <li><i class="fa-solid fa-star chiaki"></i> One of Chiaki's first acts as a hero</li>
         <li><i class="fa-solid fa-star ryuseitai-color"></i> More coming soon! List is currently still in its initial release</li>
         </ul>
     </article>
@@ -2273,6 +2334,66 @@ Stories are picked based on lore and character relevance. For a full list of eve
 <!-- story box end -->
 
 <!-- story box start -->
+<section class="storylist-box light-read shinobu1 non-unit">
+    <article class="top-section">
+    <figure class="storylist-image">
+        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_xfO3c677e4600LH5.webp?timestamp=1736328705080"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Autumn Forest
+        </div>
+        <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Autumn%20Forest"><div>Start Reading</div><div class="tl-credit">Translation on the masterlist</div></a>
+    </article>
+    <div class="three-wrapper">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Chiaki"></span>
+                        <span class="charhead" character="Nazuna"></span>
+                        <span class="charhead" character="Yuta"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        Yumenosaki Era, Autumn
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Coming soon! List is currently still in its initial release</li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
 <section class="storylist-box light-read midori1 non-unit">
     <article class="top-section">
     <figure class="storylist-image">
@@ -2436,6 +2557,66 @@ Stories are picked based on lore and character relevance. For a full list of eve
                     </div>
                     <div class="value">
                         Yumenosaki Era, Winter (February)
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Coming soon! List is currently still in its initial release</li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
+<section class="storylist-box light-read shinobu1 non-unit">
+    <article class="top-section">
+    <figure class="storylist-image">
+        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kfYw677e85ec7Od4.webp?timestamp=1736345069702"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Chuunibyou
+        </div>
+        <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Chuunibyou"><div>Start Reading</div><div class="tl-credit">Translation on the masterlist</div></a>
+    </article>
+    <div class="three-wrapper">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="ShinobuRecc"></span>
+                        <span class="charhead" character="Midori"></span>
+                        <span class="charhead" character="Nazuna"></span>
+                        <span class="charhead" character="Kaoru"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        Yumenosaki Era, Winter
                     </div>
                 </div>
                 <div class="info-item three">
@@ -3311,6 +3492,67 @@ Stories are picked based on lore and character relevance. For a full list of eve
                     </div>
                     <div class="value">
                         ES!! Era Year 1, Summer (Late September)
+                    </div>
+                </div>
+                <div class="info-item three">
+                    <div class="label">
+                        Release Date
+                    </div>
+                    <div class="value">                 
+                        TBA
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <article class="story-summary">
+        <div class="label">Key Points <span class="tl-credit" style="padding-left:0.3rem;"></span></div>
+        <ul class="key-points">
+        <li><i class="fa-solid fa-star ryuseitai-color"></i> Coming soon! List is currently still in its initial release</li>
+        </ul>
+    </article>
+</section>
+<!-- story box end -->
+
+<!-- story box start -->
+<section class="storylist-box light-read tetora1 non-unit">
+    <article class="top-section">
+    <figure class="storylist-image">
+        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_gKmY6gu67673a597.webp?timestamp=1734818398833"  class="storylist-image">
+    </figure>
+    </article>
+    <article class="second-section">
+        <div class="title">
+            Spring Bed
+        </div>
+        <a target="_blank" href="/spring_bed"><div>Start Reading</div><div class="tl-credit">Translation by 310mc</div></a>
+    </article>
+    <div class="three-wrapper">
+        <div class="info-area">
+            <div class="info">
+                <div class="info-item characters">
+                    <div class="value">
+                        <span class="charhead" character="TetoraRecc"></span>
+                        <span class="charhead" character="Subaru"></span>
+                        <span class="charhead" character="Hajime"></span>
+                        <span class="charhead" character="Natsume"></span>
+                        <span class="charhead" character="Jin"></span>
+                    </div>
+                </div>
+                <div class="info-item one">
+                    <div class="label">
+                        Chapters
+                    </div>
+                    <div class="value">
+                        8
+                    </div>
+                </div>
+                <div class="info-item two">
+                    <div class="label">
+                        Season
+                    </div>
+                    <div class="value">
+                        ES!! Era Year 1, Spring
                     </div>
                 </div>
                 <div class="info-item three">
@@ -4913,7 +5155,7 @@ Stories are picked based on lore and character relevance. For a full list of eve
                         Season
                     </div>
                     <div class="value">
-                        Yumenosaki Era and ES!! Eras
+                        Yumenosaki Era and ES!! Era (Year 1 & 2)
                     </div>
                 </div>
                 <div class="info-item three">
@@ -5184,6 +5426,7 @@ Stories are picked based on lore and character relevance. For a full list of eve
 </section>
 
 <div class="navigation2">
-<a href="/" title="Home" target="_blank"><i class="fa fa-home"></i></a>
+<a href="/" title="Home" class="home-button" target="_blank"><i class="fa fa-home"></i></a>
+<a href="/ryuseitaitimeline" title="Story Timeline" target="_blank"><i class="fa-regular fa-clock"></i></a>
 <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

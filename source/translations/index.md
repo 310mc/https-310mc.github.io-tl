@@ -510,6 +510,18 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_8Ofy6782385eauI4.webp?timestamp=1736587364134"
+                alt="Spring Flower Bed"
+            />
+        </div>
+        <a href="/spring_bed" class="storyName" target="_blank">
+            <span>Spring Bed</span>
+            <span class="read"></span>
+        </a>
+    </div>
+    <div class="story">
+        <div class="thumbimage">
+            <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_yeCim67671c33DC5.webp?timestamp=1734810681494"
                 alt="Soleil"
             />

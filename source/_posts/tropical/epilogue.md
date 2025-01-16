@@ -62,11 +62,15 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 
 ## Chapter 1
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, April)</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Tropical Live Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/ep1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_whjA6754b91aEam4.webp?timestamp=1733605674432 %}
 
 <div class="msr-narration">
     <p>Time passes, around the middle of April…</p>
@@ -226,7 +230,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/ep2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_q0mkmO6754b91a66.webp?timestamp=1733605677505 %}
 
 {% bubble Tetora smile %}
 <th>(Haha, even though he said he was real nervous to do the openin’ speech, Midori-kun’s actually managing it just fine on stage~)</th>
@@ -238,7 +242,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
 “♪\~♪\~♪”
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/ep2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GTk6754b91aMJNH3.webp?timestamp=1733605676101 %}
 
 {% bubble Chiaki norsmile %}
 <th>(You did incredible work, Takamine. You truly give off the aura of a commander.)</th>
@@ -264,7 +268,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
 <th>(Heh, my art of transformation worked like a charm!)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_nNISpN6754b91az6.webp?timestamp=1733605677837 %}
 
 {% bubble Shinobu v2 %}
 <th>(The fans are all enjoying our collaboration with ‘Tropical Troppeys’.)</th>
@@ -288,7 +292,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
 <th>(i am excited for the day that i am [commander], but i am even more excited to see everyone’s [growth].)</th>[^2]
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_t6754b91aBQsvqE1.webp?timestamp=1733605677787 %}
 
 {% bubble Kanata v2 %}
 <th>(i am sure that once this [powered up] ryuseitai becomes the [norm] for us, we will grow [stronger] than ever before.)</th>
@@ -312,7 +316,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
 <th>(But now I get it… It’s really such a blessing to have everyone in Ryuseitai support your dreams, isn’t it?)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vmUGB6754b91ajd5.webp?timestamp=1733605675067 %}
 
 {% bubble Midori grin %}
 “Thank you for listening to our song. But our live show has only just begun!”
@@ -328,7 +332,7 @@ Let’s all enjoy ourselves until the very last minute — In a relaxing, cheerf
     <p><span><b>Location:</b> StarPro Office (Conference Area)</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/ep3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ep6754b91a8yJsl2.webp?timestamp=1733605673494 %}
 
 <div class="msr-narration">
     <p>A few days after Tropical Live…</p>
@@ -458,6 +462,16 @@ After all, *I’m* the one and only commander of Yuruseitai.
                 </a>
             </div>
             <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/tropical/prologue">Prologue</a>
+                    <a href="/tropical/reborn">Reborn!</a>
+                    <a href="/tropical/transform">Transform!</a>
+                    <div>Epilogue</div>
+                    <a href="/tropical/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>
@@ -467,4 +481,4 @@ After all, *I’m* the one and only commander of Yuruseitai.
 
 [^1]: Uchiwa fans look like <a href="https://simple.wikipedia.org/wiki/Uchiwa" target="_blank">this</a>.
 [^2]: If you’d like to learn more about Kanata’s Ryuseitai, please read <a href="/stella_maris" target="_blank">Stella Maris</a>, which is set after this story.
-[^3]: It’s possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee’s. You can read more about Kanatee in Kanata’s Idol Story 1 and 2.
+[^3]: It’s possible Kanata does the Kanatee <em>puka! ☆</em> pose here, as the quote is almost the same as Kanatee’s. You can read more about Kanatee in Kanata’s Idol Story 1 and <a href="/idol_story/kanata_2" target="_blank">Idol Story 2</a>.

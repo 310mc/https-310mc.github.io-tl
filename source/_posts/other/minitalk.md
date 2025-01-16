@@ -129,7 +129,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/shootingstarfestival/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_63GXk6757106bqP5.webp?timestamp=1733759085324"
                 alt="A Joint Live!"
             />
         </div>
@@ -141,7 +141,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/shootingstarfestival/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_5FgKk6757106bVP5.webp?timestamp=1733759085453"
                 alt="The Festival's Hero"
             />
         </div>
@@ -158,7 +158,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/chiakiframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_CJUN9C6756fd83E6.webp?timestamp=1733754251113"
             alt="Anxious over…?"
         />
     </div>
@@ -170,7 +170,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/chiakibcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_6756fd83voAESG50.webp?timestamp=1733754251916"
             alt="The Monster Appears!"
         />
     </div>
@@ -182,7 +182,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/midoriframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_jD6P76756fea1685.webp?timestamp=1733754534061"
             alt="Halloween Costume"
         />
     </div>
@@ -194,7 +194,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/sweethalloween/midoribcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_g6756fea1C8Dd2P1.webp?timestamp=1733754532813"
             alt="Fun Training Camp?"
         />
     </div>
@@ -244,7 +244,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/rainbow/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ank967571189lNc4.webp?timestamp=1733759372400"
                 alt="Snoring"
             />
         </div>
@@ -256,7 +256,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/rainbow/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_YlD0675711897F94.webp?timestamp=1733759371105"
                 alt="Injury and Infirmary"
             />
         </div>
@@ -306,7 +306,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/submarine/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6BIq26759eeb3gt5.webp?timestamp=1733947064199"
                 alt="Okinawa Red!"
             />
         </div>
@@ -318,7 +318,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/submarine/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_1e0D6759eeb3P444.webp?timestamp=1733947065210"
                 alt="Troubled Hero"
             />
         </div>
@@ -332,7 +332,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ring/midoriframe_300px.jpg"
+                src="TBA"
                 alt="Conveying My Feelings"
             />
         </div>
@@ -344,7 +344,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ring/midoribcgframe_300px.jpg"
+                src="TBA"
                 alt="Before the Nerve-wrecking Photoshoot"
             />
         </div>
@@ -442,7 +442,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ysu67570ca8BS9v3.webp?timestamp=1733758123567"
                 alt="The Planning Of That Show"
             />
         </div>
@@ -454,7 +454,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_8MO7Sl67570ca8b6.webp?timestamp=1733758123348"
                 alt="Unaligned Feelings"
             />
         </div>
@@ -466,7 +466,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_67570ca8EoKzl7M0.webp?timestamp=1733758124300"
                 alt="What An Evil Ninja Is"
             />
         </div>
@@ -478,7 +478,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_f8elW67570ca8pW5.webp?timestamp=1733758124263"
                 alt="Preparing For The Mission"
             />
         </div>
@@ -490,7 +490,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_yfUHO67570dc31e5.webp?timestamp=1733758405413"
                 alt="Hungry Hero"
             />
         </div>
@@ -502,7 +502,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_867570dc3lwa6M21.webp?timestamp=1733758406016"
                 alt="The Path of a Hero Turning Evil"
             />
         </div>
@@ -514,7 +514,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_NbahY67570e11ZI5.webp?timestamp=1733758484613"
                 alt="Recommendations"
             />
         </div>
@@ -526,7 +526,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_3xgOt2g67570e117.webp?timestamp=1733758483644"
                 alt="Work, work, work"
             />
         </div>
@@ -538,7 +538,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_67570e115iRzojQ0.webp?timestamp=1733758482902"
                 alt="planning a trip"
             />
         </div>
@@ -550,7 +550,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/supervillain/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_7moac67570e11K75.webp?timestamp=1733758483408"
                 alt="sea crook"
             />
         </div>
@@ -569,7 +569,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/weddingmarch/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_hn6756ec33lGOfO2.webp?timestamp=1733749816328"
                 alt="Unexpected Dropped Item"
             />
         </div>
@@ -581,7 +581,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/weddingmarch/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_OFKttAE6756ec337.webp?timestamp=1733749813697"
                 alt="If I Were In Kyoto…"
             />
         </div>
@@ -600,7 +600,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_zRa4d6754b91ank5.webp?timestamp=1733605669043"
                 alt="Nervous At Work"
             />
         </div>
@@ -612,7 +612,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_j9i6754b91a6WL73.webp?timestamp=1733605670991"
                 alt="Proclaiming What I Love"
             />
         </div>
@@ -624,7 +624,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ggx6754b91awjYT3.webp?timestamp=1733605670619"
                 alt="Peculiar Food Specialty"
             />
         </div>
@@ -636,7 +636,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Nu6754b91an9pxI2.webp?timestamp=1733605669907"
                 alt="Yuruchara Training"
             />
         </div>
@@ -648,7 +648,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_v6754b91aJPfv1h1.webp?timestamp=1733605668468"
                 alt="wonderful news"
             />
         </div>
@@ -660,7 +660,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_dMw6754b91aYx5U3.webp?timestamp=1733605670270"
                 alt="treasured item"
             />
         </div>
@@ -672,7 +672,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_l4UbZW6754b91as6.webp?timestamp=1733605673370"
                 alt="Studying Every Day"
             />
         </div>
@@ -684,7 +684,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_X96754b91aAjFAT2.webp?timestamp=1733605673244"
                 alt="How A Yuruchara Feels"
             />
         </div>
@@ -696,7 +696,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a7DZFDwM0.webp?timestamp=1733605669964"
                 alt="Favorable Work"
             />
         </div>
@@ -708,7 +708,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ed6754b91aHQzSl2.webp?timestamp=1733605670780"
                 alt="Final Warmup"
             />
         </div>

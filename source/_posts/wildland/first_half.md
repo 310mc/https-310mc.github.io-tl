@@ -62,7 +62,7 @@ description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an ev
 ## Chapter 1
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment, May)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_mO9yp66feeb40Wa5.webp?timestamp=1727982406603 %}
@@ -454,7 +454,7 @@ We haven’t closed any cases yet, Shinkai-dono. We were supposed to discuss who
 {% endbubble %}
 
 {% bubble Midori yare %}
-It’s ‘cause Morisawa-senpai got us all side-tracked. Such a nuisance…
+It’s ‘cause Morisawa-senpai got us all side-tracked. Such a hindrance…
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -602,7 +602,7 @@ HYA HA HA\~! I hope you’re freakin’ ready\~!
 {% endbubble %}
 
 {% bubble Shinobu horrified %}
-GYAAAAHH—!? There’s a suspicious person in the Starmony dorms~!!
+GYAAAAHH—!? There’s a suspicious person in the Seisoukan Dorms~!!
 {% endbubble %}
 
 {% bubble Tetora surprised %}
@@ -810,7 +810,7 @@ ufufu, so you have finally arrived, hm~?
 {% endbubble %}
 
 {% bubble Tetora surprised0 %}
-Shinkai-senpai? Why’re here of all places?
+Shinkai-senpai? Why’re ya here of all places?
 {% endbubble %}
 
 {% bubble Shinobu surprised0 %}
@@ -1325,6 +1325,16 @@ Ossu! Personally, the part that’s been on my mind is here durin’ the B-melod
                 </a>
             </div>
             <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wildland/prologue">Prologue</a>
+                    <div>The Tiger Feels Around and Searches</div>
+                    <a href="/wildland/second_half">Possibility and Guiding Star</a>
+                    <a href="/wildland/epilogue">Epilogue</a>
+                    <a href="/wildland/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wildland/second_half" title="Next Chapter: Possibility and Guiding Star"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

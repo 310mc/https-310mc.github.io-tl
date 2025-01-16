@@ -52,7 +52,7 @@ description: "[ES!!] It’s the high-profile audition program, 4piece! Chiaki an
 <!-- more -->
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_CFihlo66ad67d966.webp?timestamp=1722640351152 %}
@@ -311,6 +311,20 @@ I absolutely want to repay ya for the debt I owe ya…!
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/vs_gourmet/profile">Profile Cards & PR Videos</a>
+                    <a href="/vs_gourmet/countdown">Introduction & Countdown</a>
+                    <div>Prologue</div>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors">Praise of Delicious Flavors Ch1-8</a>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors_p2">Praise of Delicious Flavors Ch8-15</a>
+                    <a href="/vs_gourmet/flood_of_customers">Flood of Customers Ch1-7</a>
+                    <a href="/vs_gourmet/flood_of_customers_p2">Flood of Customers Ch8-12</a>
+                    <a href="/vs_gourmet/epilogue">Epilogue & Judging Results</a>
+                    <a href="/vs_gourmet/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/vs_gourmet/praise_of_delicious_flavors" title="Next Chapter: Praise of Delicious Flavors (Chapter 1–7)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

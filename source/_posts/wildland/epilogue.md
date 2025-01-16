@@ -62,7 +62,7 @@ description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an ev
 ## Chapter 1
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment, May)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_s6l6731436a9LY13.webp?timestamp=1731281777820 %}
@@ -326,7 +326,7 @@ We’ll take the hands of all the Alices wandering ‘bout — and guide ‘em~�
 ## Chapter 2
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment, June)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, June)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_70Z6731436agiL23.webp?timestamp=1731281777134 %}
@@ -629,6 +629,16 @@ Ahaha, even when we’re in the highest year in school, you two are the same as 
                 </a>
             </div>
             <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wildland/prologue">Prologue</a>
+                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <a href="/wildland/second_half">Possibility and Guiding Star</a>
+                    <div>Epilogue</div>
+                    <a href="/wildland/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

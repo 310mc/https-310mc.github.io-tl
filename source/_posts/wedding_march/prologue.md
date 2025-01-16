@@ -65,7 +65,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
     <p><span><b>Location:</b> Tokusatsu Set Location</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/prologue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_xp2PyT6756ed8596.webp?timestamp=1733750153654 %}
 
 {% bubble Chiaki %}
 1, 2, 3, 4…
@@ -141,7 +141,7 @@ All right, let’s begin.
     <p>Screen fades to another area…</p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/prologue_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LDMX6756ed85k9D4.webp?timestamp=1733750153756 %}
 
 {% bubble Jun v3 %}
 …Oh, Senpai started running. Looks like it’s finally begun~
@@ -161,7 +161,7 @@ Why’s the bridal project turning out to be like *this~…*?
     <p>Slides to another area…</p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mI6756ec33O8hqL2.webp?timestamp=1733749814487 %}
 
 <div class="msr-narration">
     <p>Sounds of explosions</p>
@@ -190,6 +190,16 @@ I’ll be the one to protect Sazanami and the world’s peace…! ☆
                 </a>
             </div>
             <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/wedding_march/white_diamond">White Diamond</a>
+                    <a href="/wedding_march/red_diamond">Red Diamond</a>
+                    <a href="/wedding_march/epilogue">Epilogue</a>
+                    <a href="/wedding_march/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wedding_march/white_diamond" title="Next Chapter: White Diamond"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

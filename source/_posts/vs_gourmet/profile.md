@@ -306,6 +306,20 @@ That was amazing, Ayase!
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Profile Cards & PR Videos</div>
+                    <a href="/vs_gourmet/countdown">Introduction & Countdown</a>
+                    <a href="/vs_gourmet/prologue">Prologue</a>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors">Praise of Delicious Flavors Ch1-7</a>
+                    <a href="/vs_gourmet/praise_of_delicious_flavors_p2">Praise of Delicious Flavors Ch8-15</a>
+                    <a href="/vs_gourmet/flood_of_customers">Flood of Customers Ch1-7</a>
+                    <a href="/vs_gourmet/flood_of_customers_p2">Flood of Customers Ch8-12</a>
+                    <a href="/vs_gourmet/epilogue">Epilogue & Judging Results</a>
+                    <a href="/vs_gourmet/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/vs_gourmet/prologue" title="Next Chapter: Prologue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

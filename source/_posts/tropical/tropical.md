@@ -13,11 +13,11 @@ permalink: tropical/
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/tropical/midoribcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_plV6754b91aT32m3.webp?timestamp=1733605677619')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Tropical</div>
-                <div class="title-area__subtitle">トロピカル</div>
+                <div class="title-area__subtitle">Squeeze ☆ Tropical Paradise Stuffed Full Of Love</div>
                 <div class="title-area__start"><a href="/tropical/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -30,7 +30,7 @@ permalink: tropical/
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            Spring (ES 2nd Year)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -108,14 +108,14 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/tropical/midoriorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_W3b6754b91ammNF3.webp?timestamp=1733605676148)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/tropical/midoribcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_plV6754b91aT32m3.webp?timestamp=1733605677619"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Tropical</div>
-                <div class="title-area__subtitle">トロピカル</div>
+                <div class="title-area__subtitle">Squeeze ☆ Tropical Paradise Stuffed Full Of Love</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -130,7 +130,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            Spring (2nd year of ES's Establishment)
+                            Spring (ES 2nd Year, April)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -217,7 +217,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_K6754b91aCY29J21.webp?timestamp=1733605676644">
                                 </div>
                                 <div class="caption">
                                     Reborn! 3
@@ -225,7 +225,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/shinobuorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_N2AP6754b91aFMT4.webp?timestamp=1733605677974">
                                 </div>
                                 <div class="caption">
                                     Reborn! 3
@@ -233,7 +233,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_W3b6754b91ammNF3.webp?timestamp=1733605676148">
                                 </div>
                                 <div class="caption">
                                     Transform! 3
@@ -241,7 +241,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/shinobubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_nNISpN6754b91az6.webp?timestamp=1733605677837">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -249,7 +249,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_t6754b91aBQsvqE1.webp?timestamp=1733605677787">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -257,7 +257,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/tropical/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_vmUGB6754b91ajd5.webp?timestamp=1733605675067">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -275,10 +275,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/midoriframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_zRa4d6754b91ank5.webp?timestamp=1733605669043">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_j9i6754b91a6WL73.webp?timestamp=1733605670991">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -288,20 +288,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[] Midori Takamine</div>
-                                    <div class="card__jp">[] 高峯 翠</div>
+                                    <div class="card__name">⭐⭐⭐⭐⭐<br>[Yurusei Paradise] Midori Takamine</div>
+                                    <div class="card__jp">[ゆる星パラダイス] 高峯 翠</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--好きを詰めた集団--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--南国トロピカル--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--ゆるさの極意--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -311,10 +311,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/kanataframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ggx6754b91awjYT3.webp?timestamp=1733605670619">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Nu6754b91an9pxI2.webp?timestamp=1733605669907">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -324,20 +324,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐<br>[] Kanata Shinkai</div>
-                                    <div class="card__jp">[] 深海 奏汰</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[Unique Paradise] Shinobu Sengoku</div>
+                                    <div class="card__jp">[個性パラダイス] 仙石 忍</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--好きを詰めた時間--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--楽園トロピカル--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--懐かしのグッズ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -347,10 +347,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/shinobuframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_v6754b91aJPfv1h1.webp?timestamp=1733605668468">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_dMw6754b91aYx5U3.webp?timestamp=1733605670270">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -360,20 +360,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐⭐<br>[] Shinobu Sengoku</div>
-                                    <div class="card__jp">[] 仙石 忍</div>
+                                    <div class="card__name">⭐⭐⭐⭐<br>[reborn paradise] Kanata Shinkai</div>
+                                    <div class="card__jp">[しんせいぱらだいす] 深海 奏汰</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--すきをつめたばしょ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--うららかとろぴかる--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--つくえのうえのゆめ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -383,10 +383,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/tetoraframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_l4UbZW6754b91as6.webp?timestamp=1733605673370">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_X96754b91aAjFAT2.webp?timestamp=1733605673244">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -396,20 +396,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐<br>[] Tetora Nagumo</div>
-                                    <div class="card__jp">[] 南雲 鉄虎</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Achieved Paradise] Tetora Nagumo</div>
+                                    <div class="card__jp">[達成パラダイス] 南雲 鉄虎</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--好きを詰めた舞台--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--晴れ晴れトロピカル--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--知らない趣味--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -419,10 +419,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/tropical/chiakiframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a7DZFDwM0.webp?timestamp=1733605669964">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ed6754b91aHQzSl2.webp?timestamp=1733605670780">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -432,20 +432,20 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     </div>
                                 </div>
                                 <div class="lightbox">
-                                    <div class="card__name">⭐⭐⭐<br>[] Chiaki Morisawa</div>
-                                    <div class="card__jp">[] 守沢 千秋</div>
+                                    <div class="card__name">⭐⭐⭐<br>[Thriving Paradise] Chiaki Morisawa</div>
+                                    <div class="card__jp">[隆盛パラダイス] 守沢 千秋</div>
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--好きを詰めた瞬間--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--新風トロピカル--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--見守る未来--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -478,8 +478,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -487,8 +487,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="">Part One</a>
-                            <a href="minitalk/shinobu_2" id="">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part 1</a>
+                            <a href="minitalk/shinobu_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -496,8 +496,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Kanata Shinkai</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/kanata_1" id="">Part One</a>
-                            <a href="minitalk/kanata_2" id="">Part Two</a>
+                            <a href="minitalk/kanata_1" id="">Part 1</a>
+                            <a href="minitalk/kanata_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -505,8 +505,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/tetora_1" id="">Part One</a>
-                            <a href="minitalk/tetora_2" id="">Part Two</a>
+                            <a href="minitalk/tetora_1" id="">Part 1</a>
+                            <a href="minitalk/tetora_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -514,8 +514,8 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -531,7 +531,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_zRa4d6754b91ank5.webp?timestamp=1733605669043"
                 alt="Nervous At Work"
             />
         </div>
@@ -543,7 +543,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_j9i6754b91a6WL73.webp?timestamp=1733605670991"
                 alt="Proclaiming What I Love"
             />
         </div>
@@ -555,7 +555,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ggx6754b91awjYT3.webp?timestamp=1733605670619"
                 alt="Peculiar Food Specialty"
             />
         </div>
@@ -567,7 +567,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Nu6754b91an9pxI2.webp?timestamp=1733605669907"
                 alt="Yuruchara Training"
             />
         </div>
@@ -579,7 +579,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_v6754b91aJPfv1h1.webp?timestamp=1733605668468"
                 alt="wonderful news"
             />
         </div>
@@ -591,7 +591,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_dMw6754b91aYx5U3.webp?timestamp=1733605670270"
                 alt="treasured item"
             />
         </div>
@@ -603,7 +603,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_l4UbZW6754b91as6.webp?timestamp=1733605673370"
                 alt="Studying Every Day"
             />
         </div>
@@ -615,7 +615,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_X96754b91aAjFAT2.webp?timestamp=1733605673244"
                 alt="How A Yuruchara Feels"
             />
         </div>
@@ -627,7 +627,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a7DZFDwM0.webp?timestamp=1733605669964"
                 alt="Favorable Work"
             />
         </div>
@@ -639,7 +639,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/tropical/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ed6754b91aHQzSl2.webp?timestamp=1733605670780"
                 alt="Final Warmup"
             />
         </div>

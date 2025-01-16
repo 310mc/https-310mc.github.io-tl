@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_gdvcKmA6754b91a7.webp?timestamp=1733605675227 %}
 
 {% bubble Shinobu v2 %}
 Ah! Anzu-dono~! I was not aware you were in the StarPro office!
@@ -101,7 +101,7 @@ I just finished my job, so I came to complete a survey for a variety show I will
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_c7vCj6754b91aLb5.webp?timestamp=1733605675877 %}
 
 {% bubble Shinobu v2 %}
 The upcoming show I will perform in will be about entertainers demonstrating a peculiar cuisine specialty.
@@ -152,7 +152,7 @@ Ah, of course, the cuisine I will be making is hyorogan![^1]
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91aRd0GEQN0.webp?timestamp=1733605673179 %}
 
 {% bubble Shinobu v2 %}
 Everyone will taste-test the food made in the show…

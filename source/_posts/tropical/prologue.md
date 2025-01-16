@@ -58,14 +58,14 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 <!-- more -->
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, April)</span></p>
 </div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/prologue1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_TmR3Rn6754b91ay6.webp?timestamp=1733605674677 %}
 
 <div class="msr-narration">
     <p>One year after ES’s establishment, in April. During a Ryuseitai meeting…</p>
@@ -306,6 +306,16 @@ So, which are you guys choosing?
                 </a>
             </div>
             <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/tropical/reborn">Reborn!</a>
+                    <a href="/tropical/transform">Transform!</a>
+                    <a href="/tropical/epilogue">Epilogue</a>
+                    <a href="/tropical/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/tropical/reborn" title="Next Chapter: Reborn!"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -322,5 +332,5 @@ So, which are you guys choosing?
 [^6]: As a side note, “Ryuseitai Power Up” is how the all-leaders Ryuseitai was introduced by the game after the “Universe” (<a href="/supervillain" target="_blank">Supervillain</a>) event ended, as shown in this <a href="https://www.youtube.com/watch?v=_MR9kD5TYcw" target="_blank">video</a>. You can compare the changes with their previous <a href="https://www.youtube.com/watch?v=XWi5nX4lshk" target="_blank">introduction video</a> from 2019.
 [^7]: Ryuseitai-N (N = Nagumo) refers to the Ryuseitai that worked within Yumenosaki Academy, which was then disbanded by the end of summer. You can read more about them in the story <a href="/motor_show" target="_blank">Motor Show</a>.
 [^8]: This is referring to the initial decision Ryuseitai took after Chiaki and Kanata graduated and the ES agencies were established: To split between Ryuseitai-N (Yumenosaki Academy’s Ryuseitai, led by Tetora), and Ryuseitai-M (StarPro’s Ryuseitai, led by Chiaki).
-[^9]: You can see the whiteboard in <a href="/img/es/eventstory/tropical/chiakiframe_300px.jpg" target="_blank">Chiaki’s card</a>.
+[^9]: You can see the whiteboard in <a href="https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a7DZFDwM0.webp?timestamp=1733605669964" target="_blank">Chiaki’s card</a>.
 [^10]: A ladder lottery looks like <a href="https://en.wikipedia.org/wiki/Ghost_Leg" target="_blank">this</a>.

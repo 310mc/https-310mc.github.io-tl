@@ -62,11 +62,15 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 
 ## Chapter 1
 
-<div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, April)</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn1_1.jpg %}
+<div class="msr-location">
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
+</div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91aSo0d0Mb0.webp?timestamp=1733605673228 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -154,7 +158,7 @@ Understood! Very well, I shall head over to Midori-kun’s home!
     <p><span><b>Location:</b> Midori’s Room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5r4Asn6754b91aL6.webp?timestamp=1733605672322 %}
 
 {% bubble Midori sigh %}
 <em>Sigh</em>, I’m so depressed…
@@ -364,9 +368,9 @@ Haaaaaahh…
     <p><span><b>Location:</b> Shopping District</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_cJMfdT6754b91ak6.webp?timestamp=1733605674764 %}
 
-{% bubble Tetora frown %}
+{% bubble Tetora sighfrown %}
 I had no idea Midori-kun was grieving over somethin’…
 
 It’s almost a blessing that we don’t have any urgent work to do as Ryuseitai for now, but we could easily get somethin’ while Midori-kun’s resting…
@@ -406,7 +410,7 @@ After all, if we were to ignore reality and only chase after ideals… then it w
     <p><span><b>Location:</b> StarPro Office (Conference Area)</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fDE6754b91ap16b3.webp?timestamp=1733605677078 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -422,7 +426,7 @@ Ooh, you seem to be in a really good mood, Kanata.
 I see that you’re drawing something with your finger…?
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/kanataorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K6754b91aCY29J21.webp?timestamp=1733605676644 %}
 
 {% bubble Kanata v2 %}
 fufufu\~ are you that curious to know what i am up to, chiaki\~?
@@ -498,7 +502,7 @@ But I’m sure Takamine will bring a new color into Ryuseitai eventually. I beli
     <p><span><b>Location:</b> Shopping District</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_J2L4YBq6754b91a7.webp?timestamp=1733605675376 %}
 
 {% bubble Shinobu frownshake %}
 Midori-kun is even starting to take time away from school… It must be truly dire for him…
@@ -542,7 +546,7 @@ Either way, it appears this is as much as we can do. We can only wait for Midori
 There’s a toy store across the street — They may have some yuruchara merchandise~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/shinobuorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_N2AP6754b91aFMT4.webp?timestamp=1733605677974 %}
 
 {% bubble Shinobu grin %}
 Look, look! This is such a good bargain~♪
@@ -584,7 +588,7 @@ Until then, I will train myself to perfect the art of transformation! Nin-nin~�
     <p><span><b>Location:</b> School Route</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0Z198O6754b91aA6.webp?timestamp=1733605673372 %}
 
 {% bubble Midori sighdrop %}
 *Sigh…*
@@ -595,7 +599,7 @@ I feel like there’s an empty hole in my heart… And staying in my room only s
 
 I went out ‘cause I couldn’t take it anymore, but… I dunno what to even <em>do</em>…
 
-I can’t go back to Starmony Dorm right now, but I don’t feel right just killing time outside, either…
+I can’t go back to Seisoukan Dorm right now, but I don’t feel right just killing time outside, either…
 {% endbubble %}
 
 {% bubble Midori northinking %}
@@ -726,7 +730,7 @@ So… if it’s really alright, then I’d like your help.
     <p><span><b>Location:</b> StarPro Office (Conference Area)</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/reborn5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_UvoP73U6754b91a7.webp?timestamp=1733605673283 %}
 
 {% bubble Tetora fist %}
 Up next, the 7th edition of the ultimate Ryuseitai series—!
@@ -1030,6 +1034,16 @@ The new Ryuseitai that I thought up is… “Yuruseitai”…![^7]
                 </a>
             </div>
             <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/tropical/prologue">Prologue</a>
+                    <div>Reborn!</div>
+                    <a href="/tropical/transform">Transform!</a>
+                    <a href="/tropical/epilogue">Epilogue</a>
+                    <a href="/tropical/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/tropical/transform" title="Next Chapter: Transform!"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

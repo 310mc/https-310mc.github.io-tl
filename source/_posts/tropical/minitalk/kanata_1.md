@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's first Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_T57pTV6754b91al6.webp?timestamp=1733605674522 %}
 
 {% bubble Kanata v2 %}
 fufufu\~♪ hello, anzu-san\~
@@ -101,7 +101,7 @@ i just finished a [photoshoot] for a magazine, and heard about [something] wonde
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DFEX3u6754b91an6.webp?timestamp=1733605671938 %}
 
 {% bubble Kanata v2 %}
 you see, my next magazine photoshoot will be on the [beach].
@@ -152,7 +152,7 @@ it is the most suitable [work] for me. i was pleasantly surprised when they told
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_kanata1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YaER3T6754b91aM6.webp?timestamp=1733605672008 %}
 
 {% bubble Kanata v2 %}
 a [job] about something you enjoy really gets you in the [mood]~

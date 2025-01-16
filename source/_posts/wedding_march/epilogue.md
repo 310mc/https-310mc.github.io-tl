@@ -65,7 +65,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
     <p><span><b>Location:</b> Lounge in TV Station</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/ep_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5Y3TuLW6756ed217.webp?timestamp=1733750051859 %}
 
 {% bubble Jun v3 %}
 Thanks for the hard work~ …Mm? I got a message from someone.
@@ -103,7 +103,7 @@ Look at the top one.
 Ahaha! That one was really unfair~
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/ep_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YK6756ed21mLLRu2.webp?timestamp=1733750051982 %}
 
 <div class="msr-narration">
     <p>Flashback to the first day of the Kyoto trip, Arashiyama…</p>
@@ -145,7 +145,7 @@ Ahaha! That one was really unfair~
 I-I love you! My miso—
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/ep_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Cvjpo6756ed21XP5.webp?timestamp=1733750052029 %}
 
 <div class="msr-narration">
     <p>Fades back to the present…</p>
@@ -245,6 +245,16 @@ No, no! Please don’t say it in such a misleading wayyy~!
                 </a>
             </div>
             <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wedding_march/prologue">Prologue</a>
+                    <a href="/wedding_march/white_diamond">White Diamond</a>
+                    <a href="/wedding_march/red_diamond">Red Diamond</a>
+                    <div>Epilogue</div>
+                    <a href="/wedding_march/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -53,7 +53,7 @@ description: "[ES!!] Ryuseitai is selected to take part in ‘WILDLAND’, an ev
 <!-- more -->
 
 <div class="msr-season spring">
-    <p><span><b>Season:</b> Spring (2nd year of ES’s establishment, May)</span></p>
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
 {% img https://f005.backblazeb2.com/file/reitoouji/ro_d8Ai66fec5f4Cu64.webp?timestamp=1727972864261 %}
@@ -377,6 +377,16 @@ Buchou? What’s wrong?
                 </a>
             </div>
             <a target="_blank" href="/wildland" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <a href="/wildland/second_half">Possibility and Guiding Star</a>
+                    <a href="/wildland/epilogue">Epilogue</a>
+                    <a href="/wildland/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wildland/first_half" title="Next Chapter: The Tiger Feels Around and Searches"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -388,6 +398,6 @@ Buchou? What’s wrong?
 [^1]: Kumite is one of the ways to train in karate, involving sparring with someone else. Read more <a href="https://en.wikipedia.org/wiki/Kumite" target="_blank">here</a>.
 [^2]: “Buchou” means club captain/president.
 [^3]: Referring to Hiiro’s first encounter with an idol, and how much it meant to him. This is explored in the first !! Era main story, as well as Matrix. For translations: Main story <a href="https://mainstoryarchive.tumblr.com/post/759278638269169664/translation-main-story-archive-masterlist" target="_blank">here</a>, Matrix <a href="https://toujokaname.tumblr.com/post/750764512860422144/matrix" target="_blank">here</a>.
-[^4]: Referring to the events that took place across the first year of !! Era (ES1) for Ryuseitai; the agency ordered them to disband Ryuseitai-N. For a summary, please <a href="/dokisuta_ryuseitai" target="_blank">see the Ryuseitai timeline provided by the Dokisuta stream</a>. To learn more about what happened, please read the ES1 Ryuseitai stories, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^4]: Referring to the events that took place across the first year of ES!! Era (ES1) for Ryuseitai; the agency ordered them to disband Ryuseitai-N. For a summary, please <a href="/dokisuta_ryuseitai" target="_blank">see the Ryuseitai timeline provided by the Dokisuta stream</a>. To learn more about what happened, please read the ES1 Ryuseitai stories, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
 [^5]: Referring to Hero Show, when Tetora fled out of the room after getting tired of Ryuseitai’s activities. Hero Show is set in the early days of Ryuseitai’s Yumenosaki days, when they would mainly play superheroes or do hero shows as part of their activities. Another example of this is in <a href="/hero_game" target="_blank">Hero Game</a>.
 [^6]: Referring to Supernova, the performance that kickstarted Ryuseitai from only doing hero shows, to being proper hero idols and getting proper idol work.

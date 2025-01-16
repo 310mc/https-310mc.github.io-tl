@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_i5F6754b91agT8U3.webp?timestamp=1733605674215 %}
 
 {% bubble Chiaki nod %}
 <th><em>(sways left and right)</em></th> Soooftly, soooftly… Take it easy and relaaax~…♪
@@ -103,10 +103,10 @@ You don't have to look so worried, I'm alright! I was just doing a final warmup 
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_rat6754b91ast0e3.webp?timestamp=1733605674018 %}
 
 {% bubble Chiaki awkward %}
-I'm not that good at moving and expressing myself in a soft way, it seems…
+I'm not that good at moving and expressing myself in a soft, relaxed way, it seems…
 
 Takamine couldn't bear to watch my performance, so he introduced me to a yuruchara that resembles me.
 {% endbubble %}
@@ -157,7 +157,7 @@ It's an octopus yuruchara that wants to be a police officer. Despite its earnest
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h6754b91a4bhUvT1.webp?timestamp=1733605676533 %}
 
 {% bubble Chiaki fist %}
 Oh! The rest of the members are about to arrive soon.

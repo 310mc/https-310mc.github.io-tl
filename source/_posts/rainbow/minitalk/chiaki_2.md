@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Rainbow. 
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uMa67571189b74u3.webp?timestamp=1733759373694 %}
 
 {% bubble Chiaki grin %}
 Heeey, Transfer student! Mm? Ahh, no, I didn't have anything to speak to you about!
@@ -128,7 +128,7 @@ Ah— Sorry! Do you have an urgent matter by any chance!?
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DS9675711894RpK3.webp?timestamp=1733759372372 %}
 
 {% bubble Chiaki grin2 %}
 Oh! Perfect timing! Transfer student, look!
@@ -207,7 +207,7 @@ Heh! Why would I hide my injury, when it's *Sagami-sensei* who treated it!?
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ixs67571189gxdg3.webp?timestamp=1733759373026 %}
 
 {% bubble Chiaki grin %}
 <em><th>(Humming)</th></em> Hmhmhm~♪ — Woah, Transfer student!?

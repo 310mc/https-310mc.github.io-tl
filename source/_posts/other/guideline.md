@@ -48,37 +48,13 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 
 ## Currently Working On
 
-<h2>※ Translating the following stories:</h2>
+<!--<h2>※ Translating the following stories:</h2>
 
 <div class="stories">
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/scoutstory/sportssurvivors/mitsurubcgframe_300px.jpg"
-            alt="Sports Survivors"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Sports Survivors (In Progress! 2/6 Chapters)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/scoutstory/cityriders/hiyoribcgframe_300px.jpg"
-            alt="Whimsical City Rider"
-        />
-    </div>
-    <a href="" class="storyName" target="_blank">
-        <span>Whimsical City Rider (In progress! 4/6 Chapters)</span>
-        <span class="read soon"></span>
-    </a>
-</div>
-<!--<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/aherotoo/c2.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_7TOL5675ac7d5ub5.webp?timestamp=1734002649238"
             alt="Chiaki-related stories"
         />
     </div>
@@ -110,14 +86,49 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
         <span>Graduation (Chiaki scenes only!)<br>On hold</span>
         <span class="read soon"></span>
     </a>
-</div>-->
 </div>
-
-<strong>Note:</strong> Progressing slowly on Sports Survivors and Whimsical City Rider. They will be completed before the end of 2024.
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="/img/es/scoutstory/roaringseamarina/izumibcgframe_300px.jpg"
+            alt="Roaring Sea Marina"
+        />
+    </div>
+    <a href="/roaring_sea_marina" class="storyName" target="_blank">
+        <span>Roaring Sea Marina (Coming Soon!)</span>
+        <span class="read"></span>
+    </a>
+</div>
+</div>
+-->
 
 <h2>※ Finished the following <a href="/translations" target="_blank">translations</a>:</h2>
 
 <div class="stories">
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_VBFp6767185b2lJ4.webp?timestamp=1734809695854"
+            alt="Sports Survivors"
+        />
+    </div>
+    <a href="/sports_survivors" class="storyName" target="_blank">
+        <span>Sports Survivors</span>
+        <span class="read"></span>
+    </a>
+</div>
+<div class="story">
+    <div class="thumbimage">
+        <img
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_67671454b8okwx20.webp?timestamp=1734808667282"
+            alt="Free-spirited City Rider"
+        />
+    </div>
+    <a href="/whimsical_city_rider" class="storyName" target="_blank">
+        <span>Whimsical City Rider</span>
+        <span class="read"></span>
+    </a>
+</div>
 <div class="story">
     <div class="thumbimage">
         <img
@@ -157,61 +168,13 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
 <div class="story">
 <div class="thumbimage">
     <img
-        src="/img/banner/9thanniversary_300px.jpg"
-        alt="9th Anniversary (Ryuseitai)"
+        src="https://f005.backblazeb2.com/file/reitoouji/ro_zQFHn6757174fSE5.webp?timestamp=1733760847800"
+        alt="9th Anniversary Ryuseitai"
     />
 </div>
 <a href="/anniversary/9th" class="storyName" target="_blank">
     <span>9th Anniversary Ryuseitai</span>
     <span class="read"></span>
 </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/banner/ibukiidolstory1.jpg"
-            alt="Ibuki Taki Idol Story 1"
-        />
-    </div>
-    <a href="/idol_story/ibuki_1" class="storyName" target="_blank">
-        <span>Ibuki Taki Idol Story 1</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/banner/ibukiidolstory2.jpg"
-            alt="Ibuki Taki Idol Story 2"
-        />
-    </div>
-    <a href="/idol_story/ibuki_2" class="storyName" target="_blank">
-        <span>Ibuki Taki Idol Story 2</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/banner/fuyumeidolstory2.jpg"
-            alt="Fuyume Hanamura Idol Story 2"
-        />
-    </div>
-    <a href="/idol_story/fuyume_2" class="storyName" target="_blank">
-        <span>Fuyume Hanamura Idol Story 2</span>
-        <span class="read"></span>
-    </a>
-</div>
-<div class="story">
-    <div class="thumbimage">
-        <img
-            src="/img/es/idolstory/truetomyselfstepforward/c1.jpg"
-            alt="True To Myself, Taking A Step Forward"
-        />
-    </div>
-    <a href="/true_to_myself_taking_a_step_forward" class="storyName" target="_blank">
-        <span>True To Myself, Taking A Step Forward</span>
-        <span class="read"></span>
-    </a>
 </div>
 </div>

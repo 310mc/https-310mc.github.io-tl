@@ -184,7 +184,7 @@ And it’s a *super* rare one at that! Only *five* of these were ever made…! I
             Either way, it doesn’t seem like it was treasured much, so is it alright if I have it?
             {% endbubble %}
             {% bubble Midori grin %}
-            Thank you so much…♪ I’ll tidy up this little guy up all by myself and treasure it for life, I assure you that.
+            Thank you so much…♪ I’ll tidy up this little guy all by myself and treasure it for life, I assure you that.
 			{% endbubble %}
         </div>
     </div>

@@ -94,7 +94,7 @@ I’ll keep saying it — the hero is right here!
 
 <h4>※ All for one, one for all; he is <u>passionate and empathetic</u></h4>
 
-{% img /img/es/es2mainstory/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_EtyEZp675715a5G6.webp?timestamp=1733760429047 %}
 
 {% bubble Chiaki grin2 %}
 We don't have to try and do everything all by ourselves. *All for one, one for all!*
@@ -131,7 +131,7 @@ We’ll start over and assemble everything all over again. What we want to prote
 
 <h4>※ Puzzling behavior, an unwavering person no matter the situation; he <u>100% goes by his own pace</u></h4>
 
-{% img /img/es/eventstory/wisteria/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_lxWQTC6756eb8fg6.webp?timestamp=1733749652435 %}
 
 {% bubble Kanata v2 %}
 there are so [many] strange things in this world, aren't there~…♪
@@ -141,7 +141,7 @@ there are so [many] strange things in this world, aren't there~…♪
 
 <h4>※ In the ocean! In the fountain! <i>puka, puka</i> time anywhere…♪; <u>Unmatched Water-lover</u></h4>
 
-{% img /img/es/eventstory/piratefes/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_M7HC67570f7faIb4.webp?timestamp=1733758853551 %}
 
 {% bubble Kanata v2 %}
 let's <em>puka puka</em>\~♪ all the way to the [other side] of the [horizon]… [together]\~♪
@@ -151,7 +151,7 @@ let's <em>puka puka</em>\~♪ all the way to the [other side] of the [horizon]�
 
 <h4>※ A <u>Broad-minded</u>, deep heart that sees through one's true nature, and wraps around them like the deep ocean.</h4>
 
-{% img /img/es/es2mainstory/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_D64m675715a54Cb4.webp?timestamp=1733760428336 %}
 
 {% bubble Kanata v2 %}
 this is the gentle [planet earth]! we are all [family], born on this planet!
@@ -178,7 +178,7 @@ this is the gentle [planet earth]! we are all [family], born on this planet!
 
 <h4>※ In order to change himself, he is always stained with mud — for he is full of <u>Effort and willpower</u></h4>
 
-{% img /img/es/es2mainstory/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bjtIWv675715a556.webp?timestamp=1733760425754 %}
 
 {% bubble Tetora v2 %}
 I'm gonna keep working hard, earnestly and straightforwardly!
@@ -202,7 +202,7 @@ Be it the sun *or* the moon itself!
 
 <h4>※ Surpassing everything, including red and black; he is the <u>Bearer of the next generation</u></h4>
 
-{% img /img/es/eventstory/supervillain/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_fwmIf67570ca8Md5.webp?timestamp=1733758128700 %}
 
 {% bubble Tetora svbcg %}
 I want to walk down this road for a while longer. I want to get covered in mud, desperately wade through the muck, and move forward—
@@ -232,7 +232,7 @@ Then I’ll grasp onto something, and become a bigger man than you’ve ever bee
 
 <h4>※ Tall, handsome, and an ennui allure on top; he is an <u>Adolescent boy with a natural charm</u></h4>
 
-{% img /img/es/eventstory/piratefes/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JQmgX67570f7foS5.webp?timestamp=1733758854111 %}
 
 {% bubble Midori smile %}
 I'll work hard, too. I'll do my best with all I've got, at least every once in a while.
@@ -242,17 +242,17 @@ I'll work hard, too. I'll do my best with all I've got, at least every once in a
 
 <h4>※ Holding an unsurpassable love towards it, as well as being his emotional stabilizer; he is a <u>Yuruchara-lover</u></h4>[^1]
 
-{% img /img/es/scoutstory/cityriders/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_gCnuy67671454SO5.webp?timestamp=1734808667306 %}
 
 {% bubble Midori blushshysmile %}
-I can take these all for myself, right? Wahh, waah…! ♪
+I can have this all for myself, right? Uwaah, uwaaah…♪
 {% endbubble %}
 
 <small>You can listen to the voiced line <a href="https://youtu.be/3_3V9QE9lg4?t=1109" target="_blank">here</a>.</small>
 
 <h4>※ His feelings ever so changing, his heart ever so growing; he has the <u>Biggest potential to grow</u></h4>
 
-{% img /img/es/es2mainstory/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jT675715a5eY3bJ2.webp?timestamp=1733760430654 %}
 
 {% bubble Midori smile %}
 We don't know what's gonna happen in the future—
@@ -282,7 +282,7 @@ But if you steel yourself and take a leap forward, things surprisingly do turn o
 
 <h4>※ Known to excel at espionage, his admiration since a young age; <u>The way of the Ninja</u></h4>
 
-{% img /img/es/eventstory/scrolloftheelements/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5kgg675710f3oVx4.webp?timestamp=1733759222332 %}
 
 {% bubble Shinobu v2 %}
 I really do love ninjas…☆
@@ -294,7 +294,7 @@ Until that love is fully shared with everyone — I mustn't allow myself to be c
 
 <h4>※ Extremely attentive and capable of calming the atmosphere; he is the <u>Cheerful balancer</u></h4>
 
-{% img /img/es/es2mainstory/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_kKPl50675715a5n6.webp?timestamp=1733760428004 %}
 
 {% bubble Shinobu v2 %}
 If I were to overlook a wrongdoing, I'd be a failure of a hero—
@@ -306,7 +306,7 @@ And if I were to abandon my friend in trouble, I'd be a failure of a human!
 
 <h4>※ Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u></h4>
 
-{% img /img/es/eventstory/blackjack/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2qGqJ67570f49Eo5.webp?timestamp=1733758795193 %}
 
 {% bubble Shinobu v2 %}
 Everyone honed me and made me stronger.

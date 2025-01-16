@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Rainbow. F
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Zq67571189SPAp72.webp?timestamp=1733759374350 %}
 
 {% bubble Chiaki v2 %}
 Ooh, Transfer student! What's up, what's wrong? Do you have business with Sagami-sensei?
@@ -126,7 +126,7 @@ Personally, I'd rather he doesn't drink so much… But he told me it's to reliev
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67571189ObMJMw10.webp?timestamp=1733759375831 %}
 
 {% bubble Chiaki curious %}
 Transfer student? We're coming across each other a lot in the infirmary lately.
@@ -203,7 +203,7 @@ Just shout "Please save me, Hero!", and I'll come rushing for you no matter wher
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/rainbow/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bRV67571189NWf93.webp?timestamp=1733759373757 %}
 
 {% bubble Chiaki sleep %}
 <em><th>(Snores)</th></em>…♪

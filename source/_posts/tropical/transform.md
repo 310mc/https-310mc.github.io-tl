@@ -62,11 +62,15 @@ description: "[ES!!] After Midori was chosen to be the commander this time, it i
 
 ## Chapter 1
 
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, April)</span></p>
+</div>
+
 <div class="msr-location">
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91a6RiJFS90.webp?timestamp=1733605675603 %}
 
 <div class="msr-narration">
     <p>A while later…</p>
@@ -181,10 +185,10 @@ all of our [fans] love ryuseitai, too. they will surely accept the things we [en
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm (Exterior)</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm (Exterior)</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GpWFh6754b91a0Q5.webp?timestamp=1733605674664 %}
 
 <div class="msr-narration">
     <p>Later that night…</p>
@@ -278,7 +282,7 @@ I’ll do my best to meet the expectations of ‘Tropical Troppeys’…♪
     <p><span><b>Location:</b> Shopping Mall 1F</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zFB6754b91aH7np3.webp?timestamp=1733605672945 %}
 
 <div class="msr-narration">
     <p>A few days later, on the weekend…</p>
@@ -452,7 +456,7 @@ We’d love to know more! Tell us everything about your love for yurucharas…�
     <p><span><b>Location:</b> Dance Room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_XW2d6754b91ai5C4.webp?timestamp=1733605672368 %}
 
 <div class="msr-narration">
     <p>Later, in the afternoon…</p>
@@ -562,7 +566,7 @@ Takamine, watch my performance, too! Look, what do you think of my Plateypus for
 “I WANNA EAT SOME TASTY FOOD-PLATEY!!!”[^6]
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W3b6754b91ammNF3.webp?timestamp=1733605676148 %}
 
 {% bubble Midori scold %}
 That’s <em>way</em> too forceful!!
@@ -642,7 +646,7 @@ Yeah, sure. I’m also taking this fully seriously, so…
     <p><span><b>Location:</b> Midori, Mitsuru, Ibara, and Tsumugi’s room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_MbglZL6754b91a46.webp?timestamp=1733605674853 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -734,7 +738,7 @@ then let’s go~♪
     <p><span><b>Location:</b> Hallway</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Eo6754b91aIygGP2.webp?timestamp=1733605673319 %}
 
 {% bubble Midori worried0 %}
 Shinkai-senpai, could you please tell me what it is already?
@@ -778,7 +782,7 @@ A dance room…? Wait, don’t tell me—
     <p><span><b>Location:</b> Dance Room</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform4_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_E6N6754b91aWvEw3.webp?timestamp=1733605675174 %}
 
 {% bubble Chiaki frustrated %}
 Sengoku, what do I have to do in order to become a much more soothing presence…!?
@@ -802,7 +806,7 @@ How about trying to soften that resolve?
 Soften my resolve… I see, let me try doing it more casually.
 {% endbubble %}
 
-{% img /img/es/eventstory/tropical/transform4_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v6754b91a75qqMt1.webp?timestamp=1733605675476 %}
 
 {% bubble Chiaki nod %}
 *<th>(sways left and right)</th>* …How’s this? I tried to stand in an extremely relaxed way; am I managing it?
@@ -834,7 +838,7 @@ Heheh, Midori-kun will definitely be surprised to see your improvement. Let’s 
     <p><span><b>Location:</b> Hallway</span></p>
 </div>
 
-{% img /img/es/eventstory/tropical/transform4_5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Iakz6754b91aCVr4.webp?timestamp=1733605671993 %}
 
 {% bubble Midori curious %}
 …………
@@ -888,6 +892,16 @@ Okay, let’s…♪
                 </a>
             </div>
             <a target="_blank" href="/tropical" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/tropical/prologue">Prologue</a>
+                    <a href="/tropical/reborn">Reborn!</a>
+                    <div>Transform!</div>
+                    <a href="/tropical/epilogue">Epilogue</a>
+                    <a href="/tropical/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/tropical/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's second Mini Talk from Tropical. From Anzu's POV."
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_AgcvG7R6754b91a7.webp?timestamp=1733605672244 %}
 
 {% bubble Shinobu v2 %}
 Ooh—…! Ha—…! Shutatatata…☆
@@ -101,7 +101,7 @@ Ah—! Anzu-dono!? Were you watching me all this time!?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_F5vlL2w6754b91a7.webp?timestamp=1733605675379 %}
 
 {% bubble Shinobu v2 %}
 Kero-sama[^1] is a frog-based yuruchara. Midori-kun told me all about it.
@@ -152,7 +152,7 @@ It can play basketball, baseball, ski, snowboard… Even scuba-diving is a piece
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/tropical/minitalk_shinobu2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6754b91arqleumn0.webp?timestamp=1733605672178 %}
 
 {% bubble Shinobu v2 %}
 Kero-sama is active on social media as well, and usually posts videos of it doing sports.
