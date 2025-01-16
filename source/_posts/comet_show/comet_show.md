@@ -18,7 +18,7 @@ permalink: comet_show/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
+                <div class="title-area__subtitle">Transform! The Comet Show Connecting the Stars</div>
                 <div class="title-area__start"><a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -108,7 +108,7 @@ permalink: comet_show/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Comet Show</div>
-                <div class="title-area__subtitle">コメットショウ</div>
+                <div class="title-area__subtitle">Transform! The Comet Show Connecting the Stars</div>
                 <div class="title-area__start">
                     <a href="https://moricchiichan.tumblr.com/post/663130332676096000/comet-show-prologue">Start Reading</a>
                 </div>
@@ -496,8 +496,8 @@ permalink: comet_show/
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

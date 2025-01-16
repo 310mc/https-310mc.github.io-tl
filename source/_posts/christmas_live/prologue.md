@@ -202,6 +202,17 @@ It is a delight simply to wander around with all the beautiful lights put up eve
                 </a>
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/christmas_live/dot_to_dot">Dot to Dot</a>
+                    <a href="/christmas_live/line_to_line">Line to Line</a>
+                    <a href="/christmas_live/star_chart">Star Chart</a>
+                    <a href="/christmas_live/epilogue">Epilogue</a>
+                    <!--<a href="/christmas_live/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/christmas_live/dot_to_dot" title="Next Chapter: Dot to Dot"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

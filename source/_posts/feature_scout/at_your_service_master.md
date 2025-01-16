@@ -98,7 +98,7 @@ Mm~… Well, something did kinda happen. Actually, it’s happening right <em>no
 
 The truth is, Yuzuru won’t be around for a while because he’s busy with work, so I have to do all my daily necessities all on my own until he’s back.
 
-I only just moved to the Starmony Dorm, and I always left everything for Yuzuru to handle, so I don’t really know how you’re meant to do things.
+I only just moved to the Seisoukan Dorm, and I always left everything for Yuzuru to handle, so I don’t really know how you’re meant to do things.
 
 My servants would do all the work for me if I were to go back home, but… I won’t be able to grow if I keep going back home whenever Yuzuru isn’t around.
 
@@ -164,7 +164,7 @@ Ah—! He’s supposed to be awake by now, but he’s still asleep.
 {% endbubble %}
 
 {% bubble Chiaki snicker %}
-It hurts to do this a little, but if *that’s* how it’s going to be… Take this! My ultimate movee—!
+It hurts to do this a little, but if *that’s* how it’s going to be… Take this! My ultimate mooove—!
 
 GOOOOOD MOOOORNIIIIING!! ☆
 {% endbubble %}
@@ -222,7 +222,7 @@ Alright! I’ll go prepare breakfast, then!
 {% endbubble %}
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Kitchen</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Kitchen</span></p>
 </div>
 
 {% img /img/es/idolstory/atyourservicemaster/3.jpg %}
@@ -268,7 +268,7 @@ Microwave oven?
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-It’s hard to tell different types of potatoes from one another, but since these ones were from Takamine Greengrocer, they’re guaranteed to be excellent-quality vegetables.
+It’s tricky to classify what potatoes are, but since these are sold at ‘Takamine Greengrocer’, that means they’re also splendid vegetables.
 
 And vegetables are extremely high in nutritional value! Eat as much as you like!
 {% endbubble %}
@@ -355,7 +355,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -367,7 +367,7 @@ Alright, it’s time to eat. They say that “the day only begins once you eat y
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>

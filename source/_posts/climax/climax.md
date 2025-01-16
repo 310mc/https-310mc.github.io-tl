@@ -18,7 +18,7 @@ permalink: climax/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
-                <div class="title-area__subtitle">クライマックス</div>
+                <div class="title-area__subtitle">Baton Pass! Repayment Festival of Tears and Bonds</div>
                 <div class="title-area__start"><a href="/climax/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -116,7 +116,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
             </div>
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
-                <div class="title-area__subtitle">クライマックス</div>
+                <div class="title-area__subtitle">Baton Pass! Repayment Festival of Tears and Bonds</div>
                 <div class="title-area__start"><a href="prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -585,8 +585,8 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Tetora Nagumo</div>
                         <div class="mt-content">
                         <div class="item">
-                            <a href="minitalk/tetora_1" id="">Part One</a>
-                            <a href="minitalk/tetora_2" id="">Part Two</a>
+                            <a href="minitalk/tetora_1" id="">Part 1</a>
+                            <a href="minitalk/tetora_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -594,8 +594,8 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Shinobu Sengoku</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/shinobu_1" id="">Part One</a>
-                            <a href="minitalk/shinobu_2" id="">Part Two</a>
+                            <a href="minitalk/shinobu_1" id="">Part 1</a>
+                            <a href="minitalk/shinobu_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -603,8 +603,8 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Chiaki Morisawa</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/chiaki_1" id="">Part One</a>
-                            <a href="minitalk/chiaki_2" id="">Part Two</a>
+                            <a href="minitalk/chiaki_1" id="">Part 1</a>
+                            <a href="minitalk/chiaki_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>
@@ -612,8 +612,8 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                         <div class="mt-header">Midori Takamine</div>
                         <div class="mt-content">
                             <div class="item">
-                            <a href="minitalk/midori_1" id="">Part One</a>
-                            <a href="minitalk/midori_2" id="">Part Two</a>
+                            <a href="minitalk/midori_1" id="">Part 1</a>
+                            <a href="minitalk/midori_2" id="">Part 2</a>
                             </div>
                         </div>
                     </div>

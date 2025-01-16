@@ -962,6 +962,20 @@ With the five of us together! We are *Ryuseitai…!*
                 </a>
             </div>
             <a target="_blank" href="/climax" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/climax/prologue">Prologue</a>
+                    <a href="/climax/he_wont_cry">He Won't Cry</a>
+                    <a href="/climax/blessings_and_repayment">Blessings and Repayment</a>
+                    <a href="/climax/anxiety_and_silence">Anxiety and Silence</a>
+                    <a href="/climax/bystanders">Bystanders</a>
+                    <a href="/climax/tears_of_shooting_stars">Tears of Shooting Stars</a>
+                    <a href="/climax/heroes_of_the_future">Heroes of the Future</a>
+                    <div>Epilogue</div>
+                    <a href="/climax/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

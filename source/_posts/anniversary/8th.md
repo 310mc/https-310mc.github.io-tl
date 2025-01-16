@@ -15,7 +15,7 @@ tags:
 description: "[ES!!] Translation of 8th Anniversary Ryuseitai content."
 ---
 
-{% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K675714beRbLiWl1.webp?timestamp=1733760194047 %}
 
 <div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="info-area">
@@ -64,31 +64,31 @@ description: "[ES!!] Translation of 8th Anniversary Ryuseitai content."
 
 ## Anniversary Quotes
 
-{% img /img/es/anniversary/8th/quotetetora.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_y92D675714bedd74.webp?timestamp=1733760193994 %}
 
 {% bubble Tetora smileconfident %}
 No matter how stained with mud I get, I'll continue to run down the path of hard work. Please watch over me 'til I become a great man!
 {% endbubble %}
 
-{% img /img/es/anniversary/8th/quotechiaki.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_b675714beOuNeH91.webp?timestamp=1733760193586 %}
 
 {% bubble Chiaki fist %}
 You can always call my name if you ever need me! I'll always come rushing for you at full speed for the sake of making you smile…☆
 {% endbubble %}
 
-{% img /img/es/anniversary/8th/quotemidori.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1ql8675714be2Ri4.webp?timestamp=1733760194142 %}
 
 {% bubble Midori smilesoft2 %}
 It’s because you support me that I’m able to work hard as an idol and hero. Please stay by my side forever…♪
 {% endbubble %}
 
-{% img /img/es/anniversary/8th/quoteshinobu.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_w4ngF6675714beI6.webp?timestamp=1733760193221 %}
 
 {% bubble Shinobu nod %}
 I wonder what lies ahead in the path you and I will walk through together? Let's go and find out together, Producer-dono~♪
 {% endbubble %}
 
-{% img /img/es/anniversary/8th/quotekanata.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JjXCv675714bePW5.webp?timestamp=1733760194244 %}
 
 {% bubble Kanata grin %}
 let's move towards the [future] together. i am also your hero, after all…♪
@@ -98,7 +98,7 @@ let's move towards the [future] together. i am also your hero, after all…♪
 
 ## Ryuseitai One with One Mini Talk
 
-{% img /img/es/anniversary/8th/minitalk_ryuseitai1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K675714beRbLiWl1.webp?timestamp=1733760194047 %}
 
 {% bubble Tetora grin %}
 Ossu! Thanks for guiding us with the rehearsal, Anzu-anego!
@@ -179,7 +179,7 @@ Um, but then we wouldn't really be playing by the game's rules, would we…? It'
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/8thanniversary.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_4zJ9P6757171aNx5.webp?timestamp=1733760795618"
             alt="8th Anniversary (Ryuseitai)"
         />
     </div>
@@ -191,7 +191,7 @@ Um, but then we wouldn't really be playing by the game's rules, would we…? It'
     <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/banner/9thanniversary.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_5iSwe6757174fDR5.webp?timestamp=1733760849152"
             alt="9th Anniversary (Ryuseitai)"
         />
     </div>

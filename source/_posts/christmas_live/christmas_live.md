@@ -18,7 +18,7 @@ permalink: christmas_live/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Christmas Live</div>
-                <div class="title-area__subtitle">クリスマスライブ</div>
+                <div class="title-area__subtitle">Snowflake ❄ Street Performance Of The Shooting Stars</div>
                 <div class="title-area__start"><a href="/christmas_live/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -111,7 +111,7 @@ permalink: christmas_live/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Christmas Live</div>
-                <div class="title-area__subtitle">クリスマスライブ</div>
+                <div class="title-area__subtitle">Snowflake ❄ Street Performance Of The Shooting Stars</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>

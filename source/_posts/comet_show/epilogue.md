@@ -129,7 +129,7 @@ fufu, did you learn that from [mikejima] or something?
 {% endbubble %}
 
 {% bubble Kanata awkward %}
-<th>(ah— i accidentally called him by the name i would use in [past]…)</th>
+<th>(ah— i accidentally called him by the name i would use in the [past]…)</th>
 {% endbubble %}
 
 {% bubble Kanata norsmile %}

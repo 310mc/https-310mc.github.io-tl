@@ -117,7 +117,7 @@ description: "[ES!!] Translation of Midori's first Mini Talk from Comet Show. Fr
 							Oh, that voice sounds familiar… Ahh, so it really was you, Anzu-san. Good morning.
               {% endbubble %}
               {% bubble Midori yare %}
-							As you can probably tell, I've been going around ES delivering veggies. It takes so long to get through 'cause of how huge the load is…
+							As you can probably tell, I've been going around ES delivering veggies. It takes so long to get through because of how huge the load is…
 
 							"You're doing a great job"…? I could say the same thing to you, though…? It's incredible that you're here so early in the morning…
 				{% endbubble %}
@@ -165,7 +165,7 @@ You probably already know this, but Ryuseitai hasn't been doing well lately…
 
 							I've been trying to at least do *some* kinda physical activity to avoid that, so that's why I've been putting way more effort into my family's greengrocer than I used to.
 
-							Ah, wait a sec—Maybe another reason I've been sighing so much is 'cause I've been carrying a lot of veggies…?
+							Ah, wait a sec—Maybe another reason I've been sighing so much is because I've been carrying a lot of veggies…?
 				{% endbubble %}
 			</div>
         </div>
@@ -212,7 +212,7 @@ Talking to you made me realize that maybe I really *did* want someone to hear me
 {% endbubble %}
 
 {% bubble Midori sighfrown %}
-I didn't think I needed it at first, 'cause I don't want too many people knowing what's been going on with us, and I barely have anyone I can talk to when it comes to unit problems…
+I didn't think I needed it at first, because I don't want too many people knowing what's been going on with us, and I barely have anyone I can talk to when it comes to unit problems…
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

@@ -77,7 +77,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/hangingout1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uqsQkq67571380w6.webp?timestamp=1733759879156 %}
 
 {% bubble Souma %}
 Anzu-dono~!
@@ -227,7 +227,7 @@ Yet he continues to keep matters vague by hiding his sincerity with frivolous ta
 
 ## Chapter 2
 
-{% img /img/es/eventstory/aquarium/hangingout2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pVJ8cc6757138066.webp?timestamp=1733759879342 %}
 
 {% bubble Kanata v2 %}
 whew. i am finally [outside].
@@ -449,7 +449,7 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
     <p><span><b>Location:</b> Aquarium (Dolphin Show)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/hangingout3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zCA267571380mYJ4.webp?timestamp=1733759879678 %}
 
 {% bubble Madara %}
 <em><th>(Humming)</th></em> Hmhmhmmm~♪
@@ -457,7 +457,7 @@ Don’t make me waste my energy moving around everywhere~ C’mon, please.
 *Drink a lot, eat a lot!* Keep eating and grow quickly! Become a splendid idol for the aquarium, you cute dolphins…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/madaraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_u6757129coOZsfa1.webp?timestamp=1733759653206 %}
 
 {% bubble Kanata frownshake %}
 ahh, i thought so… hey! stop giving [food] to the [dolphins] as you please, okay?
@@ -565,7 +565,7 @@ But if peace comes at the price of a good and kind kid restraining themselves…
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/hangingout4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67571380lSMagFo0.webp?timestamp=1733759879598 %}
 
 {% bubble Sora %}
 Look, Hina-chan, look! It’s a sea cucumber! If you push on this, the insides will come out!
@@ -761,6 +761,18 @@ Woah, woah—! Do not drag me over by the hand…
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/aquarium/prologue">Prologue</a>
+                    <a href="/aquarium/aquarium_together">Going to the Aquarium Together</a>
+                    <a href="/aquarium/friends_together">Inviting Friends Together</a>
+                    <div>Hanging Out Together</div>
+                    <a href="/aquarium/dream_together">What Dream Shall We Be Seeing Together</a>
+                    <a href="/aquarium/epilogue">Epilogue</a>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/aquarium/dream_together" title="Next Chapter: What Dream Shall We Be Seeing Together"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

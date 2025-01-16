@@ -18,7 +18,7 @@ permalink: abyss/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">ABYSS</div>
-                <div class="title-area__subtitle">ABYSS</div>
+                <div class="title-area__subtitle">Heartbeat of the Sea – Look back –</div>
                 <div class="title-area__start"><a href="/abyss/first_half">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -107,7 +107,7 @@ permalink: abyss/
             </div>
             <div class="title-area">
                 <div class="title-area__title">ABYSS</div>
-                <div class="title-area__subtitle">ABYSS</div>
+                <div class="title-area__subtitle">Heartbeat of the Sea – Look back –</div>
                 <div class="title-area__start">
                     <a href="first_half">Start Reading</a>
                 </div>

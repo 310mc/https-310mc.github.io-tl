@@ -77,7 +77,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> Aquarium Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/dream1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_n667571380xx4tD2.webp?timestamp=1733759880758 %}
 
 {% bubble Kanata v2 %}
 ♪\~♪\~♪
@@ -299,7 +299,7 @@ i want to protect it. this time… i will definitely protect what is [important]
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/kaoruorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_izIuf6757129cQS5.webp?timestamp=1733759651671 %}
 
 {% bubble Kaoru %}
 Look, Anzu-chan! Look over there! There’s an interesting display of fish over there~♪
@@ -391,7 +391,7 @@ Sorry, sorry, I teased you way too much. It’s okay, you look fine! You look ad
     <p><span><b>Location:</b> Aquarium Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/dream3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K67571380gO6X5H1.webp?timestamp=1733759883358 %}
 
 {% bubble Kaoru %}
 I’m baaack~♪ The live show hasn’t started yet, right?
@@ -433,7 +433,7 @@ Ahaha, Anzu-dono, that tickles.
 I would rather you not fumble with my costume… I think it is best that you adjust Mikejima-dono’s costume instead of mine, no? He seems cramped in his costume.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/dream3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v6gA675713805vm4.webp?timestamp=1733759884135 %}
 
 {% bubble Madara %}
 Yep, please and thank you! Though I’d be able to move about to an extent even if my limbs were somehow aaall tied up, so you don’t really have to be precise with the adjustments.
@@ -507,7 +507,7 @@ I do want to work things out with my own power, though… It’d be pathetic of 
 But Kanata-san’s household is an unusual case, so I used eeevery card in my hand.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/dream3_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Zz67571380JYRBb2.webp?timestamp=1733759883687 %}
 
 {% bubble Kanata sigh %}
 is it really that [unusual]…? i *did* [understand] the fact that i am [different] from others.
@@ -639,7 +639,7 @@ Yeah, the way you were acting for this case is like a spoiled kid whining and de
 Ahaha, it’s pretty much just like a baby going against their parents for the first time.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/dream4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_heikXao675713807.webp?timestamp=1733759878882 %}
 
 {% bubble Kanata sad %}
 yes… but this is a strange feeling. i had always [restrained] myself up until this point. it is almost always [peaceful] as long as i [restrain] myself.
@@ -697,6 +697,18 @@ because i am no longer a [god]… i was able to become the same [human being] as
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/aquarium/prologue">Prologue</a>
+                    <a href="/aquarium/aquarium_together">Going to the Aquarium Together</a>
+                    <a href="/aquarium/friends_together">Inviting Friends Together</a>
+                    <a href="/aquarium/hanging_out_together">Hanging Out Together</a>
+                    <div>What Dream Shall We Be Seeing Together</div>
+                    <a href="/aquarium/epilogue">Epilogue</a>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/aquarium/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

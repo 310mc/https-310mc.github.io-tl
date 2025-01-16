@@ -71,7 +71,7 @@ description: "[ES!!] A mysterious urn placed in the Marine Life Club brings back
 {% img /img/es/scoutstory/abyss/soumaorigcg.jpg %}
 
 <div class="msr-narration">
-    <p>Thirteen years back since ES’s first year of establishment. Within the city, at a funeral venue…</p>
+    <p>Thirteen years back since ES’s 1st year of establishment. Within the city, at a funeral venue…</p>
 </div>
 
 {% bubble Souma kidnorsmile %}
@@ -149,7 +149,7 @@ Thank you for the food.
 {% endbubble %}
 
 {% bubble Souma kidsigh2 %}
-<em><th>(Munch, munch)</th></em>… Uuu, what a dense flavor. Mother’s meals are much gentler to the taste.
+<em><th>(Munch, munch)</th></em>… Uuu, what a dense flavor. Mother’s meals are much more gentle to the taste.
 
 <th>(Ah! Someone is coming! Oh no, if someone sees me sneaking food, it would be shameful! It is a lowly deed that is unbecoming of a samurai son!)</th>
 
@@ -287,7 +287,7 @@ Sorryyy~ It was a liiittle tough to figure out a sneaky entry route—
 {% img /img/es/scoutstory/abyss/2_1.jpg %}
 
 <div class="msr-narration">
-    <p>Present time. First year of ES’s establishment, early February…</p>
+    <p>Present time. 1st year of ES’s establishment, early February…</p>
 </div>
 
 {% bubble Kaoru awkward %}
@@ -1289,7 +1289,7 @@ kanata does not know. however, the chief priest[^11] — as in, father — said 
 {% endbubble %}
 
 {% bubble Madara kidcurious %}
-I dunno or care if it’s ABYSS or Ebisu[^12], but does it even <em>actually</em> exist in the first place?
+I don’t know nor care if it’s ABYSS or Ebisu[^12], but does it even <em>actually</em> exist in the first place?
 {% endbubble %}
 
 {% bubble Kanata kidsigh %}

@@ -842,7 +842,6 @@ Fuhahaha! ☆ Don’t be so distant! We Ryuseitai are five hearts beating as one
 That’s what Ryuseitai’s all about, right? You’ve said it so many times that I know it by heart at this point… Jeez, you really are suffocating even in the winter, huh…♪
 {% endbubble %}
 
-
 <div class="navigation2">
     <div class="toolbar-wrapper">
         <div class="slider-container">
@@ -857,6 +856,17 @@ That’s what Ryuseitai’s all about, right? You’ve said it so many times tha
                 </a>
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/christmas_live/prologue">Prologue</a>
+                    <div>Dot to Dot</div>
+                    <a href="/christmas_live/line_to_line">Line to Line</a>
+                    <a href="/christmas_live/star_chart">Star Chart</a>
+                    <a href="/christmas_live/epilogue">Epilogue</a>
+                    <!--<a href="/christmas_live/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/christmas_live/line_to_line" title="Next Chapter: Line to Line"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -653,6 +653,17 @@ But that’s why I’ll do the best I can to become the most beautiful “me” 
                 </a>
             </div>
             <a target="_blank" href="/christmas_live" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/christmas_live/prologue">Prologue</a>
+                    <a href="/christmas_live/dot_to_dot">Dot to Dot</a>
+                    <a href="/christmas_live/line_to_line">Line to Line</a>
+                    <div>Star Chart</div>
+                    <a href="/christmas_live/epilogue">Epilogue</a>
+                    <!--<a href="/christmas_live/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/christmas_live/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

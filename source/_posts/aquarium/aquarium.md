@@ -15,11 +15,11 @@ permalink: aquarium/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/aquarium/kanatabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_SX6757129ckocRL2.webp?timestamp=1733759650785')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Aquarium</div>
-                <div class="title-area__subtitle">アクアリウム</div>
+                <div class="title-area__subtitle">Drop ＊ The Far Sea and the Aquarium</div>
                 <div class="title-area__start"><a href="/aquarium/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -90,6 +90,10 @@ permalink: aquarium/
 
 <!-- more -->
 
+{% note narration %}
+This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recommended to listen to it while reading the story!
+{% endnote %}
+
 <style>
     .preview-wrapper {
         display: none;
@@ -105,14 +109,14 @@ permalink: aquarium/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/aquarium/kaoruorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_izIuf6757129cQS5.webp?timestamp=1733759651671)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/aquarium/kanatabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_SX6757129ckocRL2.webp?timestamp=1733759650785"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Aquarium</div>
-                <div class="title-area__subtitle">アクアリウム</div>
+                <div class="title-area__subtitle">Drop ＊ The Far Sea and the Aquarium</div>
                 <div class="title-area__start">
                     <a href="prologue">Start Reading</a>
                 </div>
@@ -222,7 +226,7 @@ permalink: aquarium/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/soumaorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_WsY656757129cT95.webp?timestamp=1733759649968">
                                 </div>
                                 <div class="caption">
                                     Inviting Friends Together 2
@@ -230,7 +234,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_UHSO6757129cRHl4.webp?timestamp=1733759650705">
                                 </div>
                                 <div class="caption">
                                     Inviting Friends Together 3
@@ -238,7 +242,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/madaraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_u6757129coOZsfa1.webp?timestamp=1733759653206">
                                 </div>
                                 <div class="caption">
                                     Hanging Out Together 3
@@ -246,7 +250,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/kaoruorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_izIuf6757129cQS5.webp?timestamp=1733759651671">
                                 </div>
                                 <div class="caption">
                                     What Dream Shall We Be Seeing Together 2
@@ -254,7 +258,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_w6757129cOvFGMk1.webp?timestamp=1733759651647">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -262,7 +266,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/soumabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_dQNcy6757129cS15.webp?timestamp=1733759652920">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -270,7 +274,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/kaorubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JpjH2OI6757129c7.webp?timestamp=1733759653631">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -278,7 +282,7 @@ permalink: aquarium/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/aquarium/madarabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_PFhc6757129cDB74.webp?timestamp=1733759651198">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2

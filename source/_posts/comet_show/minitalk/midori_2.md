@@ -87,7 +87,7 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Comet Show. F
 							I'd *hate* to find out that he's been talking behind our backs, so I regularly search his name as a check-up.
               {% endbubble %}
               {% bubble Midori curious %}
-							…Why're you asking me if I'm okay…? What's so strange about looking up stuff about your senior online…?
+							…Why're you asking me if I'm okay…? Isn't it normal to look up stuff about your senior online…?
 				{% endbubble %}
 			</div>
         </div>
@@ -106,7 +106,7 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Comet Show. F
 							Oh, you should blame Morisawa-senpai for that. I was just searching up his name on social media…
               {% endbubble %}
               {% bubble Midori yare %}
-							I tend to search his name every once in a while, but I've been doing it way more often lately 'cause I'm frustrated that he's barely concerned about us nowadays…
+							I tend to search his name every once in a while, but I've been doing it way more often lately because I'm frustrated that he's barely concerned about us nowadays…
               {% endbubble %}
               {% bubble Midori sigh %}
 							Thanks to that, I have all his talk shows memorized in my head… Ugh, this sucks, I'm not even a fan of him or anything…

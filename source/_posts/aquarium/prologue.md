@@ -53,7 +53,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> Beach</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/prologue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_N5VH06757129c8v5.webp?timestamp=1733759649449 %}
 
 {% bubble Kanata v2 %}
 *puka, puka~*
@@ -113,7 +113,7 @@ fufu, please leave it to me. i may not look it, but i have quite the [strength]~
     <p><span><b>Location:</b> School Route</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/prologue_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_FPiGM6757129cLm5.webp?timestamp=1733759650309 %}
 
 {% bubble Kanata awkward %}
 whew… in the end, we got really [into it], and ended up picking up all the [litter].
@@ -204,6 +204,18 @@ now then, let's keep going. if you do not return home soon, the people at home w
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/aquarium/aquarium_together">Going to the Aquarium Together</a>
+                    <a href="/aquarium/friends_together">Inviting Friends Together</a>
+                    <a href="/aquarium/hanging_out_together">Hanging Out Together</a>
+                    <a href="/aquarium/dream_together">What Dream Shall We Be Seeing Together</a>
+                    <a href="/aquarium/epilogue">Epilogue</a>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/aquarium/aquarium_together" title="Next Chapter: Going to the Aquarium Together"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

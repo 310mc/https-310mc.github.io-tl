@@ -279,7 +279,7 @@ Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! â
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/aherotoo/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_eXvmjJ675ac7d5M6.webp?timestamp=1734002648002"
             alt="You're A Hero, Too!"
         />
     </div>
@@ -291,7 +291,7 @@ Yeah! Hero shows always end with a happy ending of everyone smiling! Fuhahaha! â
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/idolstory/tiesindexfinger/c1.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_yAP675b168bR1MI3.webp?timestamp=1734022798475"
             alt="Ties of an Index Finger"
         />
     </div>

@@ -64,7 +64,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> At the Bulletin Board</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/aquarium1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_oN67571380MAglE2.webp?timestamp=1733759879578 %}
 
 {% bubble Madara %}
 <em><th>(Humming)</th></em> Hmhmhmm~♪
@@ -136,7 +136,7 @@ But man, I’m feeling kiiinda emotional… So Anzu-san has reached *that* time 
     <p><span><b>Location:</b> At the Station</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/aquarium1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2UkEZL67571380T6.webp?timestamp=1733759880660 %}
 
 {% bubble Kaoru %}
 Anzu-chaaan, over here, over here~♪
@@ -162,7 +162,7 @@ Leave it all to me~ I'll make you the most charming girl in the whole world!
 Now, give me your hand, princess! I've been waiting for this~ Ahh, today feels like it's going to be the most wonderful day ever…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/aquarium1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6qV67571380s2dw3.webp?timestamp=1733759880497 %}
 
 {% bubble Souma %}
 Move any closer to Anzu-dono and I will tear you down by the throat.
@@ -192,7 +192,7 @@ I have never once thought of you as a *“pal”*… You are the disgrace of the
     <p><span><b>Location:</b> Shopping Mall 1F</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/aquarium2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3S9daq3675713807.webp?timestamp=1733759882941 %}
 
 {% bubble Souma %}
 For goodness’ sake… A detour will only waste time. Why does our attire even matter?
@@ -319,7 +319,7 @@ While we’re there, I’ll get to act like I’m on a date with you.
 Well, other than having a *child* accompanying us.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/aquarium2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Igk67571380Xbz53.webp?timestamp=1733759882494 %}
 
 {% bubble Souma %}
 I apologize for making you wait… Do I look strange in this? Am I wearing it properly?
@@ -353,7 +353,7 @@ Alright, alright. Ahh man… This doesn't feel like a date, it's more like spend
     <p><span><b>Location:</b> Aquarium (Front)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/aquarium3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1m675713805pmKM2.webp?timestamp=1733759880391 %}
 
 {% bubble Kaoru %}
 Right then. We wasted way too much time, but we're finally here.
@@ -501,7 +501,7 @@ You being away from me makes it easier on me, too.
     <p><span><b>Location:</b> Light Music Clubroom</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/aquarium4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Hq5D675713802N94.webp?timestamp=1733759880315 %}
 
 {% bubble Madara %}
 Excuuuse meeeeeee!
@@ -827,6 +827,18 @@ It is because it is midday; this is the time for vampires to sleep… Also, you 
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/aquarium/prologue">Prologue</a>
+                    <div>Going to the Aquarium Together</div>
+                    <a href="/aquarium/friends_together">Inviting Friends Together</a>
+                    <a href="/aquarium/hanging_out_together">Hanging Out Together</a>
+                    <a href="/aquarium/dream_together">What Dream Shall We Be Seeing Together</a>
+                    <a href="/aquarium/epilogue">Epilogue</a>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/aquarium/friends_together" title="Next Chapter: Inviting Friends Together"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

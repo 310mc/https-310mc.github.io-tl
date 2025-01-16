@@ -72,7 +72,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> Aquarium Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_w6757129cOvFGMk1.webp?timestamp=1733759651647 %}
 
 {% bubble Kanata v2 %}
 “hellooo everyone~ thank you for coming over to our [live show] today~♪”
@@ -154,7 +154,7 @@ Before falling to sleep, I had often imagined the various acts I would love to a
 I am thrilled to know that I have now fulfilled that dream.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/soumabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dQNcy6757129cS15.webp?timestamp=1733759652920 %}
 
 {% bubble Souma %}
 “Come now, one and all! Those who sit afar, listen closely! Clap your hands to the beat of the music, and feast your eyes on this joyous spectacle! Behold the heart and soul of our performance!”
@@ -212,7 +212,7 @@ Hahaha, then just show off the most terrific performance ever, something so good
 If anyone can do that, it’s you. After all, you’re the most gorgeous, beautiful guy in the whole school~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/kaorubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JpjH2OI6757129c7.webp?timestamp=1733759653631 %}
 
 {% bubble Kaoru %}
 Ewww, being complimented by a guy doesn’t make me happy at *all*~ But you’re right… How about I elegantly steal away all the girls from their careless boyfriends, hm?
@@ -230,7 +230,7 @@ Okay kids, gather around! It’s time to pet the dolphins~♪
 Come, all of you, come!! You have to touch the dolphins gently! It’s not scary, so don’t be scared~! Hahaha!! ☆
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/madarabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_PFhc6757129cDB74.webp?timestamp=1733759651198 %}
 
 {% bubble Madara %}
 If the real thing’s still too scary for you, then pet this stuffed toy version instead!
@@ -564,6 +564,18 @@ we will sing together! and i hope, foreeever…♪
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/aquarium/prologue">Prologue</a>
+                    <a href="/aquarium/aquarium_together">Going to the Aquarium Together</a>
+                    <a href="/aquarium/friends_together">Inviting Friends Together</a>
+                    <a href="/aquarium/hanging_out_together">Hanging Out Together</a>
+                    <a href="/aquarium/dream_together">What Dream Shall We Be Seeing Together</a>
+                    <div>Epilogue</div>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

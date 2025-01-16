@@ -72,7 +72,7 @@ description: "[ES!] Kaoru is looking for Kanata, who has gone missing. He uses t
     <p><span><b>Location:</b> Aquarium (Main Exhibition)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/friends1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_675713805goA9Nm0.webp?timestamp=1733759878444 %}
 
 {% bubble Sora %}
 HaHa~♪ Hina-chan, Hina-chan! Come over here!
@@ -98,7 +98,7 @@ But I’m worried about you; you’re kinda wobbling about! It’s like you can�
 Are you bad with places like this…? Sorry!
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/friends1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YSF267571380tTF4.webp?timestamp=1733759881851 %}
 
 {% bubble Sora %}
 HuHu~♪ Sora can’t see very well in a place like this!
@@ -352,7 +352,7 @@ Mm… There is no need to say your names, I know who you are. I am pretty good a
 Also, there is no need to be frightened. Even I am aware that brandishing my katana here would only cause unnecessary havoc. I therefore do not have my katana with me today.
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/soumaorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_WsY656757129cT95.webp?timestamp=1733759649968 %}
 
 {% bubble Souma %}
 I feel uneasy without my katana, but… It is an unavoidable matter.
@@ -422,7 +422,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 
 ## Chapter 3
 
-{% img /img/es/eventstory/aquarium/friends3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NB0Y167571380mw5.webp?timestamp=1733759878431 %}
 
 {% bubble Kaoru %}
 <th>(Mmm… What do I do now…? I lost complete sight of Anzu-chan…)</th>
@@ -474,7 +474,7 @@ Yes! When we are in trouble, we are in trouble together~ That is the norm in thi
 <th>(Let's see… What kinda fish i— Wait, huuuh!?)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/kanataorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_UHSO6757129cRHl4.webp?timestamp=1733759650705 %}
 
 {% bubble Kanata v2 %}
 *puka, puka…♪*
@@ -558,7 +558,7 @@ so if you can, please try not to [interfere], kaoru.
 
 ## Chapter 4
 
-{% img /img/es/eventstory/aquarium/friends4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_j67571380ARRvg51.webp?timestamp=1733759881849 %}
 
 {% bubble Madara %}
 Hellooo, is this Chiaki-san?
@@ -678,7 +678,7 @@ Mhm. Bye byeee~ I’ll call you again.
     <p><span><b>Location:</b> Aquarium (Entrance)</span></p>
 </div>
 
-{% img /img/es/eventstory/aquarium/friends5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iDtsi67571380Ys5.webp?timestamp=1733759880409 %}
 
 {% bubble Wataru %}
 *Amazing!* How wonderful!
@@ -696,7 +696,7 @@ They don't forget to leave their guests wanting more, and effortlessly entice th
 Such sublime attention to detail…! I am truly impressed! I would love to learn from this, in fact! ☆
 {% endbubble %}
 
-{% img /img/es/eventstory/aquarium/friends5_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_eO89K9J675713807.webp?timestamp=1733759881120 %}
 
 {% bubble Rei %}
 So I see the very first thing that attracts your attention is the design of this entrance… Are you incapable of enjoying an aquarium like one normally would, Hibiki-kun?
@@ -852,6 +852,18 @@ After all, we, too, cannot continue wandering about in the same place endlessly.
                 </a>
             </div>
             <a target="_blank" href="/aquarium" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/aquarium/prologue">Prologue</a>
+                    <a href="/aquarium/aquarium_together">Going to the Aquarium Together</a>
+                    <div>Inviting Friends Together</div>
+                    <a href="/aquarium/hanging_out_together">Hanging Out Together</a>
+                    <a href="/aquarium/dream_together">What Dream Shall We Be Seeing Together</a>
+                    <a href="/aquarium/epilogue">Epilogue</a>
+                    <!--<a href="/aquarium/#Mini-Talks">Mini Talks</a>-->
+                </div>
+            </div>
             <a href="/aquarium/hanging_out_together" title="Next Chapter: Hanging Out Together"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

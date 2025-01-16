@@ -191,7 +191,7 @@ But Takamin, you love being pat like this, right? ♪
 {% endbubble %}
 
 {% bubble Midori %}
-I’d never be happy being pat by *you!*
+I’d never be happy being pat if it’s from *you!*
 {% endbubble %}
 
 {% bubble Kanata %}
