@@ -72,7 +72,7 @@ description: "[ES!!] Chiaki and Jun are to plan their own bridal project. They h
     <p><span><b>Location:</b> Break Room</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_k6756eddbeTOCKm1.webp?timestamp=1733750243725 %}
 
 <div class="msr-narration">
     <p>Flashback — A few weeks ago…</p>
@@ -89,7 +89,7 @@ I know that’s just part of what you gotta do to loosen your nerves and have a 
 
 That’s <em>exactly</em> why it was so painful… I’m awful at coming up with funny responses.
 
-*Sigh…* I just wanna go back to the dorms already and heal myself through my mascot plushies…
+*Sigh…* I just wanna go back to the dorms already and heal myself through my yuruchara plushies…
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -161,24 +161,26 @@ I kept re-watching how you played your part and analyzed it as much as I could, 
 {% endbubble %}
 
 {% bubble Midori sightired %}
-How am I supposed to respond to that… And why’d Anzu-san have to go and suggest that in the first place…
+How am I supposed to respond to that ‘thank you’… And why’d Anzu-san have to go and suggest that in the first place…
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-She didn’t do anything wrong, though! She only recommended the video; she never once mentioned you.
+She didn’t do anything wrong, though. She only recommended the video; she never once mentioned you.
 
 I had quite a few options to reference from, but my eyes were drawn to you the most — maybe because we’re both from the same unit.
 {% endbubble %}
 
-{% bubble Chiaki grin2 %}
-That’s just proof that your aura and charm are skyrocketing! You should be proud of yourself!
+{% bubble Chiaki grin %}
+That’s just more proof that your aura and charm are skyrocketing. You should be proud of yourself!
 {% endbubble %}
 
 {% bubble Midori sigh %}
 Quit with the hyperboles… It’s so overbearing…
 
-It feels gross to know you kept watching me over and over again, but you don’t have to go so far in the first place… I’m aware it’s a successful video, y’know…
+It feels uncomfortable and gross that you kept watching me over and over again, but you don’t have to go that far anyway. The video is known to the public, after all…
+{% endbubble %}
 
+{% bubble Midori serious %}
 Anyway, isn’t it kinda unusual for you and Sazanami-senpai to be paired together…? Do you guys know each other from something?
 {% endbubble %}
 
@@ -236,7 +238,7 @@ Fuhahaha! ☆ Your dad is happy to know that your friend circle has expanded so 
 You’re not my dad, though?
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/white1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_glHu6756eddbtfe4.webp?timestamp=1733750239843 %}
 
 {% bubble Jun v3 %}
 Oh, it’s Takamine-kun and Morisawa-senpai! Heyaa~♪
@@ -295,11 +297,11 @@ Yep, it was Ring.A.Bell’s promotional video! ☆
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
-Of <em>course</em> it was… Please never recommend it to someone ever again.
+I knew it… Please never recommend it to someone ever again.
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-Huh? But you let it slide just a second ago, because you’re “aware it’s a successful video”…?
+Huh? But you let it slide just a moment ago, because “the video is known to the public”…?
 {% endbubble %}
 
 {% bubble Midori sideeye %}
@@ -332,7 +334,7 @@ Why’s that!?
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_yAc6756eddbyglS3.webp?timestamp=1733750239427 %}
 
 <div class="msr-narration">
     <p>That day, at night…</p>
@@ -359,7 +361,7 @@ Nope, not a clue~… Maybe they spotted a mistake in the filming after the fact?
 {% endbubble %}
 
 {% bubble Chiaki %}
-…Well, there’s no need to be pessimistic about it, then. We both can’t think of anything, and it was never confirmed that we’re here to get a scolding.
+…Well, there’s no need to be pessimistic about it, then. Neither of us can think of anything, and it was never confirmed that we’re here to get a scolding.
 
 It’s possible that they want to show their appreciation for all the excellent work we’ve all done!
 {% endbubble %}
@@ -525,10 +527,10 @@ I’m looking forward to seeing a bridal project that’s just befitting of you 
 ## Chapter 3
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm Common Room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm Common Room</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZvK6756eddbun223.webp?timestamp=1733750239885 %}
 
 {% bubble Jun frown %}
 A bridal project that’s just befitting of us, huh…
@@ -684,7 +686,7 @@ We’ll still need to make sure they accept our project proposal, but — We tha
 So let’s start by finding more people we can rely on!
 {% endbubble %}
 
-{% img /img/es/eventstory/weddingmarch/white3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hq70wLf6756eddb7.webp?timestamp=1733750239546 %}
 
 <div class="msr-narration">
     <p>Next day, at noon…</p>
@@ -707,7 +709,7 @@ This is for you! Give me your hand.
 {% endbubble %}
 
 {% bubble Midori surprised %}
-A capsule toy of a mascot character!? And a <em>super</em> rare one at that!?
+A capsule toy of a yuruchara!? And a <em>super</em> rare one at that!?
 
 Why, though? It’s not even my birthday…
 {% endbubble %}
@@ -779,13 +781,13 @@ Are you sure…?
 {% endbubble %}
 
 {% bubble Chiaki smilesoft %}
-Yep! I don’t have anything I could do with it, and I’m sure the mascot character would be much happier under the hands of someone who’d adore it!
+Yep! I don’t have anything I could do with it, and I’m sure the yuruchara would be much happier under the hands of someone who’d adore it!
 
 Think of it as me, and cherish it well…☆
 {% endbubble %}
 
 {% bubble Midori frown %}
-No thanks… You and mascots are poles apart, like heaven and earth…
+No thanks… You and yuruchara are poles apart, like heaven and earth…
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -804,7 +806,7 @@ Mhm, you’ve grown so much, Takamine! ☆ I’d love to ask for your help when 
     <p><span><b>Location:</b> Airport</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_9zQuk6756eddbBx5.webp?timestamp=1733750243530 %}
 
 <div class="msr-narration">
     <p>An hour later…</p>
@@ -908,7 +910,7 @@ Well, you see… <em><th>(explains the details)</th></em>
     <p><span><b>Location:</b> Drink Stand</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_VSwoRg6756eddby6.webp?timestamp=1733750239672 %}
 
 <div class="msr-narration">
     <p>Same day, past noon…</p>
@@ -977,7 +979,7 @@ Anyway, I’m gonna get something to drink, too. I’m starting to feel thirsty 
 {% endbubble %}
 
 {% bubble Nagisa curious %}
-…Jun, what was that about “Wedding Master”?
+…Jun, what is “Wedding Master”?
 {% endbubble %}
 
 {% bubble Jun sad4 %}
@@ -1031,9 +1033,9 @@ Huh? But Nagi-senpai, we haven’t even decided on what we’re gonna do.
 {% endbubble %}
 
 {% bubble Jun v3 %}
-Well, there’s no problem with you joining, and I’d actually really appreciate that, but…
+Well, there’s no problem with you joining, and I’d actually really appreciate that…
 
-Would Ibara even let you~…?
+But would Ibara even let you~…?
 {% endbubble %}
 
 {% bubble Nagisa v2 %}
@@ -1058,7 +1060,7 @@ Ah! I got a message from Yuuki-san—
     <p><span><b>Location:</b> Meeting Room in Cafe COCHI</span></p>
 </div>
 
-{% img /img/es/eventstory/weddingmarch/white5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_06756eddbvEOigj1.webp?timestamp=1733750240580 %}
 
 <div class="msr-narration">
     <p>A few days later…</p>
@@ -1354,6 +1356,16 @@ Let’s focus on the meeting for now. We’ll work out the details ‘til we fin
                 </a>
             </div>
             <a target="_blank" href="/wedding_march" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/wedding_march/prologue">Prologue</a>
+                    <div>White Diamond</div>
+                    <a href="/wedding_march/red_diamond">Red Diamond</a>
+                    <a href="/wedding_march/epilogue">Epilogue</a>
+                    <a href="/wedding_march/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/wedding_march/red_diamond" title="Next Chapter: Red Diamond"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -1362,9 +1374,9 @@ Let’s focus on the meeting for now. We’ll work out the details ‘til we fin
 
 ## Translation Notes
 
-[^1]: A link to <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
-[^2]: You can see this handkerchief in <a href="/img/es/eventstory/weddingmarch/shucard.jpg" target="_blank">Shu’s card</a>.
+[^1]: A translation link to the story <a href="https://hyenahunt.tumblr.com/post/682683575976574976/translation-sagaclashing-rebirth-live" target="_blank">Saga</a>.
+[^2]: You can see this handkerchief in <a href="https://f005.backblazeb2.com/file/reitoouji/ro_86756ee79MZ6ssC1.webp?timestamp=1733750395444" target="_blank">Shu’s card</a>.
 [^3]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Astraea%27s_Atelier" target="_blank">Astraea’s Atelier</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
 [^4]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Ring" target="_blank">Ring</a>.
 [^5]: Referring to <a href="https://ensemble-stars.fandom.com/wiki/Bride_Light" target="_blank">Bride Light</a>. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-[^6]: A link to <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.
+[^6]: A translation link to the story <a href="https://hyenahunt.tumblr.com/post/670303788404539392/translation-variety-and-tagbogie-time" target="_blank">Bogie Time</a>.
