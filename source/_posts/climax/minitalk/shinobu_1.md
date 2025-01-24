@@ -48,7 +48,9 @@ description: "[ES!] Translation of Shinobu's first Produce Course from Climax. F
 
 <!-- more -->
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_1.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Qb0A67937f9cXSb4.webp?timestamp=1737719714223 %}
+
 {% bubble Shinobu v2 %}
 Anzu-dono\~ Good morning\~☆
 
@@ -119,7 +121,9 @@ I'd do whatever I can for Isara-dono's sake! ♪
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_2.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2uKgsU67937f9cM6.webp?timestamp=1737719716302 %}
+
 {% bubble Shinobu sad2 %}
 There hasn't been any Ryuseitai activities lately, so I haven't been seeing Tetora-kun and Midori-kun as much…
 
@@ -190,7 +194,9 @@ Are they both coming to school every day…?
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_shinobu1_3.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_h67937f9cexmP1O1.webp?timestamp=1737719713979 %}
+
 {% bubble Shinobu northinking %}
 Hmm~ I'm wondering what to give my classmates for White Day…
 

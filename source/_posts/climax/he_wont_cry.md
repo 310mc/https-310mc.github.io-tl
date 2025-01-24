@@ -64,7 +64,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> Basketball Court</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/wontcry1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_967937dcdHCnOVz1.webp?timestamp=1737719252677 %}
 
 {% bubble Midori idle %}
 ………
@@ -166,7 +166,7 @@ Yeah! We’re used to it by now, but you’d get arrested if you hugged a strang
 Officer~! This man is a pervert!
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/wontcry1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Hn67937dcdtxzO62.webp?timestamp=1737719254080 %}
 
 {% bubble Chiaki grin2 %}
 Heh! ♪ It’s still a little chilly, so you’ll start to feel cold if you don’t move around!
@@ -246,7 +246,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
     <p><span><b>Location:</b> Corridor</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/wontcry2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_K367937dcdXc4GT2.webp?timestamp=1737719254149 %}
 
 {% bubble Midori sigh %}
 <th>(Ugh, it’s already dark outside…)</th>
@@ -281,7 +281,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 
 <th>(Maybe I should’ve been a little nicer to him before everything was over…)</th>
 
-<th>(But I dunno, even that feels waaay too late… I should leave that to the juniors who were always attached to him, in that “I love Morisawa-senpai! ♪” way…)</th>
+<th>(But I dunno, even that feels waaay too late… I should leave that to the juniors who always acted in that “I love Morisawa-senpai! ♪” way…)</th>
 
 <th>(Especially since it was kinda like I was always keeping “everyone’s Morisawa-senpai” to myself… )</th>
 
@@ -318,7 +318,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
     <p><span><b>Location:</b> Gym</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/wontcry2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KjP67937dcdWw6g3.webp?timestamp=1737719253893 %}
 
 {% bubble Midori idle %}
 ………
@@ -370,7 +370,7 @@ Ehhh… I feel like if *that* was burned into my retinas, I’d never be able to
 <th>(And since he always wants to look cool for some reason, I don’t think he’d want anyone to see him crying anyway…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_L6Snm67937dcdno5.webp?timestamp=1737719257149 %}
 
 {% bubble Chiaki clmocg %}
 …………
@@ -472,7 +472,7 @@ No, not really… I’m just a little tired, sleepy, and irritated…
     <p><span><b>Location:</b> Basketball Court</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/wontcry3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0Vk32a67937dcdq6.webp?timestamp=1737719253916 %}
 
 {% bubble Subaru %}
 ………
@@ -590,6 +590,20 @@ Hey Sally~, graduation really does suck… Even *I* have to push myself to smile
                 </a>
             </div>
             <a target="_blank" href="/climax" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/climax/prologue">Prologue</a>
+                    <div>He Won't Cry</div>
+                    <a href="/climax/blessings_and_repayment">Blessings and Repayment</a>
+                    <a href="/climax/anxiety_and_silence">Anxiety and Silence</a>
+                    <a href="/climax/bystanders">Bystanders</a>
+                    <a href="/climax/tears_of_shooting_stars">Tears of Shooting Stars</a>
+                    <a href="/climax/heroes_of_the_future">Heroes of the Future</a>
+                    <a href="/climax/epilogue">Epilogue</a>
+                    <a href="/climax/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/climax/blessings_and_repayment" title="Next Chapter: Blessings and Repayment"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

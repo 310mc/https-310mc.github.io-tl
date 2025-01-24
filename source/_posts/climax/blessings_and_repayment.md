@@ -62,7 +62,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> Student Council Office</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/blessings1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_679380afTj2Xn480.webp?timestamp=1737719987344 %}
 
 {% bubble Chiaki grin2 %}
 Pardon my intrusion!

@@ -539,7 +539,7 @@ I-I just, y’know, accidentally got pulled in… Look, it doesn’t matter! We�
 
 Yo, yo. Lady, why don’t ya come over with me a li’l?
 
-Whaaa—!?? W-Why’re you grabbing my hand!? Please stop! I dunno how to deal with physical contact with girls~!
+Whaaa—!? W-Why’re you grabbing my hand!? Please stop! I dunno how to deal with physical contact with girls~!
 
 Huh? Ahh, this is supposed to be a forceful scene where I grab your arm, but since I didn’t do that, you did it yourself…?
 

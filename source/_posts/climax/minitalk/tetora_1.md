@@ -49,7 +49,7 @@ description: "[ES!] Translation of Tetora's first Produce Course from Climax. Fr
 <!-- more -->
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/climax/minitalk_tetora1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5819Fn67937dcdf6.webp?timestamp=1737719254521 %}
 
 {% bubble Tetora v2 %}
 'Sup, Anzu-Anego! ☆ Thanks for all your help in the Dragon King Competition!
@@ -124,7 +124,7 @@ Next up is Repayment Festival…? Oh yeah…
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/climax/minitalk_tetora1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_5gv67937dcddgYw3.webp?timestamp=1737719253421 %}
 
 {% bubble Tetora v2 %}
 Ossu! Thank you for coming over to the dojo!
@@ -199,7 +199,7 @@ But if I'm to be honest, I wish we could've trained a bit longer before he gradu
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/climax/minitalk_tetora1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_b2hwWf67937dcdJ6.webp?timestamp=1737719254451 %}
 
 {% bubble Tetora curious %}
 …Hm? Why're you staring at me? Is there somethin' on my face?

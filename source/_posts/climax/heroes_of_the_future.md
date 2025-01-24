@@ -60,7 +60,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
 <!-- more -->
 
 ## Chapter Index
-<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a>
+<a href="#Chapter-1">Ch 1</a> - <a href="#Chapter-2">Ch 2</a> - <a href="#Chapter-3">Ch 3</a> - <a href="#Chapter-4">Ch 4</a> - <a href="#Translation-Notes">Translation Notes</a>
 
 ## Chapter 1
 
@@ -68,7 +68,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> At the fountain (White Day)</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/heroesofthefuture1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hk9pEK67937f9cZ6.webp?timestamp=1737719716008 %}
 
 {% bubble Shinobu v2 %}
 Tetora-kuuun! At last, it is the day of the Repayment Festival! ♪
@@ -344,7 +344,7 @@ That is exactly what tokusatsu shows always promise to deliver.
     <p><span><b>Location:</b> Shopping Distract</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/heroesofthefuture2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_aYffk67937f9cKF5.webp?timestamp=1737719714351 %}
 
 {% bubble Midori curious %}
 ………
@@ -404,7 +404,7 @@ D-Dad? Mom? Big bro?
 Is… Is it okay if I leave for a moment when I have time off from work…?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/heroesofthefuture3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_i67937f9cjeOeBa1.webp?timestamp=1737719716725 %}
 
 {% bubble Chiaki grin2 %}
 Good morning!
@@ -496,7 +496,7 @@ I’m in no position to forcibly pull you by the hand anymore.
 So all I can do now is hope, like how one puts hope upon a shooting star.
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/heroesofthefuture3_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Q5vJey67937f9cq6.webp?timestamp=1737719713923 %}
 
 {% bubble Kanata v2 %}
 midori, we will do your [job] in your [place].
@@ -655,9 +655,9 @@ But I guess I've gotten used to it… I sort of get what you're trying to say…
 {% endbubble %}
 
 {% bubble Midori serious %}
-…I'm gonna go to Yumenosaki Academy. I dunno what I can do, but…
+…I'll go to Yumenosaki Academy. I don’t know what I can do, but…
 
-I’ve been pushed all the way to this point, I’d suck way too much if I cower back and run away despite all that hard work.
+I’ve been encouraged and pushed all the way to this point — If I cower back… If I run away now, I really *will* end up looking way too uncool.
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
@@ -762,6 +762,20 @@ It’s something even Anzu-san would enjoy; an unbelievable unfolding of events 
                 </a>
             </div>
             <a target="_blank" href="/climax" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/climax/prologue">Prologue</a>
+                    <a href="/climax/he_wont_cry">He Won't Cry</a>
+                    <a href="/climax/blessings_and_repayment">Blessings and Repayment</a>
+                    <a href="/climax/anxiety_and_silence">Anxiety and Silence</a>
+                    <a href="/climax/bystanders">Bystanders</a>
+                    <a href="/climax/tears_of_shooting_stars">Tears of Shooting Stars</a>
+                    <div>Heroes of the Future</div>
+                    <a href="/climax/epilogue">Epilogue</a>
+                    <a href="/climax/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/climax/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

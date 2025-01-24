@@ -1109,7 +1109,7 @@ Yes! Alright then, heave-ho…☆
 {% endbubble %}
 
 {% bubble Keito %}
-Ghfff!??
+Ghfff!?
 {% endbubble %}
 
 {% bubble Hajime %}

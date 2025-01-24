@@ -21,11 +21,11 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -62,7 +62,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
     <p><span><b>Location:</b> AV Room</span></p>
 </div>
 
-{% img /img/es/eventstory/meteorimpact/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_L8vh6770790fYNN4.webp?timestamp=1735424277369 %}
 
 <div class="msr-narration">
     <p>Present day, end of the year…</p>
@@ -161,7 +161,7 @@ However, please do not make light of us, Taichou-dono. We did not work hard just
 {% endbubble %}
 
 {% bubble Chiaki %}
-Ohh, is that so…♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all in the name of justice, didn’t you!?
+Ohh, I see…♪ My bad, Sengoku! I wasn’t trying to insult you guys! That’s right, you did this all in the name of justice, didn’t you!?
 {% endbubble %}
 
 {% bubble Shinobu %}
@@ -185,7 +185,9 @@ No problem, no problem at all! Our youth is our strength! As well as something t
 {% bubble Tetora %}
 Owow, owowowow!? Be a little gentle at least, please! If you don’t calm down anytime soon, my karate hands will start erupting fire~!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/prologue_2.jpg %}
+
 {% bubble Shinobu %}
 <th>*(whispering)*</th> Midori-kun, Midori-kun. Is it just me, or is Taichou-dono acting a little strange today?
 
@@ -277,6 +279,19 @@ that was another thing that chiaki taught me. no… every valuable thing — it 
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <div>Prologue</div>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/first_half_p1" title="Next Chapter: Two Years Ago: Not Quite a Hero (Chapter 1-8)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

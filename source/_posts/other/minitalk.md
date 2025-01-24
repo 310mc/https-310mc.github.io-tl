@@ -26,7 +26,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/tetoraframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_8pn8inA679380af7.webp?timestamp=1737719986984"
             alt="As The Future Commander"
         />
     </div>
@@ -38,7 +38,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/tetorabcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_S85wxdl679380af7.webp?timestamp=1737719987014"
             alt="Fruits Of One's Efforts"
         />
     </div>
@@ -50,7 +50,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/shinobuframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_QK55TQ4679380af7.webp?timestamp=1737719987483"
             alt="Endurance Of A Shy Person"
         />
     </div>
@@ -62,7 +62,7 @@ permalink: minitalk/
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/shinobubcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_cCNd679380afsDZ4.webp?timestamp=1737719986976"
             alt="Guiding Them To Hope"
         />
     </div>
@@ -74,7 +74,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_n8679380af426gH2.webp?timestamp=1737719986819"
                 alt="Tough Being a Parent"
             />
         </div>
@@ -86,7 +86,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_2Wp679380af2kVL3.webp?timestamp=1737719985401"
                 alt="Justice Will Prevail"
             />
         </div>
@@ -98,7 +98,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_679380afuGi6Q4U0.webp?timestamp=1737719985709"
                 alt="Novice Hero"
             />
         </div>
@@ -110,7 +110,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_jSO679380afc8pF3.webp?timestamp=1737719986608"
                 alt="Path To Compassion"
             />
         </div>

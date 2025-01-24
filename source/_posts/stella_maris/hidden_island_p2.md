@@ -62,7 +62,11 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 ## Chapter 6
 
-{% img /img/es/eventstory/stellamaris/p1_6.jpg %}
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pV67935d3fd9j3f2.webp?timestamp=1737710917209 %}
 
 <div class="msr-narration">
     <p>Several minutes later. A remote island near Okinawa’s main island, “Hoshijima”…</p>
@@ -199,7 +203,7 @@ But if this were a tour, we would’ve been able to learn <em>something</em> abo
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Don’t stray too far, Takamine. We may not be able to find each other again if we lose track of each other.
+Don’t stray too far, Takamine. We may not be able to find each other again if we lose track of one another.
 
 Here; if you’re feeling anxious, big brother will gladly hold your hand~♪
 {% endbubble %}
@@ -213,7 +217,7 @@ He clicked his tongue!? Why!? I really was trying to be considerate, though…!?
 {% endbubble %}
 
 {% bubble Tetora grin %}
-Midori-kun doesn’t wanna be treated like a li’l kid either, y’know~♪
+Midori-kun’s also growing up, so he doesn’t wanna be treated like a li’l kid either, y’know~♪[^4]
 {% endbubble %}
 
 {% bubble Shinobu curious %}
@@ -234,7 +238,7 @@ But I feel as though someone is watching us—
 
 ## Chapter 7
 
-{% img /img/es/eventstory/stellamaris/p1_7.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_oG67935d3fLyHcp2.webp?timestamp=1737710914192 %}
 
 <div class="msr-narration">
     <p>Several minutes later. At the lodging accommodation for Ryuseitai — An unoccupied house in the outskirts of Hoshjima Village…</p>
@@ -540,7 +544,7 @@ It’s as they say, you can’t fight on an empty stomach\~. Make sure to eat we
 
 ## Chapter 9
 
-{% img /img/es/eventstory/stellamaris/p1_9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_WMmY67935d3fam14.webp?timestamp=1737710913789 %}
 
 <div class="msr-narration">
     <p>A few hours later. In the main temple of Hoshijima Village…</p>
@@ -561,7 +565,7 @@ It’s as they say, you can’t fight on an empty stomach\~. Make sure to eat we
 {% endbubble %}
 
 {% bubble Tetora serious %}
-<th>(I don’t think it’s right for us to do the same thing to ‘em that our agency did to us. It’s plain irritating when someone says, “I did it with the best intentions” without any regard for how you feel ‘bout it.)</th>[^4]
+<th>(I don’t think it’s right for us to do the same thing to ‘em that our agency did to us. It’s plain irritating when someone says, “I did it with the best intentions” without any regard for how you feel ‘bout it.)</th>[^5]
 
 <th>(If possible, we wanna restore this land in the way the islanders want.)</th>
 
@@ -595,7 +599,7 @@ but, why is it tetora?
 {% endbubble %}
 
 {% bubble Tetora shocked %}
-Huh!? A-Am I not good enough!?
+Huh!? A-Am I not good enough somehow!?
 {% endbubble %}
 
 {% bubble Kanata srsthinking %}
@@ -668,7 +672,7 @@ yes. that is what i am [expecting].
 <th>(as for me, i am just [not there] at all~… i really am trying my best to do this [seriously], but i always end up being so floaty…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p1_9_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_W4Z8267935d3fp95.webp?timestamp=1737710914458 %}
 
 {% bubble UnKonata %}
 Please excuse me.
@@ -715,7 +719,7 @@ uu~ but if i call you by your [real name], it will be easy to mix up with mine.
 {% endbubble %}
 
 {% bubble Konata frown %}
-Hmph. I suppose it is true that the “Kona” in “Konata” and “Kana” sound similar to the ear.[^5]
+Hmph. I suppose it is true that the “Kona” in “Konata” and “Kana” sound similar to the ear.[^6]
 {% endbubble %}
 
 {% bubble Tetora curious %}
@@ -723,7 +727,7 @@ Konata…?
 {% endbubble %}
 
 {% bubble Konata %}
-Yes…? Indeed, my name is Minase Konata, the lord of this island.[^6]
+Yes…? Indeed, my name is Minase Konata, the lord of this island.[^7]
 {% endbubble %}
 
 {% bubble Tetora serious %}
@@ -752,24 +756,24 @@ That isn’t true. You and I are complete strangers who have nothing to do with 
 
 ## Chapter 10
 
-{% img /img/es/eventstory/stellamaris/p1_10.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_s5r7ka67935d3fD6.webp?timestamp=1737710915418 %}
 
 <div class="msr-narration">
     <p>That night, at the lodging accommodation for Ryuseitai…</p>
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^7]
+Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^8]
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^8] Apparently, it all originates from when he was a pirate who ran rampage across the island.
+Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^9] Apparently, it all originates from when he was a pirate who ran rampage across the island.
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
 Nii-nii is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^9]
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^10]
 
 I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-nii about it\~.
 
@@ -785,7 +789,7 @@ If I may interject — with the exception of Kanata, we aren’t experts in reli
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^10] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^11] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -809,13 +813,13 @@ It makes me happy to see his compassion for friendship, but… why is it that I 
 {% bubble Shinobu northinking %}
 Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
 
-Though, it’s more so a project to build an amusement park…[^11]
+Though, it’s more so a project to build an amusement park…[^12]
 
 However, it seems that there is no land available in the main island to build such a park, so they are instead aiming for Hoshijima.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^12]
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^13]
 
 While building the park, they may remove all the unusable ruins, too.
 
@@ -831,7 +835,7 @@ It’d be dangerous for anyone to get close… I think we’re better off having
 {% bubble Chiaki serious %}
 Mm. There are many plots of land across the world that are off-limits to the public for similar reasons.[^1]
 
-If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^13] It’s necessary to take these things into account.
+If the buildings could only crumble, that’s still not too bad… But depending on the area, there could be landmines or unexploded bombs buried in the ground.[^14] It’s necessary to take these things into account.
 
 Rather than to forcibly turn such a danger zone into a tourist attraction, it may be best to take the predictable path, and rebuild the area into an amusement park that can make an infinite amount of money.
 {% endbubble %}
@@ -880,7 +884,7 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 
 ## Chapter 11
 
-{% img /img/es/eventstory/stellamaris/p1_11.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mb67935d3fS73UZ2.webp?timestamp=1737710917317 %}
 
 {% bubble Konata frown %}
 While it is true that we have been confined for a long time, we don’t lack basic common sense.
@@ -919,11 +923,11 @@ As the lord of Hoshijima, I, Minase Konata, would like to express my deepest gra
 {% endbubble %}
 
 {% bubble Chiaki curious %}
-K-Konata? Is that his name because he’s a tiny Kanata?[^14]
+K-Konata? Is that his name because he’s a tiny Kanata?[^15]
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-Is it not simply <em>konata</em> for “here” and <em>kanata</em> for “there”…?[^15]
+Is it not simply <em>konata</em> for “here” and <em>kanata</em> for “there”…?[^16]
 {% endbubble %}
 
 {% bubble Chiaki worried %}
@@ -981,7 +985,7 @@ What are you acting so proud for? I didn’t compliment you in any way.
 {% endbubble %}
 
 {% bubble Kanata grin %}
-onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^16] i was [forbidden] from doing so up until now.
+onii-chan is so happy that he got to [introduce] his [close allies] to kona-chan~[^17] i was [forbidden] from doing so up until now.
 {% endbubble %}
 
 {% bubble Konata yare %}
@@ -999,7 +1003,7 @@ W-What a responsible kid… Incredible. I could <em>barely</em> speak this eloqu
 {% endbubble %}
 
 {% bubble Midori serious %}
-Erm… Konata-kun— Konata-chan…?[^17] How old are you?
+Erm… Konata-kun— Konata-chan…?[^18] How old are you?
 {% endbubble %}
 
 {% bubble Konata norsmile %}
@@ -1051,7 +1055,7 @@ You aren’t a god anymore, are you?
 {% endbubble %}
 
 {% bubble Konata %}
-Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^18], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
+Regardless… It seems that the true governor of this land, the ZK Zaibatsu[^19], has also approved of developing the area. I am not aware what sort of magic trick was performed to accomplish this, but…
 
 After such arrangements, it has been decided that a branch of the so-called “ES” will be built on this land.
 
@@ -1078,6 +1082,19 @@ That is why, I implore all of you — Please teach us what “idols” are.
                 </a>
             </div>
             <a target="_blank" href="/stella_maris" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/stella_maris/prologue">Prologue</a>
+                    <a href="/stella_maris/hidden_island">hidden island Ch1–5</a>
+                    <div>hidden island Ch6–11</div>
+                    <a href="/stella_maris/birthplace_of_stars">birthplace of stars Ch1–6</a>
+                    <a href="/stella_maris/birthplace_of_stars_p2">birthplace of stars Ch7–15</a>
+                    <a href="/stella_maris/epilogue">Epilogue</a>
+                    <a href="/stella_maris/epilogue#Story-Highlights">Story Highlights</a>
+                    <a href="/stella_maris/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/stella_maris/birthplace_of_stars" title="Next Chapter: birthplace of stars (Chapter 1–6)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -1089,18 +1106,19 @@ That is why, I implore all of you — Please teach us what “idols” are.
 [^1]: This scene was slightly adjusted. The main translation follows the story as it currently is in-game, but if you’d like to see the version before it was adjusted, please <a href="/stella_maris/hidden_island_v2#Disclaimer" target="_blank">go here</a>.
 [^2]: Closed circle of suspects is a common genre in detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^3]: This is referring to <a href="/supervillain" target="_blank">Supervillain</a>, when Tetora was tasked to act as a spy in an agency that was also a criminal organization. The story happens in Okinawa.
-[^4]: This is referring to the events that happened to Ryuseitai throughout the previous fiscal year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
-[^5]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
-[^6]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan’s best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
-[^7]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^8]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. In Japanese, it’s written with the grandfather kanji only (爺).
-[^9]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to their grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
-[^10]: Chiaki was speaking in polite Japanese (keigo) to Mizusaba.
-[^11]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-[^12]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
-[^13]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
-[^14]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he’s a “tiny” Kanata.
-[^15]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata’s first name is in full hiragana (no kanji), whereas the kanji in Kanata’s name (奏汰) is homophonous with 彼方 (far away).
-[^16]: Onii-chan, as in “big brother”.
-[^17]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
-[^18]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.
+[^4]: The word Tetora says for “growing up” is <em>toshigoro</em> (年頃), which is used to refer to an adolescent (16-18 years old) nearing the age of independance/adulthood. Typically, an older person uses this word about adolescents, so Tetora using it could imply that Tetora is mentally a bit older than Midori (despite being the same age/year). <em>Toshigoro</em> can also be used to refer to an age suitable for marriage.
+[^5]: This is referring to the events that happened to Ryuseitai throughout the previous fiscal year. For more information, please read the !! Era stories that precede this story, such as <a href="/comet_show" target="_blank">Comet Show</a>, <a href="/submarine" target="_blank">Submarine</a>, <a href="/supervillain" target="_blank">Supervillain</a>, etc…
+[^6]: Unlike young Kanata in <a href="/abyss" target="_blank">ABYSS</a>, Konata speaks in polite language, as well as using kanji in his speech. His first-person pronoun is <em>watashi</em>, a neutral pronoun (and the standard first-person pronoun in Japanese). Also, while he does share the same 2D model as young Kanata, he has no voice clips when speaking.
+[^7]: “Konata” is only in hiragana. As for <em>minase</em>, the kanji is 水無瀬 (water, inexistent/none, shallows/current). Minase originally referred to a stream of water flowing underground, but the surface appears to be dried up. Read more <a href="https://saigyo.sakura.ne.jp/minase.html" target="_blank">here</a> (Japanese source). There is also a Shinto shrine in Osaka called Minase Jingu Shrine, said to have one of Japan’s best 100 natural water sources. Read more <a href="https://osaka-info.jp/en/spot/minasejingu/" target="_blank">here</a> (English source).
+[^8]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^9]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. In Japanese, it’s written with the grandfather kanji only (爺).
+[^10]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to their grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
+[^11]: Chiaki was speaking in polite Japanese (keigo) to Mizusaba.
+[^12]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^13]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^14]: Also known as <a href="https://en.wikipedia.org/wiki/Unexploded_ordnance" target="_blank">unexploded ordnance</a>.
+[^15]: This is a wordplay in Japanese. Chiaki asks if his name is <em>konata</em>, as in <em>ko</em> 小 (small) + <em>nata</em>, because he’s a “tiny” Kanata.
+[^16]: The kanji 此方 (<em>konata</em>) means “here, this way/direction”, whereas the kanji 彼方 (<em>kanata</em>) means “over that way, (beyond) the distance, far away”. Konata’s first name is in full hiragana (no kanji), whereas the kanji in Kanata’s name (奏汰) is homophonous with 彼方 (far away).
+[^17]: Onii-chan, as in “big brother”.
+[^18]: For young children, “-kun” is usually used for boys, and “-chan” for girls.
+[^19]: This is referring to the ZK Zaibatsu that was mentioned in <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. The <a href="https://en.wikipedia.org/wiki/Zaibatsu" target="_blank">Zaibatsu</a> is business conglomerates in Japan.

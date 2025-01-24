@@ -60,7 +60,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> Classroom 1-B</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/anxiety1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_plMT679380afxFy4.webp?timestamp=1737719986452 %}
 
 {% bubble Shinobu v2 %}
 <em><th>(Munch, munch)</th>…♪</em>
@@ -222,7 +222,7 @@ To be honest, I am at a loss… W-What should I do, Anzu-dono?
     <p><span><b>Location:</b> Corridor 1-F (White Day)</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/anxiety2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tR6iH679380afp15.webp?timestamp=1737719987007 %}
 
 {% bubble Shinobu v2 %}
 Ohh, they’ve decorated this area for Repayment Festival already~♪
@@ -292,7 +292,7 @@ Heh! I also know a little bit more about heroes now, don’t you think? ♪
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/anxiety2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iQs679380afpsLf3.webp?timestamp=1737719987346 %}
 
 {% bubble Tetora serious %}
 …………

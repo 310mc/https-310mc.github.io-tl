@@ -21,11 +21,11 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
                     Characters
                 </div>
                 <div class="value">
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -134,6 +134,8 @@ Aren’t you planning to keep on cleaning!? You’ve gotta stop using up your en
 shh… don’t Make a noise, everyone. shinobu will wake up.
 {% endbubble %}
 
+{% img /img/es/eventstory/meteorimpact/monologue_2.jpg %}
+
 {% bubble Shinobu %}
 zzz…zzz…♪
 
@@ -148,8 +150,6 @@ Ahaha… Sounds like he’s having a nice dream…♪
 that’s right. so don’t Wake him up. go to sleep, go to sleep little baby…♪[^1]
 {% endbubble %}
 
-{% img /img/es/eventstory/meteorimpact/monologue_2.jpg %}
-
 {% bubble Shinobu %}
 …♪
 {% endbubble %}
@@ -159,7 +159,7 @@ Heheh. Kanata, you’re singing him a lullaby while carrying him… I’ve been 
 {% endbubble %}
 
 {% bubble Kanata %}
-it doesn’t make me happy to be Compared to *that*…
+being Compared to *that* is just…
 
 well, no matter. we shouldn’t Talk any longer; it’s time to head back Home.
 
@@ -177,7 +177,7 @@ first, i must Recover my Energy to properly accomplish my Mission… *puka, puka
 {% endbubble %}
 
 {% bubble Shinobu %}
-Mghg—mugaaAAA~!? How cowardly…! But a ninja shall not yield to such torture…! <th>*(Cough, cough)*</th>!?
+Mghg—mugaaAAA~!? How cowardly…! But a ninja shall not yield to such tortu—<em>Cough, cough!?</em>
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/monologue_3.jpg %}
@@ -264,6 +264,19 @@ once upon a time… a Meteorite fell down in some place—
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <div>Monologue</div>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/second_half_p1" title="Next Chapter: One Year Ago: Unqualified Hero (Chapter 1-12)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

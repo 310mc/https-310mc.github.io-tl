@@ -66,10 +66,10 @@ description: "[ES!!] After an accident occurred during their rehearsal for the u
     <p><span><b>Season:</b> Winter</span></p>
 </div>
 
-{% img /img/es/eventstory/supervillain/darkstarch1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dH1xn67570e11TO5.webp?timestamp=1733758486873 %}
 
 <div class="msr-narration">
-    <p>Half a year later. Middle of March, in ES’s first year of establishment…</p>
+    <p>Half a year later. Middle of March, in ES’s 1st year of establishment…</p>
 </div>
 
 {% bubble Chiaki smile %}
@@ -187,7 +187,7 @@ The project’s concept was the same as those movies with all the heroes from Am
 {% endbubble %}
 
 {% bubble Kanata frown %}
-they were trying to catch a rare fish[^1], weren’t they?
+they were trying to catch a rare fish, weren’t they?[^1]
 {% endbubble %}
 
 {% bubble Chiaki frown %}
@@ -247,7 +247,7 @@ Or no, rather, it’s mine. I can’t force you guys to go along with my selfish
 {% endbubble %}
 
 {% bubble Shinobu norsmile %}
-I always think this, but you truly do not have to be so reserved, Morisawa-dono.
+I always think this, but you truly do not have to be so reserved like we are strangers, Morisawa-dono.
 {% endbubble %}
 
 {% bubble Kanata smilesoft %}
@@ -531,7 +531,7 @@ You can check that kinda stuff just fine, huh… I could never… any post I rea
 {% endbubble %}
 
 {% bubble Shinobu smug %}
-Heh! It is a ninja’s duty to excel at intellectual gathering!
+Heh! It is a ninja’s duty to excel at intelligence gathering!
 {% endbubble %}
 
 {% bubble Kanata v2 %}
@@ -586,7 +586,7 @@ What the…!? What is this…!?
 
 ## Chapter 4
 
-{% img /img/es/eventstory/supervillain/darkstarch4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_sCdL9U67570e11c6.webp?timestamp=1733758485520 %}
 
 <div class="msr-narration">
     <p>The next day. Okinawa prefecture, in one of the downtown alleyways, far away from the headquarters building of the agency, “Crimson Production”…</p>
@@ -595,7 +595,7 @@ What the…!? What is this…!?
 {% bubble Tetora vside %}
 —An intruder?[^3]
 
-Is it another one of those random local punks causing a ruckus around the area again? Like that descendant of Oni or something—[^4]
+Is it another one of those incomprehensible local punks causing a ruckus around the area again? Like from that descendant of Oni or something—[^4]
 
 No? They’ve been relatively quiet since their boss left for the US? But there’s been talk that there’s still some guys left over around here?
 
@@ -606,7 +606,7 @@ Hmmm… Well, even if they’re just a bunch of troublemakers, we should be on t
 Yeah. For the time being, I’ll leave it to the B squad of the battle branch to deal with the intruder.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_l9mZzf67570ca8g6.webp?timestamp=1733758126574 %}
 
 {% bubble Tetora vside %}
 I know. We’ll also settle our matters as fast as possible, and then return to the headquarters building. We’ll discuss countermeasures against the mysterious intruder after that.
@@ -614,7 +614,7 @@ I know. We’ll also settle our matters as fast as possible, and then return to 
 ——Right then, time for another fun day of work at the “evil organization”.
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch4_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_eOFxU67570e11jj5.webp?timestamp=1733758486609 %}
 
 <div class="msr-narration">
     <p>Next morning. Near the whereabouts of Crimson Production’s headquarters…</p>
@@ -631,9 +631,9 @@ T-The air it emits is so grandiose that it is a little scary… A modern-looking
 
 There are no signs of dwelling anywhere nearby; only a majestically vast wilderness that stretches on.
 
-Around the building is some sort of training ground… This may sound like an exaggeration, but it sort of looks like a military facility.
+Around the building is some sort of training ground… This may sound like an exaggeration, but it kind of looks like a military facility.
 
-Ah, yes, I am aware of that. I have not forgotten that there are US military bases in Okinawa, so I will be extra careful not to trend anywhere close to them and risk myself.
+Ah, yes, I am aware of that. I have not forgotten that there are US military bases in Okinawa, so I will be extra careful not to risk myself by treading anywhere close to them.
 {% endbubble %}
 
 {% bubble Shinobu smilesoft %}
@@ -651,7 +651,7 @@ For some reason, he is leaning back on his chair with his legs propped up on an 
 {% endbubble %}
 
 {% bubble Shinobu curious %}
-Is that really Tetora-kun…? He seems unusually different somehow…
+Is that really Tetora-kun…? The air he’s giving off seems different somehow…
 
 Mhm. Regardless, I can assure you that Tetora-kun is alive and well. Although, I don’t know why he’s refusing all contact with us.
 
@@ -665,7 +665,7 @@ Apparently, it used to be a well-established entertainment agency in Okinawa, bu
 
 Indeed, it is as you say — Despite this, they have built a new building, and the land around here is apparently all owned by Crimson Production.
 
-Mhm, mhm… I truly do wonder where they acquired the money to buy such extravagant property, when they have not even produced anything worthwhile. It’s quite obviously fishy.
+Mhm, mhm… I truly do wonder where they acquired the money to buy such extravagant property when they have not even produced anything worthwhile. It’s quite obviously fishy.
 
 There is definitely something going on here, Taichou-dono.
 {% endbubble %}
@@ -687,7 +687,7 @@ Mhm, mhm. It seems that the upperclassmen at Yumenosaki Academy are in dispute t
 
 However, I still have one more year to go as a highschooler, so my yearmates and I are practically left out of the loop regarding all of that.
 
-I have got the time to spare for all of this. That’s why you need not worry, I’ll be alright.
+I have the time to spare for all of this. That’s why you need not worry, I’ll be alright.
 
 Hmm? What about my work as a Student Council member? Ohhh~ Yes, well, we’re stuck in one place right now, so even then, I have a lot of availab—
 {% endbubble %}
@@ -706,7 +706,7 @@ E-Either way, I have a bad feeling about this, so I must conceal myself at once!
 
 ## Chapter 5
 
-{% img /img/es/eventstory/supervillain/darkstarch5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_c067570e11TaaYn2.webp?timestamp=1733758489514 %}
 
 <div class="msr-narration">
     <p>At the same time — Near the ES building, inside ESTele’s studio…</p>
@@ -725,9 +725,9 @@ the [atmosphere] felt far too alarming…
 {% endbubble %}
 
 {% bubble Chiaki frown %}
-No, we’ve all made our decision yesterday. We said that we’d leave it all to him based on the fact that he’s been extremely reliable these days.
+No, we made our decision yesterday. We said that we’d leave it all to him based on the fact that he’s been extremely reliable these days.
 
-And that we’ll do our best with our regular duties in Ryuseitai, while Sengoku is investigating what’s happening over on the other side.
+And also, that we’ll do our best with our regular duties in Ryuseitai while Sengoku is investigating what’s happening over on the other side.
 
 I’m concerned about what’s happening with Nagumo, but we can’t afford to take a loss in our work. That would only worry the fans and the involved staff even more.
 {% endbubble %}
@@ -753,7 +753,7 @@ But, well… I suppose he can’t boycott the work he had already agreed to do, 
 {% bubble Chiaki idle %}
 Takamine used to have no motivation, but now he works hard on his jobs no matter the reason. Personally, I don’t want to oppose that.
 
-The one who kept telling him to do his best, and to keep going is me, after all.
+The one who kept telling him to do his best and to keep going is me, after all.
 
 I refuse to become a two-faced person who changes what they say depending on the time and place.
 {% endbubble %}
@@ -801,7 +801,7 @@ what makes you [say] that?
 {% endbubble %}
 
 {% bubble Chiaki serious %}
-The ES rules. If you wish to withdraw from your unit, you <em>must</em> have the approval of the leader first. Those are the rules.
+The regulations of ES. If you wish to withdraw from your unit, you <em>must</em> have the approval of the leader first. Those are the rules.
 
 And I, the current leader of Ryuseitai, have not received any request form of withdrawal from Nagumo, nor have I approved it.
 
@@ -864,7 +864,7 @@ Just as there are no heroes in this reality, there are no purely evil monsters o
 
 ## Chapter 6
 
-{% img /img/es/eventstory/supervillain/darkstarch6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hyY67570e115H0v3.webp?timestamp=1733758485671 %}
 
 <div class="msr-narration">
     <p>Nearly an hour later. Okinawa, in the Crimson Production agency office…</p>
@@ -914,7 +914,7 @@ Or has a ghost possessed you, by any chance?
 Ah—! Is it like NEGI-dono—
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/darkstarch6_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_1MrNo67570e11iP5.webp?timestamp=1733758490053 %}
 
 {% bubble Tetora vside %}
 Look, that’s besides the point right now.
@@ -934,7 +934,7 @@ Uuu~ I cannot promise that! I must report to Taichou-dono and Shinkai-dono about
 When it comes down to it, Ryuseitai was still my old home. I don’t really want to fight with you guys either, m’kay?
 {% endbubble %}
 
-{% img /img/es/eventstory/supervillain/shinobuorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hbC67570ca8EZGU3.webp?timestamp=1733758127283 %}
 
 {% bubble Shinobu sad4 %}
 <th>(Ughh… Seriously, what is going on here…? What is happening in Okinawa…!?)</th>
@@ -1144,10 +1144,10 @@ So tell me, which side is the one with the dangerous ideologies? Who’s the rea
 </div>
 
 <div class="msr-location">
-    <p><span><b>Location:</b> Starmony Dorm, Takamine Midori’s dorm room</span></p>
+    <p><span><b>Location:</b> Seisoukan Dorm, Takamine Midori’s dorm room</span></p>
 </div>
 
-{% img /img/es/eventstory/supervillain/darkstarch8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_k67570e11ArID2c1.webp?timestamp=1733758489183 %}
 
 <div class="msr-narration">
     <p>Next day, early morning…</p>
@@ -1228,7 +1228,7 @@ Naturally, we’re puzzled too! Yesterday, we had Sengoku fly to Okinawa to inve
 
 But then he found himself in some kind of trouble, and we never heard from him again.
 
-I can’t even reach a signal, no matter how many times I phone him.
+My calls won’t go through no matter how many times I phone him.
 {% endbubble %}
 
 {% bubble Midori idle %}
@@ -1238,7 +1238,7 @@ It’s not ‘cause you were so annoying that he blocked you… right?
 {% bubble Chiaki grin2 %}
 Nope! I think it’s only you who’d do something as cruel as that to me, Takamine!
 
-I’ll have you know, it’s a burden on me to always have to relay my messages to other people like Kanata whenever I want to contact you!
+I’ll have you know, it’s a burden to always ask for a mediator like Kanata to relay my messages whenever I want to contact you!
 {% endbubble %}
 
 {% bubble Midori idle %}
@@ -1314,7 +1314,7 @@ We can now leave our work aside, and focus on the main issue at hand!
 {% endbubble %}
 
 {% bubble Midori sighdrop %}
-It’s only when it’s least necessary that he’s super fast to work…
+It’s only when it’s the least necessary that he’s super fast to work…
 {% endbubble %}
 
 {% bubble Chiaki frustrated %}
@@ -1367,6 +1367,17 @@ We *have* to solve this unprecedented problem.
                 </a>
             </div>
             <a target="_blank" href="/supervillain" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/supervillain/prologue">Prologue</a>
+                    <div>Dark Star</div>
+                    <a href="/supervillain/supersized_villain">Supersized Villain Ch1–8</a>
+                    <a href="/supervillain/supersized_villain_p2">Supersized Villain Ch9–15</a>
+                    <a href="/supervillain/epilogue">Epilogue</a>
+                    <a href="/supervillain/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/supervillain/supersized_villain" title="Next Chapter: Supersized Villain (Chapter 1–8)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

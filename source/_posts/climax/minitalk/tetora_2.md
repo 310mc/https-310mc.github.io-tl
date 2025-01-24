@@ -48,7 +48,9 @@ description: "[ES!] Translation of Tetora's second Produce Course from Climax. F
 
 <!-- more -->
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_tetora2_1.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pQOrQZ67937dcdz6.webp?timestamp=1737719253404 %}
+
 {% bubble Tetora sad %}
 I went too far the other day… I need to reflect on myself…
 
@@ -119,7 +121,9 @@ Ah, you thought I was depressed? Don't worry 'bout me.
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_tetora2_2.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DWDkmdE67937dcd7.webp?timestamp=1737719254374 %}
+
 {% bubble Tetora v2 %}
 We're gonna get to perform in the auditorium for Repayment Festival!
 
@@ -190,7 +194,9 @@ I'd love you to come see us if you don't mind, Anzu-Anego!
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_tetora2_3.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3EJ67937dcdOaFI3.webp?timestamp=1737719255153 %}
+
 {% bubble Tetora v2 %}
 I'm super indebted to Shinkai-senpai and Taichou!
 

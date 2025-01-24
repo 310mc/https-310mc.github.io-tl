@@ -320,6 +320,7 @@ Did you think my glasses were just for show? That I can’t actually see anythin
 
 You fabricated your report on the Yaobikuni, didn’t you?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch14_1.jpg %}
 
 {% bubble Souma worried %}
@@ -391,6 +392,7 @@ Miracles that we could never make a reality on our own, not when we were so weak
 
 This is where you came in handy.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch14_2.jpg %}
 
 {% bubble Souma worried %}
@@ -659,6 +661,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(They can relax knowing they’re part of the bigger force. Now that they're at a safe place, they make themselves feel better and more important by trampling over what is now the minority—The Five Eccentrics.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch16_1.jpg %}
 
 {% bubble Chiaki mgnsad %}
@@ -686,7 +689,9 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(……)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch16_2.jpg %}
+
 {% bubble Chiaki mgnsad %}
 <th>(…Haha. I bear the same crime as all of them — all I do is criticise them, yet do nothing myself.)</th>
 
@@ -702,6 +707,7 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(No one’s expecting anything from me! No one’s asking me to do it! So I’m not to blame!)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch16_3.jpg %}
 
 {% bubble Chiaki mgnsad %}
@@ -786,7 +792,9 @@ We’ll rinse our bodies with hot water then — So let’s get to drenchin’ o
 
 <th>(So, it’s fine… It’s just fine if I don’t do anything… I—… I’m not to blame.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch17_1.jpg %}
+
 {% bubble Subaru %}
 Bucho~…?
 {% endbubble %}
@@ -886,7 +894,9 @@ Akehoshi!
 {% bubble Subaru %}
 Woah! What!?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch17_2.jpg %}
+
 {% bubble Chiaki mgnserious %}
 That weird person… was Shinkai Kanata-kun, wasn’t it?
 {% endbubble %}
@@ -1095,7 +1105,9 @@ I don’t deserve your respect…!
 {% bubble Subaru serious %}
 ……
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_3.jpg %}
+
 {% bubble Subaru sad %}
 ………
 
@@ -1113,7 +1125,9 @@ Ahh, jeez… That ruined my mood.
 
 Sorry, I’ll just go home for today. I just remembered I didn’t feed Daikichi, so I’m sure he’s whining for me.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch18_4.jpg %}
+
 {% bubble Subaru angry0 %}
 I did something bad, I guess… But oh well, no matter what kinda bad thing I do, a hero won’t come and punish me for it, right?
 
@@ -1401,7 +1415,9 @@ There’s things worth living for! Actually—I’ll even work hard so that you 
 
 So please live, Shinkai-kun! That’s the only wish I’ll ever give you…!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/kanataorigcg.jpg %}
+
 {% bubble Kanata pastcg %}
 wish—
 
@@ -1419,7 +1435,9 @@ fufu. what’s wrong, are you crying? or are you Imitating a Sea turtle, chiaki�
 
 did something Sad happen? should I give you a “good boy, good boy”? would that make you stop Crying?
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch20_1.jpg %}
+
 {% bubble Chiaki mgnworried %}
 Uuu~? N-No, you’re mistaken! I’m not crying! That’s just water in my eyes!
 
@@ -1515,7 +1533,9 @@ my Scales will fully peel off. that is why… um, chiaki? are you listening?
 {% bubble Chiaki mgnserious %}
 …Yeah. I’m sorry for suddenly hugging you.
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch20_2.jpg %}
+
 {% bubble Kanata pastfrownshake %}
 no… i feel Warm now. it feels like the “lonely” is slowly Disappearing.
 
@@ -1758,6 +1778,7 @@ and the illness was finally cured, too… how Sad…
 {% endbubble %}
 
 ## Chapter 22
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch22.jpg %}
 
 {% bubble Kanata pastsmile %}
@@ -1849,7 +1870,9 @@ That’s why he was part of Ryuseitai. He was just like me… I think.
 
 But he couldn’t accomplish it, so he failed… He was completely defeated by something far too large and vile…
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch22_1.jpg %}
+
 {% bubble Chiaki mgnsad %}
 <th>(Even Mikejima-san couldn’t win against that much evil… Can I, of all people, really stand a chance against such an old, long-lasting tradition around Shinkai-kun…?)</th>
 
@@ -2602,9 +2625,9 @@ if that is the case. then why were There idols in the Magazines you would always
 {% bubble Kanata pastsmile %}
 mikejima. thank you for trying to Protect me until the very end.
 
-no matter what anyone says, *i* at least will never call you evil or a monster.
+no matter what anyone says, *i* alone will never call you Evil or a Monster.
 
-you are my hero…… but, enough of all of this.
+my hero…… but, enough of all of this.
 
 i will quit being an idol.
 
@@ -2807,6 +2830,19 @@ please Explain things to me properly! listen to what a god Tells you to do!
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <div>Unqualified Hero Ch13–26</div>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/second_half_p3" title="Next Chapter: Unqualified Hero (Chapter 27-33)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

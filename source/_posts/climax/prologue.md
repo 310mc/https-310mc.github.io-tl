@@ -60,7 +60,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> Marine Life Clubroom</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/prologue_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_U67937dcd0ROek71.webp?timestamp=1737719253166 %}
 
 {% bubble Kanata v2 %}
 <em><th>(humming)</th></em> ~……♪

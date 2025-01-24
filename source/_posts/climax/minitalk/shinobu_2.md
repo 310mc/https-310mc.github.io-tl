@@ -48,7 +48,9 @@ description: "[ES!] Translation of Shinobu's second Produce Course from Climax. 
 
 <!-- more -->
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_shinobu2_1.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_R2qz67937dcdhwk4.webp?timestamp=1737719253814 %}
+
 {% bubble Shinobu sad4 %}
 Personally, I want to participate in Repayment Festival, no matter what…
 
@@ -119,7 +121,9 @@ I want to show them we've grown so that they can graduate without any fear…!
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_shinobu2_2.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YXt67937dcdwS9f3.webp?timestamp=1737719254137 %}
+
 {% bubble Shinobu frown %}
 On that day, I tried to catch up to my seniors as soon as possible, but I failed to…
 
@@ -190,7 +194,9 @@ I was trying my best to build my stamina up, but it appears that it wasn't enoug
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_shinobu2_3.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_glcxb067937dcdY6.webp?timestamp=1737719254469 %}
+
 {% bubble Shinobu v2 %}
 I was worried what would happen for a while, but it seems like we will be able to get through today~♪
 

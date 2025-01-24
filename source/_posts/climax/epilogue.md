@@ -72,7 +72,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> At the fountain (White Day)</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/epilogue1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KETZMQ67938064I6.webp?timestamp=1737719911017 %}
 
 {% bubble Eichi smilesoft2 %}
 Anzu-chan, the moon is pretty tonight, isn’t it?
@@ -240,7 +240,7 @@ Me too, Subaru-kun. Ahh, doesn’t it make you so glad to be born?
     <p><span><b>Location:</b> Repayment Festival Stage (Ryuseitai)</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/epilogue2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_qqE67937f9c60bs3.webp?timestamp=1737719714136 %}
 
 {% bubble Kaoru v2 %}
 Kanata-kuuun! Moricchi~! <em><th>(waves)</th></em>
@@ -324,7 +324,7 @@ yes, we will meet again somewhere, kaoru.
 …chiaki. you were very [quiet] for once; are you tired?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/epilogue2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GV67937f9c1JoI62.webp?timestamp=1737719716299 %}
 
 {% bubble Chiaki norsmile2 %}
 Ah no, I just thought it’d be rude to interrupt. Even I read the room sometimes, Kanata.
@@ -368,7 +368,7 @@ Ryusei Shuriken~☆
 Gwah!? W-Why did you suddenly charge at me, my comrades!? Were you brainwashed by the enemy!?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/epilogue2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67937f9cyw2RbCE0.webp?timestamp=1737719717021 %}
 
 {% bubble Tetora glare %}
 What “enemy”… You’re both late! We were worried you wouldn’t even come, y'know!? Just what took you so long!?
@@ -548,7 +548,7 @@ Hang in there, Ryuseitai, do your best! Don’t lose now, Ryuseitai, do your bes
 <th>(I wanna be a cool man among men. Even if it’s difficult for me right now, one day, surely…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/epilogue3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_HeR67937f9ccd1k3.webp?timestamp=1737719716802 %}
 
 {% bubble Midori idle %}
 …Tetora-kun.
@@ -650,7 +650,7 @@ You didn’t even mean it…!? It hurt me so much, I could’ve died, y'know…!
 H-Heeey, you two\~? No fighting, okay\~? We’re still in the middle of our live, right\~…?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/epilogue4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_amR5C67937f9cmL5.webp?timestamp=1737719715573 %}
 
 {% bubble Kanata v2 %}
 hehe, that’s right~ if you were to [chatter] during [combat]… you would immediately die~♪
@@ -788,7 +788,7 @@ No problem at all~! To be a ninja is to take three steps back and stay behind ot
 But even so, I don't want to be forgotten.
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Z7Y6T67937dcdeV5.webp?timestamp=1737719255925 %}
 
 {% bubble Shinobu v2 %}
 Actually… So that I am not forgotten, so that people will not say they don't even know whether I'm here or not… I, too, will loudly and magnificently introduce myself.
@@ -810,7 +810,7 @@ But that *is* the usual for us anyway.
 I dunno if I can do things as properly as Taichou did… but I’m gonna burn the flames of justice I inherited to their limit and do my absolute best.
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dJFdVoO67937dcd7.webp?timestamp=1737719257284 %}
 
 {% bubble Tetora smileconfident %}
 As a member of Ryuseitai — No… As the next commander to lead Ryuseitai—
@@ -896,7 +896,7 @@ Even if I did say it with words, you wouldn’t listen anyway…… So please wa
 Ah! That's *Kuuga!* That's Kamen Rider Kuuga's line![^2]
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_baDENYn67937dcd7.webp?timestamp=1737719256638 %}
 
 {% bubble Midori smileconfident %}
 Shut it.
@@ -936,7 +936,7 @@ I truly feel rewarded. To be a hero means to not ask for anything in return… b
 Then there was value and reason to the desperate fight it took to reach here after all.
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67937dcdWCvDvs00.webp?timestamp=1737719257284 %}
 
 {% bubble Chiaki smileconfident %}
 Thank you.

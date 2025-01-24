@@ -49,7 +49,7 @@ description: "[ES!] Translation of Midori's second Produce Course from Climax. F
 <!-- more -->
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/climax/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Db67937f9cZ8vFK2.webp?timestamp=1737719715956 %}
 
 {% bubble Midori frown2 %}
 You and Sengoku-kun were way too panicked…
@@ -126,7 +126,7 @@ And then even brought over some troublesome people…
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/climax/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GJ6F67937f9cdLy4.webp?timestamp=1737719714033 %}
 
 {% bubble Midori idle %}
 Everyone is working hard in preparation for Repayment Festival, huh…
@@ -200,7 +200,7 @@ Ahh, please don't worry about me.
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/climax/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_z42Xbw67937f9cl6.webp?timestamp=1737719716700 %}
 
 {% bubble Midori srsthinking %}
 Our seniors really will graduate, won't they…

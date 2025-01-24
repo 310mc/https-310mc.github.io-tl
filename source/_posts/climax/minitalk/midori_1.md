@@ -48,7 +48,9 @@ description: "[ES!] Translation of Midori's first Produce Course from Climax. Fr
 
 <!-- more -->
 ## <div mt="rare"></div> 1/3
-{% img /img/es/eventstory/climax/minitalk_midori1_1.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zn67937f9cNKepH2.webp?timestamp=1737719713653 %}
+
 {% bubble Midori sigh %}
 *Sigh…* I'm so tired…
 
@@ -119,7 +121,9 @@ I just wanna go home and relax…
 </div>
 
 ## <div mt="rare"></div> 2/3
-{% img /img/es/eventstory/climax/minitalk_midori1_2.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_FlizMs67937f9cI6.webp?timestamp=1737719716273 %}
+
 {% bubble Midori norsmile %}
 Hello, Anzu-san. What're you doing here so early in the morning…?
 
@@ -191,7 +195,9 @@ If you're looking for a particular shop, I can help you.
 </div>
 
 ## <div mt="rare"></div> 3/3
-{% img /img/es/eventstory/climax/minitalk_midori1_3.jpg %}
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OkUaKU67937f9cB6.webp?timestamp=1737719716544 %}
+
 {% bubble Midori worried0 %}
 Ah—! I'm so sorry. I was thinking about something while walking, so I didn't notice you…
 

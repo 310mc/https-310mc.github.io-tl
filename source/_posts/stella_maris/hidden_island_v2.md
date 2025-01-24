@@ -65,7 +65,11 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
 
 ## Chapter 6
 
-{% img /img/es/eventstory/stellamaris/p1_6.jpg %}
+<div class="msr-season spring">
+    <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
+</div>
+
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pV67935d3fd9j3f2.webp?timestamp=1737710917209 %}
 
 <div class="msr-narration">
     <p>Several minutes later. A remote island near Okinawa’s main island, “Hoshijima”…</p>
@@ -214,7 +218,7 @@ But if this were a tour, we would’ve been able to learn <em>something</em> abo
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Don’t stray too far, Takamine. We may not be able to find each other again if we lose track of each other.
+Don’t stray too far, Takamine. We may not be able to find each other again if we lose track of one another.
 
 Here; if you’re feeling anxious, big brother will gladly hold your hand~♪
 {% endbubble %}
@@ -228,7 +232,7 @@ He clicked his tongue!? Why!? I really was trying to be considerate, though…!?
 {% endbubble %}
 
 {% bubble Tetora grin %}
-Midori-kun doesn’t wanna be treated like a li’l kid either, y’know~♪
+Midori-kun’s also growing up, so he doesn’t wanna be treated like a li’l kid either, y’know~♪[^5]
 {% endbubble %}
 
 {% bubble Shinobu curious %}
@@ -251,24 +255,24 @@ But I feel as though someone is watching us—
 
 ## Chapter 10
 
-{% img /img/es/eventstory/stellamaris/p1_10.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_s5r7ka67935d3fD6.webp?timestamp=1737710915418 %}
 
 <div class="msr-narration">
     <p>That night, at the lodging accommodation for Ryuseitai…</p>
 </div>
 
 {% bubble Shinobu curious %}
-Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^5]
+Huh~… So the person that Mizusaba-san calls “Nii-nii” is the “Okinawa’s Oni” that I’ve heard about a few times?[^6]
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^6] Apparently, it all originates from when he was a pirate who ran rampage across the island.
+Yep\~. Well, “Oni” in Okinawa would be my grampa, though\~.[^7] Apparently, it all originates from when he was a pirate who ran rampage across the island.
 
 He barged into Okinawa seas with a gigantic ship he’d filched from some other country, and was super feared by everyone~. He’s just a withered up old man now, though.
 
 Nii-nii is his successor\~, he’s called “The second generation of Okinawa’s Oni”\~♪
 
-He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^7]
+He was truly respected\~. Actually, I’m the older one between us\~, but Nii-nii was like everyone’s big brother in a sense, so I call him “Nii-nii”\~.[^8]
 
 I really respect him lots\~. He’s super strong\~, nobody can beat him in a fight\~. Where I lived, whenever someone had a problem, they’d talk to Nii-nii about it\~.
 
@@ -284,7 +288,7 @@ If I may interject — with the exception of Kanata, we aren’t experts in reli
 {% endbubble %}
 
 {% bubble Mizusaba %}
-Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^8] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
+Ah— I’ve been meaning to mention this, but — you don’t have to talk so politely with me, y’know\~?[^9] It’s actually harder to understand you that way\~. Nobody uses polite language among my family, so\~♪
 {% endbubble %}
 
 {% bubble Midori frown %}
@@ -308,13 +312,13 @@ It makes me happy to see his compassion for friendship, but… why is it that I 
 {% bubble Shinobu northinking %}
 Yes, since they apparently plan to build an ES branch of some sort in Okinawa. Tenshouin-dono and his unit members are likely working towards that.
 
-Though, it’s more so a project to build an amusement park…[^9]
+Though, it’s more so a project to build an amusement park…[^10]
 
 However, it seems that there is no land available in the main island to build such a park, so they are instead aiming for Hoshijima.
 {% endbubble %}
 
 {% bubble Chiaki norsmile2 %}
-Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^10]
+Hm. If the amusement park and various establishments are arranged, its vicinity might actually develop tremendously, in a similar fashion to a certain dreamland.[^11]
 
 While building the park, they may remove all the unusable ruins, too.
 
@@ -402,9 +406,10 @@ which is a good thing. it would have been a problem if they [forbade] all our ch
 [^2]: Okunoshima, also known as “Rabbit Island”. See more <a href="https://en.wikipedia.org/wiki/%C5%8Ckunoshima" target="_blank">here</a>.
 [^3]: Closed circle of suspects is a common genre of detective novels, where there are only a set number of suspects possible for a murder. See more <a href="https://en.wikipedia.org/wiki/Closed_circle_of_suspects" target="_blank">here</a>.
 [^4]: Referring to what happened in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^5]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
-[^6]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
-[^7]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to their grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
-[^8]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
-[^9]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
-[^10]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.
+[^5]: The word Tetora says for “growing up” is <em>toshigoro</em> (年頃), which is used to refer to an adolescent (16-18 years old) nearing the age of independance/adulthood. Typically, an older person uses this word about adolescents, so Tetora using it could imply that Tetora is mentally a bit older than Midori (despite being the same age/year). <em>Toshigoro</em> can also be used to refer to an age suitable for marriage.
+[^6]: “Oni” means ogre or demon. It refers to a type of demon found in Japanese folklore, and it typically looks like <a href="https://en.wikipedia.org/wiki/Oni" target="_blank">this</a>. Okinawa’s Oni was first mentioned in <a href="/supervillain" target="_blank">Supervillain</a>.
+[^7]: Mizusaba says <em>ojii</em> for “grampa”, which is Okinawan dialect. It’s originally written with the grandfather kanji only (爺).
+[^8]: Nii-nii (兄様), lit. “Older brother” with “-sama”, a polite honorific used for names. This pronunciation was not initially indicated in the text, but since Mizusaba refers to their grandpa the way Okinawans do (<em>ojii</em>), I’ve decided to also go with the way Okinawans refer to an older brother, which is <em>nii-nii</em>.
+[^9]: Chiaki was speaking in polite Japanese (keigo) when with Mizusaba.
+[^10]: This is referring to <a href="https://ensemble-stars.fandom.com/wiki/Atlantis" target="_blank">Atlantis</a>, <em>fine’s</em> Climax event. Please check <a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">this masterlist</a> for a translation.
+[^11]: This is possibly referring to Nara Dreamland and Yokohama Dreamland, but unfortunately I’m not sure of its history. You can read more here: <a href="https://en.wikipedia.org/wiki/Nara_Dreamland" target="_blank">Nara Dreamland</a>, <a href="https://en.wikipedia.org/wiki/Yokohama_Dreamland" target="_blank">Yokohama Dreamland</a>.

@@ -15,50 +15,137 @@ permalink: profiles/
 hidden: true
 ---
 
-<div class="three-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
-    <div class="info-area">
-        <div class="info">
-            <div class="info-item characters">
-                <div class="label">
-                    Characters
-                </div>
-                <div class="value">
-                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                    <a href="/categories/Enstars/Midori" character="Midori"></a>
-                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                </div>
-            </div>
-            <div class="info-item one">
-                <div class="label">
-                    Writer
-                </div>
-                <div class="value">
-                    <a href="/tags/Happy-Elements-Staff/">Happy Elements Staff</a>
-                </div>
-            </div>
-            <div class="info-item two">
-                <div class="label">
-                    Translation
-                </div>
-                <div class="value">
-                    <a href="/about">310mc</a>
-                </div>
-            </div>
-            <div class="info-item three">
-                <div class="label">
-                   Proofreading
-                </div>
-                <div class="value">
-                    <a href="https://ryuseipuka.notion.site/proofed-by-ryuseipuka-020757643ea94baabea5e7d21f325a8b" target="_blank">ryuseipuka</a>
-                </div>
-            </div>
-        </div>
-    </div>
+<!-- more -->
+<!--
+<script>
+function myFunction() {
+var x = document.getElementById("myDIV");
+var y = document.getElementById("mynonDIV");
+if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+    } else {
+    x.style.display = "none";
+    y.style.display = "block";
+}
+}
+</script>
+-->
+
+<script>
+function myFunction() {
+  var divs = document.querySelectorAll('.myDIV');
+  var divss = document.querySelectorAll('.mynonDIV');
+for (var i = 0; i < divs.length; i++) {
+    divs[i].classList.toggle('hide');
+    divss[i].classList.toggle('show');
+}
+}
+
+function myFunctionen() {
+  var divs = document.querySelectorAll('.myDIV');
+  var divss = document.querySelectorAll('.mynonDIV');
+for (var i = 0; i < divs.length; i++) {
+    divs[i].classList.toggle('show');
+    divss[i].classList.toggle('hide');
+}
+}
+</script>
+
+<style>
+    .mynonDIV {
+        display: none;
+    }
+
+    .hide {
+        display: none !important;
+    }
+
+    .show {
+        display: block !important;
+    }
+</style>
+
+<button onclick="myFunction()">JP ←→ ENG</button>
+
+<button onclick="myFunctionen()">English</button>
+
+<div class="myDIV">
+  This is my DIV element. in English!
 </div>
 
-<!-- more -->
+<div class="myDIV">
+  This is my DIV element 2. in English!
+</div>
+
+<div class="myDIV">
+  This is my DIV element 3. in English!
+</div>
+
+<div class="myDIV">
+  This is my DIV element 4. in English!
+</div>
+
+<div class="myDIV">
+  This is my DIV element 5. in English!
+</div>
+
+<div class="mynonDIV">
+  これは私のDIVエレメント。日本語版！
+</div>
+
+<div class="mynonDIV">
+  これは私のDIVエレメント 2。日本語版！
+</div>
+
+<div class="mynonDIV">
+  これは私のDIVエレメント 3。日本語版！
+</div>
+
+<div class="mynonDIV">
+  これは私のDIVエレメント 4。日本語版！
+</div>
+
+<div class="mynonDIV">
+  これは私のDIVエレメント 5。日本語版！
+</div>
+<!--
+<script>
+    for (let i=0;i<=175;i++) {
+function myFunction() {
+var x = document.getElementById("english");
+var y = document.getElementById("japanese");
+if (x.style.display === "none") {
+    x.style.display = "block";
+    y.style.display = "none";
+    }
+    else {
+    x.style.display = "none";
+    y.style.display = "block";
+    }
+}
+    }
+</script>
+-->
+
+<div id="first">first</div>
+<div id="second" style="display:none;">second</div>
+<a href="javascript:HideContent(['first']);javascript:ShowContent(['second'])"> ENGLISH</a>
+
+<a href="javascript:HideContent(['japanese']);javascript:ShowContent(['english'])"> ENGLISH1</a>
+<a href="javascript:HideContent(['english']);javascript:ShowContent(['japanese'])"> JAPANESE</a>
+<script>
+  function HideContent(obj) {
+    for (var i = 0; i < obj.length; i++) {
+      document.getElementById([obj[i]]).style.display = 'none';
+    }
+  }
+  function ShowContent(obj) {
+    for (var i = 0; i < obj.length; i++) {
+      document.getElementById([obj[i]]).style.display = 'block';
+    }
+  }
+</script>
 
 <style>
     table {
@@ -86,7 +173,7 @@ hidden: true
     }
 </style>
 
-<table>
+<table class="myDIV">
     <tr>
         <th colspan="4" style="text-align:center;">Profile</th>
     </tr>

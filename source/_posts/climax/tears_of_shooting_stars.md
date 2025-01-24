@@ -66,7 +66,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> Shopping District</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/tears1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GeMtc67937dcd8F5.webp?timestamp=1737719254145 %}
 
 {% bubble Chiaki angry %}
 Nagumo! Takamine! What’s the matter!? What happened here!?
@@ -518,7 +518,7 @@ Sure, you never wanted to be an idol in the first place — you joined this cour
 I get it, you say it all the time! I’m sick and *tired* of hearing it!
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_XGU67937dcdNU073.webp?timestamp=1737719256102 %}
 
 {% bubble Tetora clmocg %}
 If that was really the case — If you really hated it that much—!
@@ -579,7 +579,7 @@ I won't mind if you think of our meeting as nothing but an unfortunate accident 
 {% bubble Chiaki sad2 %}
 I’m fine with that, if that’s what would give you relief and make you smile again… because your smile is the greatest treasure in this whole world.
 
-I would always look forward to making your smile shine at its brightest. But if I was truly just a nuisance to you all along, then… I apologize. I’m so sorry, Takamine.
+I would always look forward to making that shine at its brightest. But if I was truly just a nuisance to you all along, then… I apologize. I’m so sorry, Takamine.
 {% endbubble %}
 
 ## Chapter 4
@@ -634,7 +634,7 @@ But I’m not like that… I just chose the easiest path… I have no will at al
 Someone like me would be immediately driven out of a place as cruel as the show business…
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_S67937dcdZfLK1g1.webp?timestamp=1737719256813 %}
 
 {% bubble Midori clmocg %}
 Everyone had such high hopes for me, but I just can’t do it…
@@ -740,6 +740,20 @@ It’s just impossible for me… I don’t have the right… I’m sorry, I’m 
                 </a>
             </div>
             <a target="_blank" href="/climax" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/climax/prologue">Prologue</a>
+                    <a href="/climax/he_wont_cry">He Won't Cry</a>
+                    <a href="/climax/blessings_and_repayment">Blessings and Repayment</a>
+                    <a href="/climax/anxiety_and_silence">Anxiety and Silence</a>
+                    <a href="/climax/bystanders">Bystanders</a>
+                    <div>Tears of Shooting Stars</div>
+                    <a href="/climax/heroes_of_the_future">Heroes of the Future</a>
+                    <a href="/climax/epilogue">Epilogue</a>
+                    <a href="/climax/#Mini-Talks">Mini Talks</a>
+                </div>
+            </div>
             <a href="/climax/heroes_of_the_future" title="Next Chapter: Heroes of the Future"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

@@ -64,7 +64,7 @@ description: "[ES!] For Repayment Festival, Chiaki and Kanata decide to sit back
     <p><span><b>Location:</b> At the Fountain</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/bystanders1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_R2679380afczbXw2.webp?timestamp=1737719987429 %}
 
 {% bubble Kaoru v2 %}
 Huh~ So you’re gonna be some sorta multi-talented entertainer after graduation, Moricchi?
@@ -256,7 +256,7 @@ i will call for you even if i have no [reason] to, so… please come see me, oka
     <p><span><b>Location:</b> Cafe</span></p>
 </div>
 
-{% img /img/es/eventstory/climax/bystanders2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mW679380af1me0h2.webp?timestamp=1737719986658 %}
 
 {% bubble Chiaki northinking %}
 J-Ju…Justice.
@@ -436,7 +436,7 @@ um, shinobu… are you alright? are you crying…?
 please don’t cry… everything will be okay, you are a good boy, okay~?
 {% endbubble %}
 
-{% img /img/es/eventstory/climax/shinobuorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_SCVSe0967937dcd7.webp?timestamp=1737719255987 %}
 
 {% bubble Shinobu clmocg %}
 Uuu~… I am not a good boy at all… What I did with the best of my intentions has triggered a catastrophe!

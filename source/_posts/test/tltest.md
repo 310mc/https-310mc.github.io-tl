@@ -133,7 +133,7 @@ body {
     <article class="tl event">
         <article class="box">
             <div class="left">
-                <img src="/img/es/eventstory/climax/midoribcgframe_300px.jpg" class="shift-left">
+                <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jSO679380afc8pF3.webp?timestamp=1737719986608" class="shift-left">
             </div>
             <div class="right">
                 <h2>Climax</h2>

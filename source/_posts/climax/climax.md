@@ -14,7 +14,7 @@ permalink: climax/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/climax/midoribcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_xleHa679380afOC5.webp?timestamp=1737719988131')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
@@ -109,10 +109,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/climax/chiakiorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_L6Snm67937dcdno5.webp?timestamp=1737719257149)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/climax/midoribcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_xleHa679380afOC5.webp?timestamp=1737719988131"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Climax</div>
@@ -220,7 +220,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_L6Snm67937dcdno5.webp?timestamp=1737719257149">
                                 </div>
                                 <div class="caption">
                                     He Won't Cry 2
@@ -228,7 +228,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/shinobuorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_SCVSe0967937dcd7.webp?timestamp=1737719255987">
                                 </div>
                                 <div class="caption">
                                     Bystanders 2
@@ -236,7 +236,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_XGU67937dcdNU073.webp?timestamp=1737719256102">
                                 </div>
                                 <div class="caption">
                                     Tears of Shooting Stars 3
@@ -244,7 +244,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_S67937dcdZfLK1g1.webp?timestamp=1737719256813">
                                 </div>
                                 <div class="caption">
                                     Tears of Shooting Stars 4
@@ -252,7 +252,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/shinobubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Z7Y6T67937dcdeV5.webp?timestamp=1737719255925">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -260,7 +260,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_dJFdVoO67937dcd7.webp?timestamp=1737719257284">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -268,7 +268,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_baDENYn67937dcd7.webp?timestamp=1737719256638">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -276,7 +276,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/climax/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_67937dcdWCvDvs00.webp?timestamp=1737719257284">
                                 </div>
                                 <div class="caption">
                                     Epilogue 5
@@ -294,10 +294,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_n8679380af426gH2.webp?timestamp=1737719986819">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2Wp679380af2kVL3.webp?timestamp=1737719985401">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -326,10 +326,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_679380afuGi6Q4U0.webp?timestamp=1737719985709">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_jSO679380afc8pF3.webp?timestamp=1737719986608">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -358,10 +358,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8pn8inA679380af7.webp?timestamp=1737719986984">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_S85wxdl679380af7.webp?timestamp=1737719987014">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -390,10 +390,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_QK55TQ4679380af7.webp?timestamp=1737719987483">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_cCNd679380afsDZ4.webp?timestamp=1737719986976">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -422,10 +422,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_juQ679380afrgif3.webp?timestamp=1737719987224">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_tmyV679380afFms4.webp?timestamp=1737719987171">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -454,10 +454,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/subarucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_SR679380afnB3Bb2.webp?timestamp=1737719986729">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/subarubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_8k2Sz679380afXd5.webp?timestamp=1737719987030">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -486,10 +486,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/kaorucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Mp7ue679380afAZ5.webp?timestamp=1737719986758">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/kaorubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_kEv679380afxaIb3.webp?timestamp=1737719986610">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -518,10 +518,10 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/climax/eichicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_aLsF7z679380afo6.webp?timestamp=1737719986500">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/climax/eichibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_w679380afjPqdZA1.webp?timestamp=1737719986987">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -629,7 +629,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/tetoraframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_8pn8inA679380af7.webp?timestamp=1737719986984"
             alt="As The Future Commander"
         />
     </div>
@@ -641,7 +641,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/tetorabcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_S85wxdl679380af7.webp?timestamp=1737719987014"
             alt="Fruits Of One's Efforts"
         />
     </div>
@@ -653,7 +653,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/shinobuframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_QK55TQ4679380af7.webp?timestamp=1737719987483"
             alt="Endurance Of A Shy Person"
         />
     </div>
@@ -665,7 +665,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
 <div class="story">
     <div class="thumbimage">
         <img
-            src="/img/es/eventstory/climax/shinobubcgframe_300px.jpg"
+            src="https://f005.backblazeb2.com/file/reitoouji/ro_cCNd679380afsDZ4.webp?timestamp=1737719986976"
             alt="Guiding Them To Hope"
         />
     </div>
@@ -677,7 +677,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_n8679380af426gH2.webp?timestamp=1737719986819"
                 alt="Tough Being a Parent"
             />
         </div>
@@ -689,7 +689,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_2Wp679380af2kVL3.webp?timestamp=1737719985401"
                 alt="Justice Will Prevail"
             />
         </div>
@@ -701,7 +701,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_679380afuGi6Q4U0.webp?timestamp=1737719985709"
                 alt="Novice Hero"
             />
         </div>
@@ -713,7 +713,7 @@ This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recomme
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/climax/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_jSO679380afc8pF3.webp?timestamp=1737719986608"
                 alt="Path To Compassion"
             />
         </div>

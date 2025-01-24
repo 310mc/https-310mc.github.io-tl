@@ -23,7 +23,7 @@ permalink: meteor_impact/
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Meteor Impact</div>
-                <div class="title-area__subtitle">メテオインパクト</div>
+                <div class="title-area__subtitle">Reminiscence ＊ Ryusei Bonfire</div>
                 <div class="title-area__start"><a href="/meteor_impact/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">
@@ -97,6 +97,10 @@ permalink: meteor_impact/
 
 <!-- more -->
 
+{% note narration %}
+This story is **fully voiced** in the Ensemble Stars!! Basic game. It is recommended to listen to it while reading the story!
+{% endnote %}
+
 <style>
     .preview-wrapper {
         display: none;
@@ -127,7 +131,7 @@ permalink: meteor_impact/
             </div>
             <div class="title-area">
                 <div class="title-area__title">Meteor Impact</div>
-                <div class="title-area__subtitle">メテオインパクト</div>
+                <div class="title-area__subtitle">Reminiscence ＊ Ryusei Bonfire</div>
                 <div class="title-area__start"><a href="/meteor_impact/prologue">Start Reading</a></div>
             </div>
             <div class="info-area">

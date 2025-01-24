@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's second Produce Course from Climax. F
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Y67937f9cUKgNfm1.webp?timestamp=1737719716569 %}
 
 {% bubble Chiaki grin2 %}
 I’m being asked to take jobs after graduation by the people I work with in the industry.
@@ -121,7 +121,7 @@ Tenshouin lent me a hand too, which has helped me become one step closer to my d
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67937f9cLksqFWb0.webp?timestamp=1737719717233 %}
 
 {% bubble Chiaki sad4 %}
 Mm, I can’t believe Takamine saw me that day…
@@ -195,7 +195,7 @@ It actually makes me look pathetic instead, doesn’t it…?
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_PF67937f9cg7hPu2.webp?timestamp=1737719716600 %}
 
 {% bubble Chiaki srsthinking %}
 I thought those three would be fine on their own, but there were a few moments that were cutting it extremely close.

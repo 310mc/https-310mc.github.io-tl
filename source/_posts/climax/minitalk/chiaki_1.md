@@ -50,7 +50,7 @@ description: "[ES!] Translation of Chiaki's first Produce Course from Climax. Fr
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_biUNYd67937f9cM6.webp?timestamp=1737719713509 %}
 
 {% bubble Chiaki grin2 %}
 Anzu! What’s up? What are you doing here?
@@ -123,7 +123,7 @@ This may be your last chance, so let it imprint right into your very eyes…☆
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NpK67937f9cYIPD3.webp?timestamp=1737719713322 %}
 
 {% bubble Chiaki grin2 %}
 Ooh, Anzu! You're here at just the right time!
@@ -198,7 +198,7 @@ Have you seen him anywhere?
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/climax/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QZI67937f9cboJz3.webp?timestamp=1737719714255 %}
 
 {% bubble Chiaki northinking %}
 Huh, there really are heart-shaped ornaments wherever you go…
