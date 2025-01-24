@@ -146,7 +146,7 @@ so. this is the Usual for me, and it is comforting.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying you like a princess is just perfect for that role…☆[^1]
+I see! That’s good to hear! Being bad at walking is like the Little Mermaid! It’s exactly fitting to carry you like this, princess style…☆[^1]
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -156,23 +156,23 @@ I see! That’s good! Being bad at walking is like the Little Mermaid! Carrying 
 {% bubble Chiaki mgn %}
 Hm? Ahh, Akehoshi! I’m very sorry, but please let me through!
 
-There’s a lot of things I want to talk to you about, but we’re in a hurry! We have to head over to the auditorium right away!
+There’s a lot of things I want to talk to you about, but I’m in a hurry! I have to head over to the auditorium right away!
 {% endbubble %}
 
 {% bubble Subaru %}
-Uh, okay… But why? Does that mean you’re gonna perform?
+Ah, okay… But why? Does that mean you’re gonna perform?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
 Yes! Exactly!
 
-Ahh, but we need uniforms! I just realized! Mikejima-san said there’s some in the AV room — we’ll head there first!
+Ahh, but we need idol uniforms! I just realized! Mikejima-san said there’s some in the AV room — we’ll head there first!
 
 …Are you alright with that, Shinkai-kun?
 {% endbubble %}
 
 {% bubble Kanata past%}
-mm~ you will Bite your tongue if you Talk while running, chiaki.
+mm~ you will bite your Tongue if you Talk while running, chiaki.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -182,13 +182,13 @@ Oh! You’re right! Thank you for the warning~♪
 {% bubble Subaru %}
 <th>(That guy… is the weird person who clung on to me while drenched in water. Why’s Bucho~ carrying him?)</th>
 
-<th>(He said they’re gonna perform, right…?)</th>
+<th>(He said he’s gonna perform, right…?)</th>
 
 <th>(Tonight’s live show is called the “Battle versus the Sea God” or something, but I didn’t see Bucho~’s name nor Ryuseitai in the performer list…?)</th>
 
-<th>(I dunno what’s happening, but he had a good look on his face.)</th>
+<th>(I dunno what’s happening, but Bucho~ has a good look on his face somehow.)</th>
 
-<th>(He was sparkling! Ahaha! I see… I, see?)</th>
+<th>(He’s sparkling! Ahaha! I see… I, see?)</th>
 
 Bucho~! Sorry, I know you’re in a rush, but please answer this one question! I keep asking about it, but — are you gonna save this guy?
 {% endbubble %}
@@ -218,7 +218,7 @@ Unfortunately, there are many things about myself I still lack right now, but I 
 
 But that still doesn’t mean I should give up! I just need to put all my effort into it! I’ll put in every last bit of strength that I have right now, and work hard!
 
-Please cheer for us if you can! *Huff, huff…* Also I’m starting to lose my breath, so I’d be glad if you could keep the talk short, okay!?
+Please cheer for me if you can! *Huff, huff…* Also I’m starting to lose my breath, so I’d be glad if you could keep the talk short, okay!?
 {% endbubble %}
 
 {% bubble Subaru happy %}
@@ -236,7 +236,7 @@ Bucho~! You asked me to cheer you on, right? Then I will! I’ll always do whate
 
 Because I’m an idol! Because you let me stay as one!
 
-*<th>(inhales)</th>*
+*<th>(inhaaales)</th>*
 
 *Hang in there! Don’t lose now, hero!*
 
@@ -908,7 +908,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch32.jpg %}
 
-{% bubble Keito v2 cg %}
+{% bubble Keito pastcg %}
 “♪\~♪~♪”
 {% endbubble %}
 
@@ -920,7 +920,7 @@ I will never, ever regret that I made this decision—that I made this choice fo
 “~…♪”
 {% endbubble %}
 
-{% bubble Keito v2 cg %}
+{% bubble Keito pastcg %}
 <th>(…Mm. The air changed slightly ever since Kanzaki came rushing in here.)</th>
 
 <th>(Actually— I believe what changed here is not the frenzied audience, but my own mindset.)</th>
@@ -1145,7 +1145,9 @@ Hasumi.
 
 “You’ve lost this DreamFes. You didn’t perform in the allocated time for your unit, so you have zero votes.”
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch33_1.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(But… Even so—)</th>
 
@@ -1169,7 +1171,9 @@ Hasumi.
 
 “So stand back at once. You said what you wanted to say, didn’t you, Morisawa?”
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch33_2.jpg %}
+
 {% bubble Keito v2 cg %}
 <th>(…There’s no need for you to bear the brunt of their malice any longer.)</th>
 
@@ -1211,7 +1215,9 @@ Hasumi.
 
 <th>(As if they have become possessed by a spirit.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/kanatabcg.jpg %}
+
 {% bubble Kanata pastsmile %}
 “♪\~♪\~♪”
 {% endbubble %}
@@ -1282,6 +1288,19 @@ Hasumi.
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <div>Unqualified Hero Ch27–33</div>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/epilogue" title="Next Chapter: Epilogue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
@@ -1290,7 +1309,7 @@ Hasumi.
 
 ## Translation Notes
 
-[^1]: The Little Mermaid is <em>ningyo hime</em> 人魚姫, literally “mermaid princess”.
+[^1]: The Little Mermaid is <em>ningyo hime</em> (人魚姫), literally “mermaid princess”, and “carrying someone in one’s arms” is <em>ohime-sama dakko</em> (lit. princess carry). Chiaki enjoys wordplays and puns.
 [^2]: Kuro refers to Keito as <em>obocchan</em> here.
 [^3]: Referring to <a href="https://en.wikipedia.org/wiki/Kleshas_(Buddhism)" target="_blank">Klesha</a>, a buddhist term referring to a negative mental state (and polluting thoughts).
 [^4]: Referring to <a href="https://en.wikipedia.org/wiki/Skanda_(Buddhism)" target="_blank">Skanda</a>, who is known to be a fast runner.

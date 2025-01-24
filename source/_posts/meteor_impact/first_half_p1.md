@@ -538,7 +538,7 @@ Mhm, I’m sure you’ve seen it at least once, haven’t you? You’re a guy, a
 {% endbubble %}
 
 {% bubble Kanata pastcurious %}
-…“to-rans-form”?
+…“transform”?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -560,11 +560,6 @@ I want to become the dream version of myself! The cool, ideal version!
 {% endbubble %}
 
 ## Chapter 4
-
-<div class="msr-cw">
-    <span><b>Content Warning</b></span>
-    <p>Light mentions of bullying and cannibalism ahead.</p>
-</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch4.jpg %}
 
@@ -599,7 +594,7 @@ No no, it isn’t *bad*… I’m just unsatisfied — I don’t feel like it’s
 
 If they just live off of the legacy of the past without ever working hard themselves, then they’ll never be able to put all their heart into this. I feel like we’ll end up in a tight spot, personally…
 
-But the last time I got fed up, I yelled at them to be more serious… And after that, it looks like they just saw me as an eyesore.
+But the last time I got fed up, I made a ruckus to be more serious… And after that, it looks like they just saw me as an eyesore.
 
 They don’t speak to me anymore, and they’ve been pushing all kinds of unnecessary work on me ever since…
 
@@ -625,7 +620,7 @@ fufu, you will not die? so you ate Mermaid meat?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Huh? Ahh, do you mean the Yaobikuni legend?[^6] You know about that?
+Huh? Ahh, do you mean the Yaobikuni legend?[^6] You know about that, Shinkai-kun?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -716,9 +711,13 @@ There’s no point in continuing my hero act all alone, either… I’d only was
 I’m so weak, so dumb, so pathetic… I criticize others but I’m not any better — I’m just going with the flow without accomplishing a single thing.
 
 The ideal image of the hero I yearn to become is still so far away — I could almost cry.
+{% endbubble %}
 
+{% bubble Kanata pastcurious %}
 …………
+{% endbubble %}
 
+{% bubble Chiaki mgnawkward %}
 …Oh! I’m sorry! I just talked to myself for ages! I’m sure it was boring and awful to hear…
 
 Heheh, you’re so strange, Shinkai-kun… I’ve never ever vented any of these thoughts out, but…
@@ -739,7 +738,7 @@ please leave everything to me. i will grant your Wish. will that be a sufficient
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-…?
+……?
 {% endbubble %}
 
 ## Chapter 5
@@ -781,11 +780,11 @@ Please excuse me!
 {% img /img/es/eventstory/meteorimpact/firsthalfch5_1.jpg %}
 
 {% bubble Kuro pastinjured %}
-Hey!
+Hey.
 {% endbubble %}
 
 {% bubble Chiaki mgnworried %}
-…!?
+……!?
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -975,7 +974,7 @@ It’s nothing, don’t worry about it. After all, it’s a hero’s duty to hel
 …Huh, so you’re a hero.
 {% endbubble %}
 
-{% img /img/es/eventstory/meteorimpact/firsthalfch6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tlC4oE677079eev6.webp?timestamp=1735424498601 %}
 
 {% bubble Chiaki mgn %}
 Huh? No, that’s, uh… Forget about it! It’s embarrassing!
@@ -1240,7 +1239,7 @@ If possible, I want to stay equals with him. Being indebted to him forever… Ju
 {% endbubble %}
 
 {% bubble Keito v2 %}
-Nothing. It’s just about my situation. So… will you sign, or will you not?
+Nothing. I’m just talking to myself. So… will you sign, or will you not?
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -1489,6 +1488,19 @@ i feel as if i will dry out. the Land is always so dry, it is difficult to Breat
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <div><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</div>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/first_half_p2" title="Next Chapter: Not Quite A Hero (Chapter 9-17)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

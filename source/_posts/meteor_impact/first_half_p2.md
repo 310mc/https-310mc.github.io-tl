@@ -83,7 +83,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(It’s like I’m in a dream! Everything’s suddenly heading in a better direction…! …is how it feels. But this isn’t a dream, right? It isn’t some joke, right…? This is completely real, right!?)</th>
 
-<th>(Mhm! It hurts when I pinch my cheek! So this is real~!! He he he…♪)</th>
+<th>(Mhm! It hurts when I pinch my cheek! So this is real~!! Fu fu fu…♪)</th>
 
 <th>(…I don’t know how, but Ryuseitai has changed.)</th>
 
@@ -117,7 +117,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(Hoping that one of them would quickly and easily solve Ryuseitai’s problems, and clear the clouds obscuring our unit…)</th>
 
-<th>(But I gave up on the thought, because I figured it would be impossible for it to actually happen… I thought that Ryuseitai was only bound to rot away as time went by…)</th>
+<th>(But I almost gave up on the thought, because I figured it would be impossible for it to actually happen… I thought that Ryuseitai was only bound to rot away as time went by…)</th>
 
 <th>(But my fantasy became a reality, and my dream—my wish came true.)</th>
 {% endbubble %}
@@ -131,7 +131,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 {% img /img/es/eventstory/meteorimpact/firsthalfch9_2.jpg %}
 
 {% bubble Chiaki mgn %}
-<th>(—… No, that can’t be… Shinkai-kun has nothing to do with this.)</th>
+<th>(—… ……No, that can’t be… Shinkai-kun has nothing to do with this.)</th>
 
 <th>(He may have called himself a God, but I felt how warm he was when we went into contact.)</th>
 
@@ -141,7 +141,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(Wait, no, but… Hmmm? I mean, it matches up pretty well, since it was right after I mentioned it—so maybe the only possible conclusion is that he granted my wish through mystical means—)</th>
 
-<th>(…I must be going crazy. Something so miraculous happened that I’m losing my mind.)</th>
+<th>(…I must be going crazy. Something so unexpected happened that I’m losing my mind.)</th>
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -191,7 +191,7 @@ Never mind that, please tell me what happened to you! Is there anything I can do
 {% bubble Kuro pastinjured %}
 Yeah… Let me use your shoulder for a bit.
 
-I got real roughed up out there and can’t move anymore… How pathetic… I jus’ need help walkin’ — stick with me ’til we get to the station over there.
+I got real roughed up out there and can’t move anymore… How pathetic… I jus’ need help walkin’ — stick with me ‘til we get to the station over there.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
@@ -230,7 +230,7 @@ Yes! I’ve been working out! I used to be against working out, since I was afra
 
 Oh, I’m in the Basketball Club, so! That’s why it’s better if I could grow taller!
 
-…Wait, what was I talking about again? Uhh… umm…?
+…Wait, what am I talking about this? Uhh… umm…?
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -240,11 +240,11 @@ I don’t wanna attract any eyes, y’know… Sorry for askin’ for so much, wh
 
 See, the guys I got caught up with may come back for more punches, so—
 
-Let’s move quietly… I know I’m saying this far too late, but I still don’t want to involve you in this.
+Let’s move quietly… I know I’m saying this far too late, but I still don’t wanna involve you in this.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Mhm, it’s much too late, I’m already involved.
+Mhm, it really is much too late, I’m already involved.
 
 I know it must be annoying that I keep asking this, but I’d really like a proper explanation… What happened? If you were beaten up, then it’s clearly assault. Can’t you report this to the police or something?
 {% endbubble %}
@@ -270,7 +270,7 @@ That so. You gotta get yourself together, ain’t it part of the hero deal to in
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Huh!? Kiryu-kun, do… do you like tokusatsu!?
+Huh!? Kiryu-kun, do… do you also like tokusatsu!?
 {% endbubble %}
 
 {% bubble Kuro pastinjured %}
@@ -513,7 +513,7 @@ it is troubling… even though i have to Grow faster…
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-…Is that so. I don’t completely understand what you’re saying, but I get how you feel, sort of.
+…I see. I don’t completely understand what you’re saying, but I get how you feel, sort of.
 
 I want to grow stronger, too…
 {% endbubble %}
@@ -743,6 +743,7 @@ a “*burn*”? i will be just fine. Water can extinguish Fire. no— i am a God
 
 <th>(But under these circumstances, maybe I should just cast my pride aside? Hmmm… It does feel shameful, though.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch13_1.jpg %}
 
 {% bubble Chiaki mgn %}
@@ -780,7 +781,7 @@ You’re right, this is a lot of signatures. I’m grateful; we’ve gotten much
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Is that so. Mhm, well then, I’m glad I was helpful.
+I see. Mhm, well then, I’m glad I was helpful.
 {% endbubble %}
 
 {% bubble Keito v2 %}
@@ -844,7 +845,7 @@ Hm. Things really do change, huh. I was under the impression that Ryuseitai was 
 {% bubble Chiaki mgn %}
 Yes, I won’t deny it. But lately the captain has been strangely enthusiastic.
 
-Well, he’s going to leave the school and head to the USA soon, so… I get anxious thinking about what’ll happen after that.
+Well, he’s going to leave the school and head to the US soon, so… I get anxious thinking about what’ll happen after that.
 
 But it should be fine. I think everyone just didn’t know how to work hard—or the joys of working hard either.
 
@@ -919,7 +920,7 @@ Yes… See you tomorrow.
 
 <th>(As long as I finish my work properly, I’ll get my share of salary! So it’s actually a benefit in the long run!)</th>
 
-<th>(Heheh, to think that the captain would use his connections to introduce me to a job before leaving for the USA…)</th>
+<th>(Heheh, to think that the captain would use his connections to introduce me to a job before leaving for the US…)</th>
 
 <th>(We’ve barely talked before besides unit business, and yet!!)</th>
 
@@ -945,10 +946,13 @@ Yes… See you tomorrow.
 
 <th>(I’ve bought books about this before, ones with interviews of actors playing as the hero, so I’ll reread those too.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_1.jpg %}
+
 {% bubble Chiaki mgn %}
 <th>(Ahhh!! I’m just so excited! I don’t think I’ll be able to fall asleep tonight!! I’m too pumped up…!)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/firsthalfch14_2.jpg %}
 
 {% bubble Kuro pastinjuredangry %}
@@ -1215,6 +1219,7 @@ They’ll never stop… no religion, no politician can ever save people like us.
 
 I’d been tryin’ to end it by bearin’ with the pain! That’s the only way I had to settle all of this! But you had to go and get all heroic and ruin everything!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/kuroorigcg.jpg %}
 
 {% bubble Kuro pastinjuredangrycg %}
@@ -1232,11 +1237,6 @@ You’re gonna *pay*. I’ll freakin’ kill you myself.
 {% endbubble %}
 
 ## Chapter 16
-
-<div class="msr-cw">
-    <span><b>Content Warning</b></span>
-    <p>Discussions of cult ahead.</p>
-</div>
 
 <div class="msr-location">
     <p><span><b>Location:</b> Pool</span></p>
@@ -1285,6 +1285,7 @@ Shinkai-kun!
 
 Shinkai-kun! Where are you!? Please respond! Please, if you’re out there…!
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/madaraorigcg.jpg %}
 
 {% bubble Madara %}
@@ -1416,11 +1417,6 @@ And, after a long period of preparation, this fantasy has even plotted a scheme 
 {% endbubble %}
 
 ## Chapter 17
-
-<div class="msr-cw">
-    <span><b>Content Warning</b></span>
-    <p>Discussions of cult, and mentions of violence ahead.</p>
-</div>
 
 {% img /img/es/eventstory/meteorimpact/firsthalfch17.jpg %}
 
@@ -1620,6 +1616,19 @@ I mean… You get what I’m saying, right? He’s a human being, after all.
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <div>Not Quite A Hero Ch9–17</div>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <a href="/meteor_impact/second_half_p1"><b>One Year Ago:</b> Unqualified Hero Ch1–12</a>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/monologue" title="Next Chapter: Monologue"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>

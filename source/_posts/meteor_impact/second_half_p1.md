@@ -104,7 +104,7 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(Although I’d hoped I could save up money through idol work instead… But that’s a little tricky right now.)</th>
 
-<th>(The previous captain ended up going to the USA as planned, and someone did inherit the Captain role after him, but…)</th>
+<th>(The previous captain ended up going to the US as planned, and someone did inherit the Captain role after him, but…)</th>
 
 <th>(I don’t want to badmouth one of my own unit mates, but our current captain is the type who just tries to get through by sucking up to people.)</th>
 
@@ -122,7 +122,9 @@ description: "[ES!] Two years ago, a boy who dreamed of being a hero met a boy k
 
 <th>(I do want to stop this, but nothing I say has any influence. I feel like they start to treat me even worse, instead.)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch1_1.jpg %}
+
 {% bubble Chiaki mgnserious %}
 <th>(But I can’t complain at all… Last year, when everyone got serious for a while… apparently, that was because of my “wish”.)</th>
 
@@ -194,7 +196,7 @@ Yup! But as you can see, the number of them is decreasing.
 {% endbubble %}
 
 {% bubble Subaru %}
-Oh, is that so… Ahh, that puts me in a bind~ I mean, all I’ve been doing is solo activity lately.
+Oh, I see… Ahh, that puts me in a bind~ I mean, all I’ve been doing is solo activity lately.
 
 But since the in-school jobs are based on that “DreamFes” thing, I can’t get any of them as a solo idol anymore.
 {% endbubble %}
@@ -268,7 +270,7 @@ Bam! Take this! Finishing move: Super Chiaki Shoot…!! ☆
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Eeek!? D-d-d-don’t scare me like that, Akehoshi-kun! When did you get here!? It’s rude to sneak up behind people! I thought I was going to die!
+UGAAAH!? D-d-d-don’t scare me like that, Akehoshi-kun! When did you get here!? It’s rude to sneak up behind people! I thought I was going to die!
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -278,7 +280,7 @@ Heheh, it’s all good, though. It’s cute.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Hmph! How could you say “cute” to your *senior*!? You’re so cheeky! But I guess you’re complimenting me, so in a sense, thank you!
+Hmph! How could you say “cute” to your *senior*!? You’re so cheeky~!! But I guess you’re complimenting me, so in a sense, thank you!
 
 Anyway… What’s wrong? Are you going to join club activities today? Didn’t you say you found a job earlier today, though…?
 {% endbubble %}
@@ -426,17 +428,17 @@ We *don’t*. But whatever~ Do as you like.
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Mhm, I will\~! It’s dangerous to walk at night, so we’ll go home together\~! C’mon, c’mon! Let’s walk while holding hands~♪
+Mhm, I’ll do as I like\~! It’s dangerous to walk at night, so we’ll go home together\~! C’mon, c’mon! Let’s walk while holding hands~♪
 {% endbubble %}
 
 {% bubble Subaru %}
-I didn’t say you could do *that*! Stay, stay! You’re so overbearing, *seriously…!*
+I didn’t say you could do *that!* Stay, stay! You’re so overbearing, *seriously…!*
 {% endbubble %}
 
 {% img /img/es/eventstory/meteorimpact/secondhalfch3_1.jpg %}
 
 {% bubble Subaru sad4 %}
-…Senpai, did you…
+…Hey, Senpai…
 
 About me— No, about my dad, you—…[^4]
 
@@ -496,7 +498,7 @@ I mean, all I hear about Ryuseitai is bad news. If things don’t go well, the s
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Don’t say such terrifying things… It’ll be just fine. No— I’ll make *sure* that doesn’t happen. I promise you: I *will* protect Ryuseitai.
+That’s such a terrifying thing to say… No, it’ll be just fine. In fact—I’ll make *sure* that of all things never happens. I promise you: I *will* protect Ryuseitai.
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -558,7 +560,7 @@ What was his name again…? Ah! Someone called “Shin kai ka na ta” is acting
 {% endbubble %}
 
 {% bubble Chiaki mgn %}
-Huh!? Shinkai-kun is the…!?
+Huh? Shinkai-kun is the…?
 {% endbubble %}
 
 {% bubble Subaru %}
@@ -566,7 +568,7 @@ Oh? Do you know him? Yeah, he’s that… What was it, Five Eccentrics?
 
 He’s one of the people who’re called by that name — They’re the most excellent, outstanding idols in this school, yeah~?
 
-Well, the Five Eccentrics are just outstanding idols — I doubt any of them are actually cult leaders, or Gods, or whatever…
+Well, the Five Eccentrics are just outstanding idols — I doubt any of them are actually religious founders, or Gods, or whatever…
 
 Buuut, those are the kinda rumors you hear.
 
@@ -705,7 +707,9 @@ I have no interest in cannibalism! *Non*! I feel like puking just by the thought
 {% bubble Kanata past %}
 puking…? so not only is it Painful for you, but it is making you feel Disgusted…? are you Feeling ill?
 {% endbubble %}
+
 ## Chapter 5
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch5.jpg %}
 
 {% bubble Shu %}
@@ -735,7 +739,7 @@ Surely you must, as you are of equal rank to me… as we are both part of the Fi
 {% endbubble %}
 
 {% bubble Kanata past %}
-yes. to be part of something together means that we are the same, right?
+yes. to be Part of something together means that we are the Same, right?
 
 fufufu. it makes me Happy to share something in Common…♪
 {% endbubble %}
@@ -761,7 +765,7 @@ because i am a God, i grant Wishes! shu, what is your Wish?
 {% bubble Shu %}
 …You really aren’t listening to me at all, are you?
 
-You’ll grant my wish? *Ha!* Don’t make me laugh! That’s something one only says to those they think are below them. Are you trying to say that you are *above* me?
+You’ll grant my wish? *Ha!* What a joke! That’s something one only says to those they think are below them. Are you trying to say that you are *above* me?
 {% endbubble %}
 
 {% bubble Kanata past %}
@@ -769,7 +773,9 @@ hm~? are Humans not generally Below me? which is why i can watch over them from 
 {% endbubble %}
 
 {% bubble Shu %}
-…Forget being irritated — I simply pity you at this point. I will make this very clear to you: I do not plan to have faith in anyone but myself.
+…Forget being irritated — I simply pity you at this point.
+
+I will make this very clear to you: I do not plan to have faith in anyone but myself.
 
 I suppose if I *must* specify something, then I do have a longing towards muses.
 
@@ -827,7 +833,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 
 <th>(…Why did you hide, me!?)</th>
 
-<th>(Ahh, he’s leaving… Seems like he’s meeting up with the rest of the Eccentrics to go hang out somewhere…)</th>
+<th>(Ahh, Shinkai-kun’s leaving… Seems like he’s meeting up with the rest of the Eccentrics to go hang out somewhere…)</th>
 
 <th>(He looks like he’s having fun walking side-by-side with them.)</th>
 
@@ -853,6 +859,7 @@ no, it is nothing… the sun was too bright, and… i think i may have Mistaken 
 
 <th>(As long as they're around, you should be fine, right? You don’t need me saving you, right…?)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch5_2.jpg %}
 
 {% bubble Chiaki mgnsad %}
@@ -924,7 +931,9 @@ I just need to win the game by the end. Perseverance is what prevails, and that�
 
 <th>(Don’t rush, don’t panic… Take deep breaths in between…♪)</th>
 {% endbubble %}
+
 {% img /img/es/eventstory/meteorimpact/secondhalfch6_1.jpg %}
+
 {% bubble Souma v2 %}
 Forgive me for intruding. Hasumi-dono, could you permit me to speak?
 {% endbubble %}
@@ -1743,7 +1752,7 @@ Pardon? Um… I do know the word, but it is difficult to explain…
 {% endbubble %}
 
 {% bubble Kanata pastfrownshake %}
-is that so… *sigh…* you people sure are Boring.
+i see… *sigh…* you people sure are Boring.
 {% endbubble %}
 
 ## Chapter 12
@@ -1939,6 +1948,19 @@ EeeeeEEEEEEAAAAAAAAAAAAAAA!?
                 </a>
             </div>
             <a target="_blank" href="/meteor_impact" title="Index"><i class="fa fa-star"></i></a>
+            <div class="dropup">
+            <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
+                <div class="dropup-content">
+                    <a href="/meteor_impact/prologue">Prologue</a>
+                    <a href="/meteor_impact/first_half_p1"><b>Two Years Ago:</b> Not Quite A Hero Ch1–8</a>
+                    <a href="/meteor_impact/first_half_p2">Not Quite A Hero Ch9–17</a>
+                    <a href="/meteor_impact/monologue">Monologue</a>
+                    <div><b>One Year Ago:</b> Unqualified Hero Ch1–12</div>
+                    <a href="/meteor_impact/second_half_p2">Unqualified Hero Ch13–26</a>
+                    <a href="/meteor_impact/second_half_p3">Unqualified Hero Ch27–33</a>
+                    <a href="/meteor_impact/epilogue">Epilogue</a>
+                </div>
+            </div>
             <a href="/meteor_impact/second_half_p2" title="Next Chapter: Unqualified Hero (Chapter 13-26)"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
