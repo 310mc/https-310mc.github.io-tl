@@ -70,7 +70,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
     <p><span><b>Location:</b> AV Room</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_hYVMP679362f0pi5.webp?timestamp=1737712376205 %}
 
 <div class="msr-narration">
     <p>The next day — After school…</p>
@@ -414,7 +414,7 @@ We’ve got ourselves someone for the victim role! It’s time for the role ever
     <p><span><b>Location:</b> At the Fountain</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3NUU679362f0gTj4.webp?timestamp=1737712376761 %}
 
 <div class="msr-narration">
     <p>A few days later — After school…</p>
@@ -506,7 +506,7 @@ Transfer student-san…♪ I’m so glad you’re here… Nagumo-kun pushed on m
 
 ## Chapter 4
 
-{% img /img/es/eventstory/schoolfestival4/4_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0PW679362f0sLf33.webp?timestamp=1737712373735 %}
 
 {% bubble Tetora %}
 Yo, yo. Lady, why don’t ya come over with me a li’l?
@@ -680,7 +680,7 @@ We’ve both gotten roles we’re not used to, but let’s work as best as we ca
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/5_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_AK679362f0YLMab2.webp?timestamp=1737712376910 %}
 
 <div class="msr-narration">
     <p>Day of the school festival…</p>
@@ -736,7 +736,7 @@ Now then, the truck’s this way. Everyone, follow me…☆
     <p><span><b>Location:</b> Running Grounds (Food Truck)</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/5_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Dl679362f0AdChI2.webp?timestamp=1737712376489 %}
 
 {% bubble Chiaki %}
 You guys are looking great!
@@ -760,7 +760,7 @@ Yeah, he’s busy with a bunch of stuff, after all. I couldn’t bear to ask him
 Same with the transfer student… I was really unsure of what to do at first, so this really saved us!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/5_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_yc4PkT679362f0O6.webp?timestamp=1737712376390 %}
 
 {% bubble Kanata v2 %}
 <em><th>(sniff, sniff)</th></em>… i smell [fish]\~♪ excuse me while i go buy some\~♪
@@ -770,7 +770,7 @@ Same with the transfer student… I was really unsure of what to do at first, so
 Wait, wait! Don’t go off on your own until breaktime, please!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/5_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tX679362f0zluI82.webp?timestamp=1737712376099 %}
 
 {% bubble Midori %}
 …………
@@ -882,7 +882,7 @@ And that customer wants cotton candy and grape juice… Huh? Apple juice, too…
     <p><span><b>Location:</b> Garden Terrace</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/6_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KGoojOU679362f07.webp?timestamp=1737712375850 %}
 
 {% bubble Shinobu %}
 Garden Terrace, all clear. I shall proceed onwards to the next area!
@@ -898,7 +898,7 @@ Garden Terrace, all clear. I shall proceed onwards to the next area!
 <th>(Ah! That looks like transfer student-dono! Alright! Time to say hello~♪)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/6_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mv679362f0PCuyG2.webp?timestamp=1737712376369 %}
 
 {% bubble Kaoru %}
 Yoohoo yoohoo, transfer student-chan! What’s up~? Why’re you here?

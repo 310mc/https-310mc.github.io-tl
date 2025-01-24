@@ -67,7 +67,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/ep1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Hqy7S679362f0qC5.webp?timestamp=1737712377097 %}
 
 {% bubble Midori %}
 …………
@@ -91,7 +91,7 @@ Huh…?
 <th>(Some bad-looking guys are talking to her, I think…? Whaa… Why’re there guys like that in our school…?)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pvX679363c2Ym3y3.webp?timestamp=1737712581484 %}
 
 {% bubble Midori %}
 <th>(Wait, no— This isn’t the time to think! I have to go save her…!)</th>
@@ -127,7 +127,7 @@ Midori-kun!
     <p><span><b>Location:</b> Hero Show Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/ep1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_b679363c2D5SIGy1.webp?timestamp=1737712580768 %}
 
 <div class="msr-narration">
     <p>Hero show time…</p>
@@ -229,7 +229,7 @@ Noooo… I don’t wannaaaaa…
 Oh jeez, Midori-kun! You’ve been standing out for a while now, so just accept your fate already! Heheh~ I’m feeling super excited~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_y679363c2vmE28Z1.webp?timestamp=1737712581514 %}
 
 {% bubble Tetora %}
 Ossu! I’m gonna sing as loud as I can!
@@ -285,7 +285,7 @@ That’s not funny! We’ve got little kids here, so they might get bored and le
 That would be a shame! In fact, this is a hero show for *kids!* We shouldn’t forget about our purpose here!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_XN71s679363c26Q5.webp?timestamp=1737712581463 %}
 
 {% bubble Chiaki %}
 “Children, watch over our heroic figures! Now then, let’s get this hero show going~!”
@@ -317,7 +317,7 @@ N-No, I’m fine… I’m just gonna stay here where no one can see me…
 <th>(Ahh, but everyone’s having fun performing… This isn’t the right time to be fighting against it, I guess…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Q2Mza679363c2pO5.webp?timestamp=1737712581475 %}
 
 {% bubble Midori %}
 <th>(Just what is *up* with today… Every time I don’t wanna stand out, I stand out even more…)</th>
@@ -339,7 +339,7 @@ Huh? W-Why are you calling out to me…? Ah, am I in your way…?
 no, you would never be in my [way]~ the five of us together are ryuseitai, after all.
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_PoBcB84679363c27.webp?timestamp=1737712581626 %}
 
 {% bubble Kanata v2 %}
 people become happy every time we do something. and when people enjoy what we do, we also become happy.

@@ -55,7 +55,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
     <p><span><b>Location:</b> Dojo</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v15679363c2dI2R3.webp?timestamp=1737712580992 %}
 
 {% bubble Tetora %}
 Ossu! Nagumo Tetora, comin' in!

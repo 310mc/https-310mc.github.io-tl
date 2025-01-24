@@ -172,7 +172,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/schoolfestival4/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_JyMVog679362f0J6.webp?timestamp=1737712375607"
                 alt="School Festival 4"
             />
         </div>

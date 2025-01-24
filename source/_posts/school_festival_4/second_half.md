@@ -74,7 +74,7 @@ description: "[ES!] Ryuseitai holds a food truck during the School Festival, pat
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/7_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LL679362f0RrOOt2.webp?timestamp=1737712376522 %}
 
 {% bubble Chiaki %}
 The running grounds is also clear!
@@ -82,7 +82,7 @@ The running grounds is also clear!
 Heheh, walkie-talkies are so convenient~♪ This is fun, it’s kind of like we’re in an undercover investigation…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/7_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uie2rv679362f016.webp?timestamp=1737712377133 %}
 
 {% bubble Tetora %}
 Yo, yo. Lady, why don’t ya come over with me a li’l?
@@ -126,7 +126,7 @@ He’ll just avoid the question, though~
 Well, whatever. I’m sure Taishou as a delinquent was as super duper cool as he is right now!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6Tpa5N679363c2Z6.webp?timestamp=1737712581578 %}
 
 {% bubble Tetora %}
 ‘Kay, I glare like this, and… Hey, hey! What d’you think you’re lookin’ at!? This ain’t here for show~!
@@ -160,7 +160,7 @@ I’m not a pervert, I’m your stepmother.
 *Fufufu!* It may have arrived late, but Cinderella had her own rebellious stage, after all~ How wonderful! Tonight we’ll be having red bean rice to celebrate…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/7_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_o679362f05CGA6w1.webp?timestamp=1737712376258 %}
 
 {% bubble Tomoya %}
 I told you not to come any closer—!! It’s grooooooss~!!
@@ -236,7 +236,7 @@ Back at ya! I can’t watch the play, but I’m cheering for you!
     <p><span><b>Location:</b> Running Grounds (Food Truck)</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_nWs7XEc679362f07.webp?timestamp=1737712373816 %}
 
 {% bubble Tetora %}
 Heeey, Midori-kun! Shinkai-senpai!
@@ -252,7 +252,7 @@ Excuse me! Please, let us pass through!
 Thank you very much…☆ Are you alright, Takamine? You look exhausted. Go and take a rest on that chair!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/8_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_nvCL679362f0Orz4.webp?timestamp=1737712376808 %}
 
 {% bubble Midori %}
 M-Morisawa-senpai…? And Nagumo-kun came back, too…
@@ -278,7 +278,7 @@ You can’t give up now! If you’re a man, then you gotta show all your guts an
 i am back~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/8_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_gbw679362f0sPVG3.webp?timestamp=1737712376508 %}
 
 {% bubble Chiaki %}
 Kanata! Just where were you?
@@ -340,7 +340,7 @@ That’s all from me. Right then, it’s time to fulfill our duties…☆
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/9_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_baqOU679362f0xg5.webp?timestamp=1737712376974 %}
 
 {% bubble Midori %}
 <th>(*Sigh*… I’m finally done with tending the truck, but now I’ve gotta deal with all this hero show and skit stuff… Ughhh, this is soooo depressiiiing…)</th>
@@ -360,7 +360,7 @@ That’s all from me. Right then, it’s time to fulfill our duties…☆
     <p><span><b>Location:</b> Running Grounds (Food Truck)</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/9_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_3qFhmp679362f0U6.webp?timestamp=1737712376489 %}
 
 {% bubble Chiaki %}
 Welcome! What would you like?
@@ -388,7 +388,7 @@ Ah! Welcome! Two cotton candy, pineapple juice and orange juice for you, right?
 We have a new order. Sengoku-kun, please prepare the cotton candy!
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/9_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_16VrPW679362f0l6.webp?timestamp=1737712376570 %}
 
 {% bubble Shinobu %}
 Understood! Heh, I can prepare the food, while you handle serving the customers. I am truly thankful that you’re being considerate towards me, since I’m shy with strangers.
@@ -462,7 +462,7 @@ Okay, so cotton candy and apple juice is enough? Right then, give me a moment.
 Hmhmhm~♪
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_GBNM33679363c2i6.webp?timestamp=1737712581505 %}
 
 {% bubble Chiaki %}
 I’ll give you the cotton candy first. It’s sweet and tasty? Oh! You have a bit on your cheek. Be careful while you eat it, okay?
@@ -510,7 +510,7 @@ Gotcha! Right then, Taichou, Sengoku-kun! I’ll see you later!
     <p><span><b>Location:</b> Running Grounds</span></p>
 </div>
 
-{% img /img/es/eventstory/schoolfestival4/10_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_cG6Gk679362f0iw5.webp?timestamp=1737712376567 %}
 
 {% bubble Kanata v2 %}
 excuse meee~ i would like some [fish], please~♪
@@ -656,7 +656,7 @@ i am much more [happy] like this~♪
 
 ## Chapter 11
 
-{% img /img/es/eventstory/schoolfestival4/11_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tfNHLOj679362f07.webp?timestamp=1737712376754 %}
 
 {% bubble Tetora %}
 Excuse me, I need to get through! Please move aside!
@@ -684,7 +684,7 @@ Excuse me, I need to get through! Please move aside!
 <th>(Hm? That’s Shinkai-senpai over there, right? He must be in the middle of patrol work. I should go thank him for his hard work.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/schoolfestival4/kanataorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mDza8X679363c2z6.webp?timestamp=1737712581529 %}
 
 {% bubble Tetora %}
 Shinkai-senpai!

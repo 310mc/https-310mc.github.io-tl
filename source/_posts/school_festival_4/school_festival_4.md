@@ -13,7 +13,7 @@ permalink: school_festival_4/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/schoolfestival4/tetorabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_aaMFCky679362f07.webp?timestamp=1737712377280')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">School Festival 4</div>
@@ -105,10 +105,10 @@ permalink: school_festival_4/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/schoolfestival4/midoriorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_pvX679363c2Ym3y3.webp?timestamp=1737712581484)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/schoolfestival4/tetorabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_aaMFCky679362f07.webp?timestamp=1737712377280"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">School Festival 4</div>
@@ -211,7 +211,7 @@ permalink: school_festival_4/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_6Tpa5N679363c2Z6.webp?timestamp=1737712581578">
                                 </div>
                                 <div class="caption">
                                     Chapter 7
@@ -219,7 +219,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_GBNM33679363c2i6.webp?timestamp=1737712581505">
                                 </div>
                                 <div class="caption">
                                     Chapter 9
@@ -227,7 +227,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_mDza8X679363c2z6.webp?timestamp=1737712581529">
                                 </div>
                                 <div class="caption">
                                     Chapter 11
@@ -235,7 +235,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_pvX679363c2Ym3y3.webp?timestamp=1737712581484">
                                 </div>
                                 <div class="caption">
                                     Epilogue 1
@@ -243,7 +243,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_PoBcB84679363c27.webp?timestamp=1737712581626">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -251,7 +251,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Q2Mza679363c2pO5.webp?timestamp=1737712581475">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -259,7 +259,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_y679363c2vmE28Z1.webp?timestamp=1737712581514">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -267,7 +267,7 @@ permalink: school_festival_4/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/schoolfestival4/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_XN71s679363c26Q5.webp?timestamp=1737712581463">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
