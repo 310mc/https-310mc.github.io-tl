@@ -515,7 +515,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
             />
         </div>
         <a href="/spring_bed" class="storyName" target="_blank">
-            <span>Spring Bed</span>
+            <span>Spring Bed (by Peace)</span>
             <span class="read"></span>
         </a>
     </div>
@@ -708,7 +708,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/idolstory/crimsonspureheart/c2.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Ss9CFra67938ac37.webp?timestamp=1737722569491"
                 alt="The Crimson's Pure Heart"
             />
         </div>

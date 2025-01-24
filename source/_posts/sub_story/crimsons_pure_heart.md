@@ -13,7 +13,7 @@ description: "[ES!] Translation of a Kuro sub story, featuring Midori and Tetora
 permalink: crimsons_pure_heart/
 ---
 
-![](/img/es/idolstory/crimsonspureheart/c1.jpg)|![](/img/es/idolstory/crimsonspureheart/c2.jpg)
+![](https://f005.backblazeb2.com/file/reitoouji/ro_n67938ac3TwWgcx1.webp?timestamp=1737722569517)|![](https://f005.backblazeb2.com/file/reitoouji/ro_Ss9CFra67938ac37.webp?timestamp=1737722569491)
 :-:|:-:
 
 Kuro wants to learn more about a certain yuruchara from Midori…
@@ -78,7 +78,7 @@ This story is connected to the card [Carrot’s Relations] Kuro Kiryu.
     <p><span><b>Location:</b> Classroom 1-A</span></p>
 </div>
 
-{% img /img/es/idolstory/crimsonspureheart/1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JaY7m67938ae7Ps5.webp?timestamp=1737722602057 %}
 
 {% bubble Tetora %}
 Wassup, Midori-kun! Since you’re hanging around in the classroom during lunch break, I’m guessing you’ve got nothing to do? You’re in the Basketball Club, so we should go and play some basketball.
@@ -182,7 +182,7 @@ O-Okay… Ahh, this might just be where my life ends…
     <p><span><b>Location:</b> Rooftop</span></p>
 </div>
 
-{% img /img/es/idolstory/crimsonspureheart/2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0g67938ae7F6O322.webp?timestamp=1737722601350 %}
 
 {% bubble Kuro %}
 Good, nobody’s around.

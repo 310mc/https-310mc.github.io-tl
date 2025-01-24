@@ -91,7 +91,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
 {% bubble Chiaki grin %}
 Look, Takamine! They’re selling plushies of some deep-sea creatures! I have no idea what they’re meant to be!
 
-You love these kinds of soft and shapeless creatures, right!?[^1] Alrighty then, your dad will buy it for you to commemorate us spending time together in the aquarium today!
+You love these kinds of loose-looking and shapeless creatures, right!?[^1] Alrighty then, your dad will buy it for you to commemorate us spending time together in the aquarium today!
 {% endbubble %}
 
 {% bubble Midori v2 %}
@@ -1017,7 +1017,7 @@ Every last one of you are so insistent on making everything harder on yourselves
 [^1]: Chiaki is referring to <em>yuruchara</em>, Midori’s favorite kind of mascots, that tend to have sloppy-looking designs.
 [^2]: Kanata’s last name <em>shinkai</em> literally means “deep sea”.
 [^3]: “I’m so happy/It’s so nice to share something in common” is a typical phrase Chiaki says to others.
-[^4]: Referring to <a href="/climax" target="_blank">Climax</a>, Ryuseitai's Repayment Festival (graduation) story.
+[^4]: Referring to <a href="/climax" target="_blank">Climax</a>, Ryuseitai’s Repayment Festival (graduation) story.
 [^5]: Kanatee (Kanata + Manatee pun) is Aoumi Aquarium’s mascot, and you can see how it looks in <a href="https://ensemble-stars.fandom.com/wiki/(Intertwined_Sea)_Kanata_Shinkai" target="_blank">this CG</a> and in <a href="/img/es/birthdaystory/es2/kanata/bdaycake.png" target="_blank">Kanata’s birthday cake</a>.
 [^6]: The <em>ryusei</em> in Ryuseitai lit. means shooting star/meteor. The unit name means “shooting star/meteor squad”.
 [^7]: Referring to what happened in the ES!! main story. TL;DR: Rinne falsely publicly accuses Ryuseitai of being fake hypocritical heroes, which forced Ryuseitai to fight against Crazy:B in the Idol Royale.
