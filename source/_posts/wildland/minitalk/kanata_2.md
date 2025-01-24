@@ -116,7 +116,7 @@ actually, i might be able to do that now, too. what do you think, shall we give 
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata sighfrown %}
-            is that so? i thought it would be fun to do, so that is a shame…
+            ah, alright. i thought it would be fun to do, so that is a shame…
             {% endbubble %}
             {% bubble Kanata awkward %}
             ah, but if i [made] a [mistake], it would cause more problems.

@@ -14,7 +14,7 @@ permalink: stella_maris/
 ---
 <div class="preview-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/stellamaris/kanatabcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_61i5uY67935b35A6.webp?timestamp=1737710396591')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Stella Maris – Climax Event</div>
@@ -113,10 +113,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/stellamaris/kanataorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_JpJh67935b35R0y4.webp?timestamp=1737710396429)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/stellamaris/kanatabcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_61i5uY67935b35A6.webp?timestamp=1737710396591"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Stella Maris – Climax Event</div>
@@ -226,7 +226,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_KAbp67935e9b3P24.webp?timestamp=1737711264569">
                                 </div>
                                 <div class="caption">
                                     hidden island 3
@@ -234,7 +234,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_667935b35EvbZwu1.webp?timestamp=1737710395995">
                                 </div>
                                 <div class="caption">
                                     birthplace of stars 7
@@ -242,7 +242,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JpJh67935b35R0y4.webp?timestamp=1737710396429">
                                 </div>
                                 <div class="caption">
                                     birthplace of stars 10
@@ -250,7 +250,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_DrCAPll67935e9b7.webp?timestamp=1737711265280">
                                 </div>
                                 <div class="caption">
                                     birthplace of stars 12
@@ -258,7 +258,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2ul67935b35k4rA3.webp?timestamp=1737710396516">
                                 </div>
                                 <div class="caption">
                                     birthplace of stars 14
@@ -266,7 +266,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/stellamaris/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_g77p67935b35cCt4.webp?timestamp=1737710396343">
                                 </div>
                                 <div class="caption">
                                     birthplace of stars 15
@@ -284,10 +284,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_567935b35ErTy341.webp?timestamp=1737710395347">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Zbig67935b352Cm4.webp?timestamp=1737710395412">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -320,10 +320,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_7v67935e9biTS8S2.webp?timestamp=1737711264555">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_fCAN67935e9b4jl4.webp?timestamp=1737711264527">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -356,10 +356,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_S9r867935b35Gzv4.webp?timestamp=1737710394969">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_IQgJG67935b35d85.webp?timestamp=1737710395424">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -392,10 +392,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_sIw2EJ67935b35h6.webp?timestamp=1737710395274">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_ftA867935b350gR4.webp?timestamp=1737710395429">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -428,10 +428,10 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_xZKR5t67935e9b56.webp?timestamp=1737711264392">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_567935e9bBp8WGa1.webp?timestamp=1737711264571">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -549,7 +549,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_567935b35ErTy341.webp?timestamp=1737710395347"
                 alt="lovely present"
             />
         </div>
@@ -561,7 +561,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Zbig67935b352Cm4.webp?timestamp=1737710395412"
                 alt="secrets to [leadership]"
             />
         </div>
@@ -573,7 +573,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_7v67935e9biTS8S2.webp?timestamp=1737711264555"
                 alt="Buying Ingredients for a Big Meal"
             />
         </div>
@@ -585,7 +585,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_fCAN67935e9b4jl4.webp?timestamp=1737711264527"
                 alt="Preparing in Advance for a Job"
             />
         </div>
@@ -597,7 +597,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_S9r867935b35Gzv4.webp?timestamp=1737710394969"
                 alt="Torn Tracksuit"
             />
         </div>
@@ -609,7 +609,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_IQgJG67935b35d85.webp?timestamp=1737710395424"
                 alt="Returning From Work"
             />
         </div>
@@ -621,7 +621,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_sIw2EJ67935b35h6.webp?timestamp=1737710395274"
                 alt="Encounter at the Cafeteria"
             />
         </div>
@@ -633,7 +633,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ftA867935b350gR4.webp?timestamp=1737710395429"
                 alt="Sudden Departure"
             />
         </div>
@@ -645,7 +645,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_xZKR5t67935e9b56.webp?timestamp=1737711264392"
                 alt="An Energizing Time"
             />
         </div>
@@ -657,7 +657,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_567935e9bBp8WGa1.webp?timestamp=1737711264571"
                 alt="Okinawa Souvenir"
             />
         </div>

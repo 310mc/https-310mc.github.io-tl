@@ -66,7 +66,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
     <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
-{% img /img/es/eventstory/stellamaris/ep1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_X5xRj67935b35uy5.webp?timestamp=1737710395789 %}
 
 <div class="msr-narration">
     <p>That night. After Stella Maris ended, they returned back to their lodging accommodation in Hoshijima…</p>
@@ -482,9 +482,9 @@ and then i will make my [complaints], but. i would like to express my own [grati
 
 <big>Please take a look at the song lyrics for this event too, <a href="/bokura_no_stella" target="_blank">Bokura no Stella — Our Stella</a>.</big>
 
-{% img /img/es/eventstory/stellamaris/storyhighlights.png %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_U67935e9b5N3sUX1.webp?timestamp=1737711266812 %}
 
-<big><a href="/img/es/eventstory/stellamaris/storyhighlights.png" target="_blank">Full view here.</a></big>
+<big><a href="https://f005.backblazeb2.com/file/reitoouji/ro_U67935e9b5N3sUX1.webp?timestamp=1737711266812" target="_blank">Full view here.</a></big>
 
 ### Story Highlights Text
 

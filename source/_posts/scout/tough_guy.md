@@ -421,7 +421,7 @@ But I grew tall really quickly, so I think it’d be waaay too tight for me to w
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Is that so! That’s truly wonderful! Keep on growing just like that! Become a man large enough to reach the sun…☆
+I see! That’s truly wonderful! Keep on growing just like that! Become a man large enough to reach the sun…☆
 {% endbubble %}
 
 {% bubble Midori v2 %}

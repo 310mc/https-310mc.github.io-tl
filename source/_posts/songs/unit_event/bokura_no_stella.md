@@ -69,7 +69,7 @@ permalink: bokura_no_stella/
 
 <h4 style="text-align:center;">Bokura no Stella – Our Stella</h4>
 
-{% img /img/es/eventstory/stellamaris/songcover.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v367935e9bPiiH82.webp?timestamp=1737711265126 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=USpJ_6dGGTg" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

@@ -50,7 +50,7 @@ description: "[ES!!] Midori's first Mini Talk from Stella Maris. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_t67935bdarIbiwz1.webp?timestamp=1737710559495 %}
 
 {% bubble Midori norsmile %}
 Ah, Anzu-san. Are you going to have lunch now?
@@ -101,7 +101,7 @@ Anzu-san, have you already decided?
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_sktTZf67935bdaF6.webp?timestamp=1737710559523 %}
 
 {% bubble Midori sighdrop %}
 Woah— I'm so sorry! A huge queue came up while we were chatting…!
@@ -153,7 +153,7 @@ I'm so sorry for taking away your precious lunchbreak like this.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935bdaIqKbURq0.webp?timestamp=1737710557497 %}
 
 {% bubble Midori norsmile %}
 We finally have our food. Alright, I'll go eat over on that seat.

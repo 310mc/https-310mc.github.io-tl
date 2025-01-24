@@ -65,7 +65,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
     <p><span><b>Location:</b> Vocal Room (ES Building)</span></p>
 </div>
 
-{% img /img/es/eventstory/stellamaris/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935e59zqZqjZL0.webp?timestamp=1737711198093 %}
 
 <div class="msr-narration">
     <p>2nd year of ES’s establishment — In May…</p>

@@ -228,7 +228,7 @@ But it was a little too much, and ended up being pretty tough to do.
 {% endbubble %}
 
 {% bubble Chiaki %}
-Is that so! Aaalright then, leave it to me! I’m pretty good at manual labor!
+I see! Aaalright then, leave it to me! I’m pretty good at manual labor!
 {% endbubble %}
 
 {% bubble Hajime %}

@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's first Mini Talk from Stella Maris. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_D267935c80BwA1W2.webp?timestamp=1737710723541 %}
 
 {% bubble Shinobu smilesoft %}
 Anzu-dono, here you go. It's cold tea~♪
@@ -101,7 +101,7 @@ Since you accepted my invitation to have a chat, it's only natural I would do th
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Hu67935c80ddWxO2.webp?timestamp=1737710724001 %}
 
 {% bubble Shinobu smilesoft %}
 The flowers of the flowerbed at school bloomed beautifully just like these flowers here.
@@ -152,7 +152,7 @@ He taught me so many different flower names…♪
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_y867935c804Rv1a2.webp?timestamp=1737710723610 %}
 
 {% bubble Shinobu smilesoft %}
 I was a little tired, but after talking to you, I feel much more energized!

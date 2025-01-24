@@ -1,5 +1,5 @@
 ---
-title: "VS★GOURMET – Chiaki Mini Talk: In Order To Represent Myself"
+title: "VS★GOURMET – Chiaki Mini Talk: In Order To Express Myself"
 date: 2024/7/1 9:07:00
 categories:
 - [Enstars, Chiaki]

@@ -362,11 +362,11 @@ permalink: wedding_march/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_OFKttAE6756ec337.webp?timestamp=1733749813697"
-                alt="If I Were In Kyoto…"
+                alt="If I Was In Kyoto…"
             />
         </div>
         <a href="/wedding_march/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: If I Were In Kyoto…</span>
+            <span>2: If I Was In Kyoto…</span>
             <span class="read"></span>
         </a>
     </div>

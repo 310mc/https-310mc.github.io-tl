@@ -16,6 +16,8 @@ permalink: featurescout/
 
 <!-- more -->
 
+<link rel="stylesheet" href="/cssfolder/removewidth.css">
+
 ## First Feature Scout
 
 <div class="stories">

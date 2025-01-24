@@ -188,7 +188,7 @@ Life on the fields surprisingly suits how I operate, for some reason…♪
 {% endbubble %}
 
 {% bubble Chiaki awkward %}
-I-Is that so. Well, if you’re here under your own will, then I won’t insist on anything…
+I-I see. Well, if you’re here under your own will, then I won’t insist on anything…
 {% endbubble %}
 
 {% bubble Chiaki idle %}

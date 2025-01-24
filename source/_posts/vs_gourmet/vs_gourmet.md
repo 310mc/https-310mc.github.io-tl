@@ -608,11 +608,11 @@ permalink: vs_gourmet/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_ncL669f7a29ciBT3.webp?timestamp=1721727535481"
-                alt="In Order To Represent Myself"
+                alt="In Order To Express Myself"
             />
         </div>
         <a href="/vs_gourmet/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: In Order To Represent Myself</span>
+            <span>2: In Order To Express Myself</span>
             <span class="read"></span>
         </a>
     </div>

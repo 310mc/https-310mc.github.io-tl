@@ -368,7 +368,7 @@ Also, I have unit practice after this, so I can’t participate in Karate Club a
 {% endbubble %}
 
 {% bubble Tetora norsmile %}
-Ahh, is that right?
+Ahh, I see!
 {% endbubble %}
 
 {% bubble Tetora northinking %}

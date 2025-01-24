@@ -269,7 +269,7 @@ It's fine, really… Though I think I would've liked it if you told us he was do
 {% endbubble %}
 
 {% bubble Chiaki grin2 %}
-Ho<em>ho</em>, is that so! I was a little nervous that you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
+Ho<em>ho</em>, I see! I was a little nervous that you might not care about me, since you have absolutely zero manner points towards me, but you *do* love me as a comrade, huh! ☆
 {% endbubble %}
 
 {% bubble Midori sad %}

@@ -387,7 +387,7 @@ I’m aware. Our decision to leave Ryuseitai has to do with that, too. There are
 {% endbubble %}
 
 {% bubble Midori idle %}
-Huh, is that so… And here I thought you were working yourself to the bone ‘cause you wanted that “mask” so badly.
+Huh, I see… And here I thought you were working yourself to the bone ‘cause you wanted that “mask” so badly.
 {% endbubble %}
 
 {% bubble Chiaki srsthinking %}

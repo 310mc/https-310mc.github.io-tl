@@ -201,4 +201,21 @@ I'll head back to the agency office to take my belongings.
     </div>
 </div>
 <br>
-<div toc>{% btn /wedding_march,, star, Index %}{% btn /wedding_march/minitalk/chiaki_2,, arrow-right, Chiaki Mini Talk: If I Were In Kyoto… %}</div>
+<div class="navigation2">
+    <div class="toolbar-wrapper">
+        <div class="slider-container">
+            <input type="range" min="1" max="5" value="3" class="slider">
+        </div>
+        <div class="toolbar">
+            <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
+            <div class="toolbar__section">
+                <a id="sliderDrop">
+                    <span class="material-icons-round" title="Text Size">format_size</span>
+                </a>
+            </div>
+            <a target="_blank" href="/wedding_march#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
+            <a href="/wedding_march/minitalk/chiaki_2" title="Chiaki Mini Talk: If I Was In Kyoto…"><i class="fa fa-arrow-right"></i></a>
+            <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+        </div>
+    </div>
+</div>

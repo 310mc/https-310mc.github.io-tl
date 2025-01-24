@@ -74,7 +74,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
     <p><span><b>Location:</b> Vocal Room (ES Building)</span></p>
 </div>
 
-{% img /img/es/eventstory/stellamaris/p1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_B767935d3fLAL1q2.webp?timestamp=1737710914987 %}
 
 {% bubble Chiaki grin2 %}
 Alright! Time-out strategy!
@@ -239,7 +239,7 @@ Do you recall any proper achievements the Marine Life Club accomplished as a clu
 {% endbubble %}
 
 {% bubble Shinobu awkward %}
-Now that you mention it, I could never understand what on earth they were doing there… Perhaps that isn’t something to be said by someone from the Ninja Association, though.
+Now that you mention it, I could never understand what on earth they were doing there… Perhaps that isn’t something anyone would want to hear from the Ninja Association, though.
 {% endbubble %}
 
 {% bubble Chiaki frown2 %}
@@ -348,7 +348,7 @@ but this time around, there is something i am [looking forward] to.
 
 ## Chapter 3
 
-{% img /img/es/eventstory/stellamaris/p1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0zCtv67935d3fay5.webp?timestamp=1737710916900 %}
 
 <div class="msr-narration">
     <p>The next morning. In Okinawa…</p>
@@ -528,7 +528,7 @@ But no worries, there’s no need to speak in Okinawan dialect with me\~. We als
 In fact, kids might not even understand you if you talk in Okinawan dialect\~…♪
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_KAbp67935e9b3P24.webp?timestamp=1737711264569 %}
 
 {% bubble Tetora surprised0 %}
 ……!
@@ -582,7 +582,7 @@ We can talk all we like once we’re settled~…♪
 
 ## Chapter 4
 
-{% img /img/es/eventstory/stellamaris/p1_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_X7qdg67935d3ffC5.webp?timestamp=1737710915136 %}
 
 <div class="msr-narration">
     <p>Nearly an hour later. Onboard the ship to the location…</p>

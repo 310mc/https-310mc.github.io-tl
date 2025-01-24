@@ -582,11 +582,11 @@ permalink: minitalk/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_OFKttAE6756ec337.webp?timestamp=1733749813697"
-                alt="If I Were In Kyoto…"
+                alt="If I Was In Kyoto…"
             />
         </div>
         <a href="/wedding_march/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: If I Were In Kyoto…</span>
+            <span>2: If I Was In Kyoto…</span>
             <span class="read"></span>
         </a>
     </div>
@@ -727,7 +727,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanataframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_567935b35ErTy341.webp?timestamp=1737710395347"
                 alt="lovely present"
             />
         </div>
@@ -739,7 +739,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Zbig67935b352Cm4.webp?timestamp=1737710395412"
                 alt="secrets to [leadership]"
             />
         </div>
@@ -751,7 +751,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_7v67935e9biTS8S2.webp?timestamp=1737711264555"
                 alt="Buying Ingredients for a Big Meal"
             />
         </div>
@@ -763,7 +763,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_fCAN67935e9b4jl4.webp?timestamp=1737711264527"
                 alt="Preparing in Advance for a Job"
             />
         </div>
@@ -775,7 +775,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_S9r867935b35Gzv4.webp?timestamp=1737710394969"
                 alt="Torn Tracksuit"
             />
         </div>
@@ -787,7 +787,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_IQgJG67935b35d85.webp?timestamp=1737710395424"
                 alt="Returning From Work"
             />
         </div>
@@ -799,7 +799,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_sIw2EJ67935b35h6.webp?timestamp=1737710395274"
                 alt="Encounter at the Cafeteria"
             />
         </div>
@@ -811,7 +811,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_ftA867935b350gR4.webp?timestamp=1737710395429"
                 alt="Sudden Departure"
             />
         </div>
@@ -823,7 +823,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobuframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_xZKR5t67935e9b56.webp?timestamp=1737711264392"
                 alt="An Energizing Time"
             />
         </div>
@@ -835,7 +835,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_567935e9bBp8WGa1.webp?timestamp=1737711264571"
                 alt="Okinawa Souvenir"
             />
         </div>
@@ -867,11 +867,11 @@ permalink: minitalk/
         <div class="thumbimage">
             <img
                 src="https://f005.backblazeb2.com/file/reitoouji/ro_ncL669f7a29ciBT3.webp?timestamp=1721727535481"
-                alt="In Order To Represent Myself"
+                alt="In Order To Express Myself"
             />
         </div>
         <a href="/vs_gourmet/minitalk/chiaki_2" class="storyName" target="_blank">
-            <span>2: In Order To Represent Myself</span>
+            <span>2: In Order To Express Myself</span>
             <span class="read"></span>
         </a>
     </div>

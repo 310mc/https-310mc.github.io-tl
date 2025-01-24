@@ -50,7 +50,7 @@ description: "[ES!!] Shinobu's second Mini Talk from Stella Maris. From Anzu's P
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_aj7eb67935c80Ef5.webp?timestamp=1737710723481 %}
 
 {% bubble Shinobu smilesoft %}
 I'm so happy I could meet Anzu-dono as soon as I entered ES~♪
@@ -104,7 +104,7 @@ You see, our work at Okinawa was pretty tough this time, so…
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_O267935c80F0dEe2.webp?timestamp=1737710723814 %}
 
 {% bubble Shinobu smile %}
 I bought souvenirs for all my friends, and Anzu-dono too.
@@ -155,7 +155,7 @@ Ah— My gift to you is a beauty facemask. ♪
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_shinobu2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rq67935c80xUExB2.webp?timestamp=1737710724097 %}
 
 {% bubble Shinobu smile %}
 I'm so glad you liked your souvenir, Anzu-dono…♪

@@ -70,7 +70,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
     <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
-{% img /img/es/eventstory/stellamaris/p2_7.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_eg67935d3fDvgnf2.webp?timestamp=1737710913986 %}
 
 <div class="msr-narration">
     <p>That night. At a beach near the ES Okinawa branch…</p>
@@ -84,7 +84,7 @@ Fufu. Meeting each other in secret on a beach at night makes me feel like we’r
 Why, Shinkai-kun might get angry at you for being a cheater.
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/chiakiorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_667935b35EvbZwu1.webp?timestamp=1737710395995 %}
 
 {% bubble Chiaki stellaocg %}
 Kanata wouldn’t get angry over something like that. That aside, the ocean breeze isn’t too good for your health, is it? Let’s make this discussion brief.
@@ -306,7 +306,7 @@ But just look at us now. To this very day, the stars in the sky and our dreams a
 
 ## Chapter 9
 
-{% img /img/es/eventstory/stellamaris/p2_9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vboSij67935d3fm6.webp?timestamp=1737710913972 %}
 
 <div class="msr-narration">
     <p>Nearly an hour later. In tonight’s lodging accommodation for Ryuseitai — the ryokan managed by the ES Okinawa branch…</p>
@@ -362,7 +362,7 @@ Mngh… <em><th>(mumble, mumble)</th></em>… Fools who defy yuruchara will face
 <th>(Whew. He was just sleep talking.)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_9_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_ZEjY667935d3fXE5.webp?timestamp=1737710914900 %}
 
 {% bubble Kanata norsmile %}
 welcome back, chiaki.
@@ -530,7 +530,7 @@ you brought back everything that i definitely had inside of me a long time ago.
 things that were meant to be precious to me.
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/kanataorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_JpJh67935b35R0y4.webp?timestamp=1737710396429 %}
 
 {% bubble Kanata stellaocg %}
 after that, my [precious things] rapidly increased in number. a hundred, thousand times more than the amount i had when i was young.
@@ -696,7 +696,7 @@ pat my head and say i did great, like you always would. ♪
 
 ## Chapter 11
 
-{% img /img/es/eventstory/stellamaris/p2_11.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_bKm67935d3fAKLV3.webp?timestamp=1737710915293 %}
 
 <div class="msr-narration">
     <p>One week later. On the stage Kanata planned for the sake of solving the situation — Right before the Stella Maris performance…</p>
@@ -714,7 +714,7 @@ okay, has everyone completed their [transformation]? are you [fully] prepared~?
 then we will start [right away], okay~? it is time for [fish ryuseitai]’s fun [stage] — [stella maris]…☆
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_11_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_VH67935d3fNFn0u2.webp?timestamp=1737710915983 %}
 
 {% bubble Chiaki norsmile2 %}
 ……………
@@ -724,7 +724,7 @@ then we will start [right away], okay~? it is time for [fish ryuseitai]’s fun 
 ……………
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_11_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_967935d3fltpVQP1.webp?timestamp=1737710917472 %}
 
 {% bubble Midori sighdrop %}
 ……………
@@ -938,7 +938,7 @@ Like, he’d always prioritize what we wanna do over what he wants to do—
 fufufu. you make it sound like i am a [saint], but i simply just did not have any particular [desires] of my own, you know?
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DrCAPll67935e9b7.webp?timestamp=1737711265280 %}
 
 {% bubble Tetora stellabcg %}
 Still, I always felt so grateful for it.
@@ -976,7 +976,7 @@ let’s all do it together now — those interesting things.
 “hello there! this is [god] speaking~☆”
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_12.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Mme67935d3fxhjY3.webp?timestamp=1737710917137 %}
 
 <div class="msr-narration">
     <p>At the same time. In the ES Okinawa branch, while watching the mysterious Stella Maris performance…</p>
@@ -1068,7 +1068,7 @@ And I bet those Ryuseitai guys are trying to become “exactly that”, yeah? We
 
 ## Chapter 13
 
-{% img /img/es/eventstory/stellamaris/p2_13.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8js67935e59RwIj3.webp?timestamp=1737711197623 %}
 
 {% bubble Konata smile %}
 ……♪
@@ -1194,7 +1194,7 @@ The very way that the world we live in changes form entirely.
 
 ## Chapter 14
 
-{% img /img/es/eventstory/stellamaris/p2_14.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935e59oQiwdJt0.webp?timestamp=1737711198149 %}
 
 {% bubble Kanata smile %}
 “♪\~♪\~♪”
@@ -1308,7 +1308,7 @@ There’s marginal space to take the circumstances into account. Having the urge
 No… It’s a natural instinct to try and remove any foreign material that could destroy this peaceful world.
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_2ul67935b35k4rA3.webp?timestamp=1737710396516 %}
 
 {% bubble Chiaki stellabcg %}
 To the people of Hoshijima, we— <em>ES</em> itself was the evil organization, the monster villain, the kaijuu.
@@ -1382,7 +1382,7 @@ that is what ryuseitai is all about.
 
 ## Chapter 15
 
-{% img /img/es/eventstory/stellamaris/p2_15.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_e67935e59s9Fiih1.webp?timestamp=1737711197249 %}
 
 {% bubble Eichi %}
 Fufu. “Stella Maris”, was it? It’s a perfectly fitting name here.
@@ -1476,7 +1476,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 “kona-chan — my adorable [little brother] has been trying to experience ‘those things’ with [sparkles] in his eyes.”
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_15_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_D5D67935e59ZfV03.webp?timestamp=1737711197245 %}
 
 {% bubble Konata norsmile %}
 ……………
@@ -1510,7 +1510,7 @@ Well, I can totally tell that you’re acting super excited like a little kid, E
 “so please watch us, and learn who we are.”
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_g77p67935b35cCt4.webp?timestamp=1737710396343 %}
 
 {% bubble Kanata stellabcg %}
 “come on now\~♪ it is not dangerous\~, it is not scary\~ it will be alright\~ no matter what happens, we <em>will</em> protect you, okay?”

@@ -194,7 +194,7 @@ There’s something about it I’ve been struggling with a little… Could I ask
                 </a>
             </div>
             <a target="_blank" href="/vs_gourmet#Mini-Talks" title="Index"><i class="fa fa-star"></i></a>
-            <a href="/vs_gourmet/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Represent Myself"><i class="fa fa-arrow-right"></i></a>
+            <a href="/vs_gourmet/minitalk/chiaki_2" title="Chiaki Mini Talk: In Order To Express Myself"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's first Mini Talk from Stella Maris. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4d467935bdaknd73.webp?timestamp=1737710558553 %}
 
 {% bubble Kanata v2 %}
 anzu-san, what perfect timing~♪ do you have some [time] right now?
@@ -101,7 +101,7 @@ here you go~♪ it is a [pearl accessory]…♪
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935bdaH7BdymR0.webp?timestamp=1737710558341 %}
 
 {% bubble Kanata v2 %}
 the other day, i visited another [aquarium], as i thought it would be good to learn more about [rival] businesses.
@@ -152,7 +152,7 @@ the [accessory gift] i gave you is made with the [pearls] i retrieved then.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_tWX0PM67935bdaR6.webp?timestamp=1737710558284 %}
 
 {% bubble Kanata v2 %}
 right, i was able to give you the gift, so i should go to where everyone is now.

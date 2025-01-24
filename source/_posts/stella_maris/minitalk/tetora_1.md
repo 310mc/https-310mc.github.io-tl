@@ -50,7 +50,7 @@ description: "[ES!!] Tetora's first Mini Talk from Stella Maris. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Ik3MTo67935c80T6.webp?timestamp=1737710723218 %}
 
 {% bubble Tetora v2 %}
 'Suup, Anego! Are you shopping?
@@ -103,7 +103,7 @@ I bought way more than I planned, 'cuz they were having a huge sale…
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_RWGsK67935c80Ds5.webp?timestamp=1737710723595 %}
 
 {% bubble Tetora v2 %}
 Actually, I'm gonna get a share of fresh seafood from Shinkai-senpai.
@@ -154,7 +154,7 @@ So I plan to make a full course meal with the seafood once I'm back at the dorms
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mG67935c80A0vkv2.webp?timestamp=1737710723412 %}
 
 {% bubble Tetora sightired %}
 Since I'm making a whole meal and everything, I wanted to treat Ryuseitai to a meal, too.

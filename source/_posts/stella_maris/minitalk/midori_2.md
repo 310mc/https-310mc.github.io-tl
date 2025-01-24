@@ -50,7 +50,7 @@ description: "[ES!!] Midori's second Mini Talk from Stella Maris. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7sO7uB67935bdax6.webp?timestamp=1737710560290 %}
 
 {% bubble Midori sightired %}
 Ah, Anzu-san. The truth is, I'm going to Okinawa with everyone in Ryuseitai tomorrow.
@@ -101,7 +101,7 @@ I don't hate going out on trips, but I'm a little anxious about a bunch of thing
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7Xs67935bdadZr53.webp?timestamp=1737710557699 %}
 
 {% bubble Midori norsmile %}
 Oh yeah. Since I'm going to Okinawa and all, is there any souvenir you'd like?
@@ -152,7 +152,7 @@ If there's anything else you'd like, please let me know. Ahh, but I can't really
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935bdaQeWue0s0.webp?timestamp=1737710558026 %}
 
 {% bubble Midori norsmile %}
 Whew… Talking to you has made me feel excited for my trip to Okinawa~♪

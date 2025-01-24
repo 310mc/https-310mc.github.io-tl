@@ -50,7 +50,7 @@ description: "[ES!!] Kanata's second Mini Talk from Stella Maris. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_IC67935bdaZCK0p2.webp?timestamp=1737710562317 %}
 
 {% bubble Kanata v2 %}
 …oh? anzu-san, hello~
@@ -101,7 +101,7 @@ i will be ryuseitai's [leader] next. so i am asking people with experience in [l
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_w2P67935bda4dJi3.webp?timestamp=1737710559193 %}
 
 {% bubble Kanata v2 %}
 ehe. i feel as though i took [one step forward] as a [leader]…♪
@@ -153,7 +153,7 @@ since we are talking, i would love to hear [advice] from you, if you have any~�
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_kanata2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_G67935bdaFTRxDS1.webp?timestamp=1737710562341 %}
 
 {% bubble Kanata v2 %}
 i think i pushed myself to the limits, so i am exhausted now… it is time i take a [break].

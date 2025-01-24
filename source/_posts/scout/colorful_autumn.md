@@ -1262,7 +1262,7 @@ I only know what I’ve heard from Midori-kun, but there’s even a competition 
 {% endbubble %}
 
 {% bubble Souma v3 %}
-Is that so. So far Nagumo and Buchou-dono have drawn something, but I have yet to do so. Let’s see, it’s time I draw while looking at Anzu-dono’s drawings…♪
+I see. So far Nagumo and Buchou-dono have drawn something, but I have yet to do so. Let’s see, it’s time I draw while looking at Anzu-dono’s drawings…♪
 
 …Hm, it’s quite difficult to draw.
 

@@ -74,7 +74,7 @@ description: "[ES!!] It is Kanata’s turn to be the commander of Ryuseitai. The
     <p><span><b>Season:</b> Spring (ES 2nd Year, May)</span></p>
 </div>
 
-{% img /img/es/eventstory/stellamaris/p2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_gCqA67935d3f1BR4.webp?timestamp=1737710915471 %}
 
 <div class="msr-narration">
     <p>Next day. Okinawa main island, at the ES Okinawa branch…</p>
@@ -264,7 +264,7 @@ I assume that Tenshouin can see the “full picture”, more than any of us. So 
 
 ## Chapter 2
 
-{% img /img/es/eventstory/stellamaris/p2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_HLD67935d3fUizm3.webp?timestamp=1737710915112 %}
 
 <div class="msr-narration">
     <p>Several minutes later. In the ES Okinawa branch, the reception office…</p>
@@ -482,7 +482,7 @@ If that sounds detestable to you, then it’s time to brace yourselves and take 
 Despite everything, I’m expecting a lot from you, Ryuseitai.
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935d3fqAXhzhC0.webp?timestamp=1737710915224 %}
 
 <div class="msr-narration">
     <p>Nearly an hour later. At a restaurant near the ES Okinawa branch building…</p>
@@ -618,7 +618,7 @@ I know Okinawans aren’t bothered by trivial things, but it’s still garnering
 ahh, kona-chan is wearing these [clothes], after all~ he will naturally stand out.
 {% endbubble %}
 
-{% img /img/es/eventstory/stellamaris/p2_4.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_67935d3fBJRYnba0.webp?timestamp=1737710915727 %}
 
 {% bubble Konata curious %}
 …Is my attire strange? Now that you mention it, my attire isn’t different from Mizusaba-san alone — It’s quite different from people outside the island in general, isn’t it?
@@ -1045,7 +1045,7 @@ Her physical health is perfectly fine, however. She always treats me so kindly.
 {% endbubble %}
 
 {% bubble Kanata smile %}
-is that so… then i am glad to hear that.
+i see… then i am glad to hear that.
 
 i was [worried] for you at first, you know. kona-chan [dresses] exactly how i used to in the past—
 

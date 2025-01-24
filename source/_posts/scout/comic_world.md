@@ -440,7 +440,7 @@ That’s why we have pillows on the floor. But then she started to feel tired, s
 {% endbubble %}
 
 {% bubble Keito %}
-Is that so… Well, I suppose it wouldn’t turn into some romance if you two are the ones in question.
+I see… Well, I suppose it wouldn’t turn into some romance if you two are the ones in question.
 
 But you wouldn’t want anyone to get the wrong idea, so you should be more wary of the distance between you.
 {% endbubble %}

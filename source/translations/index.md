@@ -321,7 +321,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/stellamaris/kanatabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_Zbig67935b352Cm4.webp?timestamp=1737710395412"
                 alt="Stella Maris – Climax Event"
             />
         </div>

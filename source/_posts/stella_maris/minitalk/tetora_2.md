@@ -50,7 +50,7 @@ description: "[ES!!] Tetora's second Mini Talk from Stella Maris. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_767935c80nt97yb1.webp?timestamp=1737710723301 %}
 
 {% bubble Tetora frown %}
 Uumyu… There's still so much I dunno…
@@ -101,7 +101,7 @@ Huh? You'll hear me out? You're really kind, Anzu-Anego.
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Asa67935c80cCve3.webp?timestamp=1737710723451 %}
 
 {% bubble Tetora v2 %}
 Truth is, I have to do a job related to a fish commercial.
@@ -154,7 +154,7 @@ But there's just so many types of fish that I don't feel like I'll be able to le
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_tetora2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_T867935c80aju8U2.webp?timestamp=1737710724073 %}
 
 {% bubble Tetora v2 %}
 I've got no choice but to go step by step, and start from whatever I'm capable of. I'll also ask Shinobu-kun and Midori-kun for their advice.

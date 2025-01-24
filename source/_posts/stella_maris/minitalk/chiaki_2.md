@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's second Mini Talk from Stella Maris. From Anzu's PO
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_4H67935bdaWGfJ22.webp?timestamp=1737710559116 %}
 
 {% bubble Chiaki %}
 I feel like it's been a while since you and I ate together in the cafeteria!
@@ -101,7 +101,7 @@ Us Ryuseitai had been practicing for a commercial, and had even gone to Okinawa.
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_kw7lUmm67935bda7.webp?timestamp=1737710559339 %}
 
 {% bubble Chiaki northinking %}
 Okinawa was pretty hot even in this period of time. I got a sunburn from it.
@@ -154,7 +154,7 @@ My arms and face sting a little.
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jxkr0667935bdaJ6.webp?timestamp=1737710560252 %}
 
 {% bubble Chiaki %}
 Oh yeah, I bought some souvenirs. At first, I had told my unitmates that we aren't here for a fun sightseeing trip, but everyone looked like they wanted to buy something in the end.

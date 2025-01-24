@@ -50,7 +50,7 @@ description: "[ES!!] Chiaki's first Mini Talk from Stella Maris. From Anzu's POV
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_I67935bdapx28VJ1.webp?timestamp=1737710559133 %}
 
 {% bubble Chiaki frown %}
 Mmm~… It's just not going well…
@@ -104,7 +104,7 @@ No— Don't give up now, Morisawa Chiaki! As long as you don't give up, you'll b
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Aq67935bdau7Mln2.webp?timestamp=1737710559001 %}
 
 {% bubble Chiaki %}
 Mm? You'll stitch up my tracksuit for me?
@@ -156,7 +156,7 @@ But… That means I'll have nothing to do. Hm, is there anything I could help yo
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/stellamaris/minitalk_chiaki1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_mDEX767935bdaxW5.webp?timestamp=1737710559749 %}
 
 {% bubble Chiaki %}
 Oh— You're already done? You're incredible as always, Anzu!
