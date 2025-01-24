@@ -145,7 +145,7 @@ Ah, I was thinking something similar just now. It’s always so nice to share so
 {% endbubble %}
 
 {% bubble Chiaki worried %}
-Why did you have to add *that!?* Then who would you have preferred to be with right now instead?
+Why did you have to add *that!?* Then who would you have instead preferred to be with right now?
 
 Nagumo? Sengoku? Or maybe Kanata? Why’re you always so blunt towards just me!? Your dear ol’ grandpa feels so lonely!
 {% endbubble %}

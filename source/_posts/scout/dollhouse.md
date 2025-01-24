@@ -1527,7 +1527,7 @@ Hm? Is that a phone?
 {% bubble Tsumugi %}
 Yes. I didn’t know who it belonged to, so I had no choice but to peek in to know… It looks like it belongs to Mika-kun.
 
-I figured he would need this back, so I’ve been looking for him, but — I can’t find him anywhere.
+I figured he would need this back, so I’ve been looking for him, but I can’t find him anywhere.
 {% endbubble %}
 
 {% bubble Chiaki %}

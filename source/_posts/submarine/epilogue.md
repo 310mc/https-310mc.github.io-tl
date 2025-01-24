@@ -155,7 +155,7 @@ You gonna be okay from here, Ninja-man? You’re not gonna disappear on us in th
 {% endbubble %}
 
 {% bubble Chiaki fist %}
-No worries! I’ve calculated and prepared everything to make sure I only disappear for a moment, without it being unnatural!
+Not to worry! I’ve calculated and prepared everything to make sure I only disappear for a moment, without it being unnatural!
 
 I even double-checked with the SS administration committee to make sure if the way I planned it was okay, and they were alright with it!
 {% endbubble %}

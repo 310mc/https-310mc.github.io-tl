@@ -250,7 +250,7 @@ You look really happy, Takamine.
 {% endbubble %}
 
 {% bubble Midori %}
-Huh? Y-You think so…? I love mascots, and, um… I’m sorry if you think that’s creepy.
+Huh? Y-You think so…? I love mascots, and, um… I’m sorry if you think that’s gross.
 {% endbubble %}
 
 {% bubble Adonis norsmile %}

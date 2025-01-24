@@ -165,7 +165,7 @@ ah, but it would probably be painful to do that in a [cold] place with [drift ic
         </div>
         <div class="minitalk-option_content">
             {% bubble Kanata v2 %}
-            fufu, i am just [joking]. i know i could die if i were to [puka puka] in [extremely cold] places.
+            fufu, i am just [joking]. i know i could die if i [puka puka] in [extremely cold] places.
 
             i will settle with having a [splish splash] time, instead~♪
 			{% endbubble %}

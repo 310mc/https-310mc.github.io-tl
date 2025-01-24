@@ -582,7 +582,7 @@ I see. It may be a holiday, but that does not mean there is no one around. Be ca
 {% endbubble %}
 
 {% bubble Madara %}
-Hahaha, you should be talking more about how I *shouldn’t* be running in the corridors. But it makes sense that you didn’t, considering you used to be a problem child, too… Wait, this conversation is going nooowhere.
+Hahaha, you should be talking more about how I *shouldn’t* be running in the corridors. But it makes sense that you didn’t, considering you used to be a troublemaker, too… Wait, this conversation is going nooowhere.
 
 I’m truly sorry! My bad, it’s just that it’s aaalways fun talking to you! I could go on for hours about pointless stuff!
 
@@ -778,7 +778,7 @@ You should go there with a friend. Hopefully these tickets are a good enough rew
 {% bubble Madara %}
 Oh yeah, this is a godsend. I also saw Kanata-san walking around selling them, but whenever I asked for one, he wouldn’t sell me aaany for some reason.
 
-And I thought I’d be pushing it *too* far if I were to go and buy a ticket from the aquarium myself.
+And I thought I’d be pushing it *too* far if I went and bought a ticket from the aquarium myself.
 
 But if you’re gonna give me one, theeen I can now go there with the excuse that it’s where I was fated to be.
 {% endbubble %}

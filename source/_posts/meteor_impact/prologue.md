@@ -143,7 +143,7 @@ That sounds like cannibalism to me… Uuu\~ I just imagined something terribly g
 {% endbubble %}
 
 {% bubble Chiaki %}
-Heeey! I’d love to chat all night, but it’s dark outside now. We’ve finished our work, so it’s time to withdraw ourselves!
+Heeey! I’d love to chat all night, but it’s dark outside now. We’ve finished our work, so it’s time we call it a day!
 
 You’ve all done an excellent job today!
 

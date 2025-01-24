@@ -100,7 +100,7 @@ The truth is, Yuzuru won’t be around for a while because he’s busy with work
 
 I only just moved to the Seisoukan Dorm, and I always left everything for Yuzuru to handle, so I don’t really know how you’re meant to do things.
 
-My servants would do all the work for me if I were to go back home, but… I won’t be able to grow if I keep going back home whenever Yuzuru isn’t around.
+My servants would do all the work for me if I went go back home, but… I won’t be able to grow if I keep going back home whenever Yuzuru isn’t around.
 
 It’s just — I don’t know how you’re supposed to do *anything!* When I tried ironing my clothes, I somehow ended up making more creases! How’s that even possible?
 

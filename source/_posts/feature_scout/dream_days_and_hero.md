@@ -548,7 +548,7 @@ Ah! Y’know what, how about taking photos of you hanging out at the Basketball 
 
 Maybe it’s not so rare to see you play sports, but isn’t it a pretty rare sight to see Chi~chan-senpai teach his juniors as an alumni?
 
-Like, if I were to say it in a way you would, it’s like when past heroes appear in a tokusatsu movie and stuff!
+Like, if I said it in a way you would, it’s like when past heroes appear in a tokusatsu movie and stuff!
 {% endbubble %}
 
 {% bubble Chiaki shocked %}

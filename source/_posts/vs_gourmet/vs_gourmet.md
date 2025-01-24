@@ -318,15 +318,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--勇気のpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--正義GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--野菜の励まし--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -354,15 +354,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--輝くpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--元気GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--試行錯誤レシピ--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -390,15 +390,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--弾むpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--活動GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--競技前の距離--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -426,15 +426,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--歌うpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--意外GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--畑での反省--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -462,15 +462,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--発見のpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--協賛GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--心休まる場所--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>
@@ -498,15 +498,15 @@ permalink: vs_gourmet/
                                     <div class="skills">
                                         <ul>
                                             <li id="center">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--甘いpiece--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="live">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--歓待GOURMET--></div>
                                                 <div class="desc"></div>
                                             </li>
                                             <li id="lesson">
-                                                <div class="name"><!--TBA--></div>
+                                                <div class="name"><!--強気な挑戦--></div>
                                                 <div class="desc"></div>
                                             </li>
                                         </ul>

@@ -774,9 +774,9 @@ It appears to be a common understanding that the majority of *idols’* strange 
 {% bubble Midori frown %}
 Yeah, but it’s hard to tell what someone’s order is if they’re already the type to act weird…
 
-Like, for example, Morisawa-senpai’s been acting suspiciously ever since we arrived to Okinawa—
+Like, for example, Morisawa-senpai’s been acting suspiciously ever since we arrived in Okinawa—
 
-But I can’t tell if it’s ‘cause of his order, or if he’s just being his usual self.
+But I can’t tell if it’s because of his order, or if he’s just being his usual self.
 {% endbubble %}
 
 {% bubble Keito srsthinking %}

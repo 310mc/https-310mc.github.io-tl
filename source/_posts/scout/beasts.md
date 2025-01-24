@@ -512,7 +512,7 @@ Even *Izumi-chan* praised me for it. For once, he genuinely told me I did a good
 
 I shouldn’t be upset at all. I should be twirling around in excitement. That’s how I roll… That’s how Narukami Arashi would react.
 
-At this point, I wouldn’t feel hurt at all by people’s words, whether it’s telling me I’m manly or cool… Or hurtful things, like “creepy” or “shitty okama”[^3]…
+At this point, I wouldn’t feel hurt at all by people’s words, whether it’s telling me I’m manly or cool… Or hurtful things, like “disgusting” or “shitty okama”[^3]…
 
 No matter what anyone says, I love myself most.
 

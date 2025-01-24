@@ -160,7 +160,7 @@ i think i pushed myself to the limits, so i am exhausted now… it is time i tak
 
 anzu-san, you will go meet with shinobu and tetora for [something], yes?
 
-may i join you? i feel like if i were to see those [two], it would soothe me…♪
+may i join you? i feel like if i got to see those [two], it would soothe me…♪
 {% endbubble %}
 
 <div class="minitalk" character="Anzu">

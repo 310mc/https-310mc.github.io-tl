@@ -823,7 +823,7 @@ Huh? Nice-P, you know about Ra*bits?
 {% bubble Nice norsmile %}
 Fufu, there are many things I could talk about regarding all of you, but…[^16]
 
-Ah, no, as a judge, I would simply be meddling if I were to speak any further than this. Talking endlessly is a bad habit of mine.
+Ah, no, as a judge, I would simply be meddling if I spoke any further than this. Talking endlessly is a bad habit of mine.
 
 Oh dear. It seems that it’s about time for the screening evaluation.
 {% endbubble %}

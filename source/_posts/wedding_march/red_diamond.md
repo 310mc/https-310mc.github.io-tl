@@ -1867,7 +1867,7 @@ Your partner would be me, Sena.
 {% endbubble %}
 
 {% bubble Izumi glare %}
-Hah… Ex<em>cuse</em> me!? It was written in the project plan that I’d get paired with Yuu-kun if I were to join, so what gives!?
+Hah… Ex<em>cuse</em> me!? It was written in the project plan that I’d get paired with Yuu-kun if I joined, so what gives!?
 
 I came <em>all</em> the way here from Florence <em>specifically</em> for those few hours I could have with Yuu-kun, y’know!?
 {% endbubble %}

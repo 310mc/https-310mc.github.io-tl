@@ -122,7 +122,7 @@ It’s good manners to show respect to your seniors!
 {% bubble Souma %}
 Well done. That is indeed proper manners.
 
-I had thought you were a problem child since you have often opposed school rules, but… You are more well-mannered than I expected.
+I had thought you were a troublemaker since you have often opposed school rules, but… You are more well-mannered than I expected.
 {% endbubble %}
 
 {% bubble Hinata %}
@@ -470,7 +470,7 @@ Come, come, come! I’ll give you some of their food too~♪
 {% endbubble %}
 
 {% bubble Kanata frown %}
-hmm… i love [fish], but if i were to eat it [raw], it would hurt my [stomach].
+hmm… i love [fish], but if i eat it [raw], it will hurt my [stomach].
 
 you need to at least prepare it and make it into [sashimi] first.
 {% endbubble %}

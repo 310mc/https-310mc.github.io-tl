@@ -144,7 +144,7 @@ But there's just so many types of fish that I don't feel like I'll be able to le
         </div>
         <div class="minitalk-option_content">
             {% bubble Tetora v2 %}
-            Oh yeah, maybe it'll be easier to remember if I were to see them in real life.
+            Oh yeah, maybe it'll be easier to remember if I got to see them in real life.
 
             I think I'll try and find the time to go to one! I'm so glad I asked you for advice, Anego~♪
 			{% endbubble %}

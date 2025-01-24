@@ -72,7 +72,7 @@ Isn’t it so cute? It’s a new drawing from Master Artist Fushimi…♪
             You’re on the mark, but you’re looking at it from the opposite angle. This is the correct way to look at it.
             {% endbubble %}
             {% bubble Midori nod %}
-            The more I look at it, the more there is to enjoy about it… It’s such a soothing drawing to look at, don’t you think?
+            The more I look at it, the more there is to appreciate about it… It’s such a soothing drawing to look at, don’t you think?
 
             Ahh~ This must be what you call a “God-given talent”. This is the one time I want to express my gratitude to God…♪
 			{% endbubble %}
