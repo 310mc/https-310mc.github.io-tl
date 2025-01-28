@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Midori's second Mini Talk from Ninja Clan. F
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6bYQS67993399zO5.webp?timestamp=1738093473801 %}
 
 {% bubble Midori %}
 I'm so sorry for making you help me with packing up the eggplants.
@@ -101,7 +101,7 @@ I sent him this urgent message the other day, but he arrived late to our meeting
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_midori2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_6667993399CPu4B2.webp?timestamp=1738093470348 %}
 
 {% bubble Midori %}
 Whew… I packed a lot inside, so it's heavier than expected…
@@ -152,12 +152,12 @@ I'm gonna carry this over to Seisoukan Dorm, so I'd like to go down to the lobby
 
 #### <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_midori2_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_uggR67993399ToZ4.webp?timestamp=1738093473471 %}
 
 {% bubble Midori smile %}
 Alright, we'll have to part ways here. Thank you for your hard work, Anzu-san.
 
-I'm gonna place this box in front of Morisawa-senpai's room. I'm excited to see how he'll react…♪
+I'm going to place this box in front of Morisawa-senpai's room. I'm excited to see how he'll react…♪
 
 Oh, and this eggplant is for you. It's my thanks for helping me out, so please take it.
 {% endbubble %}

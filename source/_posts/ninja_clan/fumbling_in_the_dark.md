@@ -153,7 +153,7 @@ You’re fine with that, right, Midori-kun?
 Mhm, sure. We have time before our on-campus live show, so we don’t *have* to sort it out by today.
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/tetoraorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Eu7eeV67993340z6.webp?timestamp=1738093381550 %}
 
 {% bubble Tetora v2 %}
 Yeah, and besides! If one person can’t think up somethin’ on their own, then with three people we’ll have three heads to brainstorm with—
@@ -409,7 +409,7 @@ Yep, not to mention, heroes are supposedly the type to come rushing to the rescu
     <p><span><b>Location:</b> Meeting Room</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/3ch3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_vzPV67993399Pim4.webp?timestamp=1738093471528 %}
 
 <div class="msr-narration">
     <p>Next day…</p>
@@ -439,7 +439,7 @@ I said I did already, didn’t I? And I *did* get the timing right.
 Huh, okay, that’s weird then… What did you even send them, anyway?
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_EH4x67993340qu24.webp?timestamp=1738093380854 %}
 
 {% bubble Midori smile %}
 Ermm… My message was—Ahh, here, this one.
@@ -509,7 +509,7 @@ fufufu, fufufufufufu~♪
 Hm?
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/3ch3_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_v6799339961rkGm1.webp?timestamp=1738093470457 %}
 
 {% bubble Chiaki v2 %}
 Heroes always arrive in the nick of time! The wind howls, the sky rages — Ryusei Red!

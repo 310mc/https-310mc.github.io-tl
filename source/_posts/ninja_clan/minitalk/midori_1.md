@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Midori's first Mini Talk from Ninja Clan. Fr
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_DNTFQF67993399V6.webp?timestamp=1738093473672 %}
 
 {% bubble Midori %}
 Um… Let's get close slowly, and fling my net on the bug at the right moment… slooowly…

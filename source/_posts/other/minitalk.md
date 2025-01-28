@@ -12,7 +12,7 @@ description: "Ensemble Stars (Enstars) Mini Talks story translations by 310mc."
 permalink: minitalk/
 ---
 
-{% img /img/es/eventstory/cometshow/minitalk_midori2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_jk7fetS679935af7.webp?timestamp=1738094010408 %}
 
 <big><b>Mini Talk translations by 310mc.</b></big>
 
@@ -275,7 +275,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_c4679937f40wzBZ2.webp?timestamp=1738094584246"
                 alt="Worrisome Days"
             />
         </div>
@@ -287,7 +287,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_679937f4j9ipED30.webp?timestamp=1738094587141"
                 alt="Topics About That Guy"
             />
         </div>
@@ -363,7 +363,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_p1Ha6799326bpZz4.webp?timestamp=1738093173924"
                 alt="Relaxing Gameplay"
             />
         </div>
@@ -375,7 +375,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_i6799326bQimwhG1.webp?timestamp=1738093174731"
                 alt="Eeeggy-eggy-eggyplant"
             />
         </div>
@@ -387,7 +387,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_C6799326bTkSgiH1.webp?timestamp=1738093174742"
                 alt="Thrilling Gameplay"
             />
         </div>
@@ -399,7 +399,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_bcNgi6799326bZZ5.webp?timestamp=1738093174965"
                 alt="I Don't Get It"
             />
         </div>
@@ -411,7 +411,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_K6799326b7Znpa81.webp?timestamp=1738093175004"
                 alt="An Invasion from a Formidable Enemy"
             />
         </div>
@@ -423,7 +423,7 @@ permalink: minitalk/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_LdYYZQa6799326b7.webp?timestamp=1738093173916"
                 alt="Sightseeing the Historical Village"
             />
         </div>

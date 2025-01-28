@@ -69,7 +69,7 @@ permalink: nekketsu_ryusei_ninpouchou/
 
 <h4 style="text-align:center;">Nekketsu ☆ Ryusei Ninpouchou – Zealous ☆ Meteor Ninja Art Scroll</h4>
 
-{% img /img/es/eventstory/ninjaclan/songcover.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_V67993399lM5BeL1.webp?timestamp=1738093474457 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=WR3I0YhUsLU" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

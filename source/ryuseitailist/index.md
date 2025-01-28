@@ -7,7 +7,7 @@ description: "Ryuseitai Story Reading List with recommended stories to read (Con
 
 ## Introduction
 
-<big>Full story list with filters <a href="/ryuseitaistory" target="_blank">can be found here</a>.</big>
+<p style="font-size:1.3m;">Extended Story list with filters <a href="/ryuseitaistory" target="_blank">can be found here</a>.</p>
 
 Hi! In here you'll find a list of Ryuseitai stories to get you started on reading about them (or maybe to check what you haven't read so far!). I'll start by explaining a few things.
 
@@ -27,33 +27,32 @@ Notes:
 <li>There are a lot of stories listed, so I've <strong>bolded</strong> the ones that help with understanding Ryuseitai's storyline and development.</li>
 <li>Some stories don't have all of Ryuseitai in it, but are related to Ryuseitai's storyline. I'll mention which unit members appear!</li>
 <li>A lot of non-Ryuseitai stories cover a decent chunk of their individual development and character as well. I'll add these as bonus stories, for people who want more to read.</li>
-<li>Some stories will have translation links in the list. If a listed story doesn't have a link, please check the translation masterlist here: <strong><a href="https://enstarsmasterlist.github.io/scoutevent" target="_blank">EVENT/SCOUT TRANSLATIONS</a> — <a href="https://enstarsmasterlist.github.io/featureidol" target="_blank">IDOL/FEATURE TRANSLATIONS</a></strong>
-<ul><li>If a translation can't be found in the above masterlist, try searching online with keywords such as "Enstars translation (story name)".</li></ul></li>
+<li>Some stories will have translation links in the list. If a translation can't be found, try searching online with keywords such as "Enstars translation (story name)".</li>
 <li>This is not an exhaustive list and could still be further improved. I'll continue to update and add more stories! Please feel free to contact me about the list on <a href="https://retrospring.net/@310mc" target="_blank">retrospring</a> or on <a href="https://twitter.com/310mc1" target="_blank">Twitter</a>.</li>
 </ul>
 
 ### 2015 Stories
 
 <ul class="list">
-<li><strong><a href="https://enstars-translates.dreamwidth.org/1179.html" target="_blank">Hero Show</a></strong></li>
-<li><a href="https://enstars-translates.dreamwidth.org/4610.html" target="_blank">Pirate Festival</a></li>
+<li><strong><a href="https://enstars-translates.dreamwidth.org/1179.html" target="_blank">Hero Show</a></strong> (Translation by enstars-translates)</li>
+<li><a href="https://enstars-translates.dreamwidth.org/4610.html" target="_blank">Pirate Festival</a> (Translation by enstars-translates)</li>
 <li><a href="/morning_practice" target="_blank">Morning Practice</a> → Only has Midori, Chiaki and Kanata.</li>
 <li><a href="/tough_guy" target="_blank">Tough Guy</a> → Only has Chiaki, Midori and Tetora.</li>
 <li><strong><a href="/christmas_live" target="_blank">Christmas Live</a></strong>
-<ul class="list2"><li>For Shinobu and Kanata, bonus story to read is <u>Crash Course</u>!</li></ul></li>
+<ul class="list2"><li>For Shinobu and Kanata, bonus story to read is <a href="https://enstars-translates.dreamwidth.org/9657.html" target="_blank">Crash Course</a>!</li></ul></li>
 </ul>
 
 ### 2016 Stories
 
 <ul class="list">
-<li><a href="https://citrinesea.github.io/translation/opera/" target="_blank">Opera</a> (Translation by citrinesea)</li> → Only has Tetora and Chiaki in it.
-<li><strong><a target="_blank" href="https://enstars-translates.dreamwidth.org/20906.html">Strawberry Colored Holiday</a></strong> → Only has Shinobu and Midori in it. Note: This is a post-graduation story that was written before Enstars decided to create the agencies.</li>
+<li><a href="https://citrinesea.github.io/translation/opera/" target="_blank">Opera</a> (Translation by citrinesea) → Only has Tetora and Chiaki in it.</li>
+<li><strong><a target="_blank" href="https://enstars-translates.dreamwidth.org/20906.html">Strawberry Colored Holiday</a></strong> (Translation by enstars-translates) → Only has Shinobu and Midori in it. Note: This is a post-graduation story that was written before Enstars decided to create the agencies.</li>
 <li>Triumph of the Emperor</li>
 <li><strong>Supernova</strong>
 <ul class="list2"><li>In my opinion, <u>Hero Show</u> acts as a prequel to this story!</li></ul></li>
-<li>Beach Match</li>
+<li><a target="_blank" href="https://enstars-translates.dreamwidth.org/34507.html">Beach Match</a> (Translation by enstars-translates)</li>
 <li><strong><a href="https://citrinesea.github.io/translation/scroll_of_the_elements/" target="_blank">Scroll of the Elements</a></strong> (Translation by citrinesea)</li>
-<li>Holiday Party</li>
+<li><a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Holiday%20Party">Holiday Party</a></li>
 </ul>
 
 ### 2017 Stories
@@ -64,7 +63,7 @@ Notes:
 <li>For Tetora, bonus stories to read are <u>The Four Beasts of Fistfighting</u> and <a href="/beasts" target="_blank">Beasts</a>!</li></ul></li>
 <li><strong>Sparkly First Years</strong> → Only has Shinobu, Midori, and Chiaki.</li>
 <li>Purple Wisterias of May → Only has Chiaki, Shinobu, and Kanata.<ul class="list2"><li>For Kanata, bonus story to read is <a href="/aquarium" target="_blank">Aquarium</a>!</ul></li></li>
-<li>Shooting Star Festival</li>
+<li><a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Shooting%20Star%20Festival">Shooting Star Festival</a></li>
 <li><strong><a href="/hero_game" target="_blank">Hero Game</a></strong> → 1-chapter Idol Story.</li>
 <li><a href="/legendary_hero" target="_blank">Legendary Hero!</a> → 1-chapter Idol Story. Only has Tetora, Chiaki, and Midori.</li>
 <li><strong><a href="/sweet_halloween" target="_blank">Sweet Halloween</a></strong></li>
@@ -84,7 +83,7 @@ Notes:
 ### 2019 Stories
 
 <ul class="list">
-<li>Hot &amp; Elegant Chocolat Fes</li>
+<li><a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Hot%20&%20Elegant%20Chocolat%20Fes">Hot &amp; Elegant Chocolat Fes</a></li>
 <li><strong><a href="/meteor_impact" target="_blank">Meteor Impact</a></strong>
 <ul class="list2"><li>For Kanata, bonus stories to read are <a href="/comic_world" target="_blank">Comic World</a> and <a href="https://twilightmalachite.tumblr.com/altered" target="_blank">Altered</a>! (Note: Altered is set in !! Era)</li>
 <li>For Chiaki, bonus stories are <a href="/crossroad" target="_blank">Crossroad</a> and <a href="/gang" target="_blank">Gang</a>!</li></ul></li>
@@ -99,20 +98,20 @@ Notes:
 <ul class="list2"><li>Bonus stories are their Idol Story 2, which involve either one Ryuseitai member or all of them! Here are <a href="/idol_story/kanata_2" target="_blank">Kanata's</a> and <a href="/idol_story/midori_2" target="_blank">Midori's</a>.</li></ul></li>
 <li><strong>!! Era 1st Main Story</strong> (Full translation can only be found on the Official English version of the game) → Ryuseitai is only in a few chapters but what happens to them here is pretty important! Here is a translation of <a href="/es2_mainstory/ch123_124" target="_blank">a few chapters some appear in</a>.</li>
 <li><strong><a href="/motor_show" target="_blank">Motor Show</a></strong>
-<ul class="list2"><li>For Tetora, bonus story to read is <u>Turn of the Century Wars</u>!</li></ul></li>
+<ul class="list2"><li>For Tetora, bonus story to read is <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Turn%20of%20the%20Century%20Wars">Turn of the Century Wars</a>!</li></ul></li>
 <li><strong><a href="/comet_show" target="_blank">Comet Show</a></strong></li>
 <li><strong><a href="/submarine" target="_blank">Submarine</a></strong> → Related to Scroll of the Elements and Meteor Impact!</li>
 <li><a href="/ninja_clan" target="_blank">Ninja Clan</a> → Related to Scroll of the Elements!</li>
-<li>SS Finals → Ryuseitai isn't in all the chapters but their scenes are good!</li>
+<li><a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#SS%20Finals">SS Finals</a> → Ryuseitai isn't in all the chapters but their scenes are good!</li>
 <li><strong><a href="/supervillain" target="_blank">Supervillain</a></strong>
-<ul class="list2"><li>For Tetora and Midori, bonus story to read is <u>High and Low!</u></li>
-<li>For Tetora and Shinobu, bonus story is <u>Black Jack!</u></li>
-<li>And for Tetora only, bonus story is <u>Dragon's Head!</u></li></ul></li>
+<ul class="list2"><li>For Tetora and Midori, bonus story to read is <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#High%20and%20Low">High and Low!</a></li>
+<li>For Tetora and Shinobu, bonus story is <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Black%20Jack">Black Jack!</a></li>
+<li>And for Tetora only, bonus story is <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Dragon's%20Head">Dragon's Head!</a></li></ul></li>
 <li><a href="/parallel_world" target="_blank">Parallel World</a> → Ryuseitai appear in only one chapter, and the link is a translation of only that chapter.</li>
 <li><strong><a href="/tropical" target="_blank">Tropical</a></strong></li>
 <li><strong><a href="/stella_maris" target="_blank">Stella Maris</a></strong>
 <ul class="list2"><li>For Kanata, bonus story to read is <a href="/abyss" target="_blank">ABYSS</a>!</li>
-<li>For Shinobu, bonus stories are <u>Atlantis</u> and <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>!</li></ul></li>
+<li>For Shinobu, bonus stories are <a target="_blank" href="https://enstarsmasterlist.github.io/scoutevent#Atlantis">Atlantis</a> and <a href="https://twilightmalachite.tumblr.com/2x2" target="_blank">2x2</a>!</li></ul></li>
 <li><strong><a href="/vs_gourmet" target="_blank">VS★GOURMET</a></strong> → Mainly focuses on Chiaki, but the rest of Ryuseitai also appear and hold a very crucial role in Chiaki's activities!</li>
 <li><strong><a href="/wildland" target="_blank">WILDLAND</a></strong></li>
 </ul>

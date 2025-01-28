@@ -61,7 +61,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
     <p><span><b>Location:</b> Classroom 2-A</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/2ch1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7GF8ajp679933997.webp?timestamp=1738093470504 %}
 
 <div class="msr-narration">
     <p>Around the same time, the two are playing a mobile game together…</p>
@@ -256,7 +256,7 @@ I really don’t think that’s what he said…
 {% endbubble %}
 
 ## Chapter 2
-{% img /img/es/eventstory/ninjaclan/shinobuorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_CYMLVN67993340E6.webp?timestamp=1738093381770 %}
 
 {% bubble Shinobu sobangle %}
 <em><th>(sniffs)</th></em>… I-I think I’ve calmed down now…

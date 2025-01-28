@@ -66,7 +66,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
     <p><span><b>Location:</b> Aoumi Aquarium (Main Exhibit)</span></p>
 </div>
 
-{% img /img/es/eventstory/cometshow/p2ch5.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_llP679935af3kLa3.webp?timestamp=1738094009160 %}
 
 <div class="msr-narration">
     <p>Another several minutes later…</p>
@@ -552,7 +552,7 @@ Well, that’s ‘cause there’s no way anyone would be scared of the ocean, un
 “owaaaaaaaaaaaah!?”
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/p2ch7_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OY679935afw7kYf2.webp?timestamp=1738094007281 %}
 
 {% bubble Chiaki surprised0 %}
 Wha—!? W-What’s happening? That was a scream just now… right?
@@ -592,7 +592,7 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
 “so! um, are there any heroes in the aquarium today!? someone who will protect us all!?”
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/midoriorigcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_u7679935afA7VXY2.webp?timestamp=1738094011635 %}
 
 {% bubble Midori cscg %}
 —It’s kinda messy, but… To put it simply, it’s our turn to shine, Senpai.
@@ -604,7 +604,7 @@ As always, you’re so bad at figuring things out. Lemme put it in other words�
     <p><span><b>Location:</b> Comet Show Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/cometshow/p2ch8.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_679935afKJxRUc70.webp?timestamp=1738094010367 %}
 
 <div class="msr-narration">
     <p>At the same time, on the stage within the aquarium…</p>
@@ -638,7 +638,7 @@ Ossu, you got it. *All for one, and one for all*—
 Were we able to become the Ryuseitai our seniors hoped for in the nick of time…?
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/p2ch8_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_QFZ679935afPMzt3.webp?timestamp=1738094008051 %}
 
 {% bubble Kanata v2 %}
 <em><th>(waves)</th></em> heeey, you twooo~♪ i have made the [public announcement] as you told me to. was it good enough?
@@ -738,7 +738,7 @@ So I’ll just steadily work hard to the best of my ability ‘til the day I bec
 I’ll keep doing that, even after you two leave Ryuseitai.
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/p2ch8_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_cE3Ch679935afw45.webp?timestamp=1738094011129 %}
 
 {% bubble Shinobu serious %}
 Ah, about that… I believe that our seniors are possibly—
@@ -768,7 +768,7 @@ so let’s carry out our performance with a [smile] on our faces. this may be wh
     <p><span><b>Location:</b> Aoumi Aquarium (Main Exhibit)</span></p>
 </div>
 
-{% img /img/es/eventstory/cometshow/p2ch9.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_w679935aftnJiVV1.webp?timestamp=1738094008881 %}
 
 {% bubble Chiaki idle %}
 —So in other words…

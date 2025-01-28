@@ -14,7 +14,7 @@ permalink: comet_show/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/cometshow/chiakibcg.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_Oi679935afCHvv92.webp?timestamp=1738094011220')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Comet Show</div>
@@ -101,10 +101,10 @@ permalink: comet_show/
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/cometshow/chiakiorigcg1.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_u7s6799358bYEFs3.webp?timestamp=1738093967520)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/cometshow/chiakibcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_uPY679937f4T4xA3.webp?timestamp=1738094587512"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Comet Show</div>
@@ -210,7 +210,7 @@ permalink: comet_show/
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanataorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_28UQy679935afrC5.webp?timestamp=1738094011221">
                                 </div>
                                 <div class="caption">
                                     Plans for the End 1
@@ -218,7 +218,7 @@ permalink: comet_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakiorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_lNkH679935afjQV4.webp?timestamp=1738094007565">
                                 </div>
                                 <div class="caption">
                                     Week-end at the Aquarium 3
@@ -226,7 +226,7 @@ permalink: comet_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_u7679935afA7VXY2.webp?timestamp=1738094011635">
                                 </div>
                                 <div class="caption">
                                     Week-end at the Aquarium 7
@@ -234,7 +234,7 @@ permalink: comet_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/chiakibcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Oi679935afCHvv92.webp?timestamp=1738094011220">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -242,7 +242,7 @@ permalink: comet_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_IdrKTb679935afZ6.webp?timestamp=1738094012168">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -250,7 +250,7 @@ permalink: comet_show/
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/cometshow/kanatabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_LxN679935afyTDr3.webp?timestamp=1738094011209">
                                 </div>
                                 <div class="caption">
                                     Epilogue 2
@@ -268,10 +268,10 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_qr3K679937f4m4o4.webp?timestamp=1738094584267">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2G679937f4gMmun2.webp?timestamp=1738094586032">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -304,10 +304,10 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_c4679937f40wzBZ2.webp?timestamp=1738094584246">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_679937f4j9ipED30.webp?timestamp=1738094587141">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -340,10 +340,10 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_CWJnx679937f4l75.webp?timestamp=1738094584198">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_e8jzi679937f4NC5.webp?timestamp=1738094585894">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -376,10 +376,10 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_BhIvWV679937f4t6.webp?timestamp=1738094584128">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Bfb9F12679937f47.webp?timestamp=1738094584257">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -412,10 +412,10 @@ permalink: comet_show/
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_YH679937f4IPzde2.webp?timestamp=1738094583989">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/cometshow/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_dGMfB679937f4H75.webp?timestamp=1738094583515">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -540,7 +540,7 @@ permalink: comet_show/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_c4679937f40wzBZ2.webp?timestamp=1738094584246"
                 alt="Worrisome Days"
             />
         </div>
@@ -552,7 +552,7 @@ permalink: comet_show/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_679937f4j9ipED30.webp?timestamp=1738094587141"
                 alt="Topics About That Guy"
             />
         </div>

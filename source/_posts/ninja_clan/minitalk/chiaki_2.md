@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Chiaki's second Mini Talk from Ninja Clan. F
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_chiaki2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_w8GYM679933997c5.webp?timestamp=1738093471484 %}
 
 {% bubble Chiaki %}
 Ooh, this village really brings back a lot of memories for me. The last time I was here was for the Scroll of the Elements performance.
@@ -101,7 +101,7 @@ Oh! There's a samurai walking about! It's like we've been taken back to the era 
 
 #### <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_chiaki2_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_asQ3A467993399X6.webp?timestamp=1738093474202 %}
 
 {% bubble Chiaki %}
 Mhm! Does the outfit look okay like this, Producer!?

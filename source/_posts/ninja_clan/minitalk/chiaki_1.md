@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Chiaki's first Mini Talk from Ninja Clan. Fr
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_chiaki1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Q67993399ttUi6X1.webp?timestamp=1738093470518 %}
 
 {% bubble Chiaki sad %}
 Producer! I'm so glad I found you, I was looking for you!

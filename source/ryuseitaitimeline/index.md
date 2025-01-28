@@ -5,6 +5,8 @@ description: Ryuseitai Timeline in chronological order.
 
 <link rel="stylesheet" href="/cssfolder/orderlist.css">
 
+<p style="font-size:1.2em;text-align:center;">For Ryuseitai's Story Reading List, <a href="/ryuseitaistory" target="_blank">see here</a>!</p>
+
 <section class="grid">
     <!-- timeline-info start -->
     <section class="timeline-info">
@@ -982,6 +984,7 @@ description: Ryuseitai Timeline in chronological order.
 </section>
 <br>
 <div class="navigation2">
-    <a target="_blank" href="/" title="Home"><i class="fa fa-home"></i></a>
-    <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
+<a href="/" title="Home" class="home-button" target="_blank"><i class="fa fa-home"></i></a>
+<a href="/ryuseitaistory" title="Story Reading List" target="_blank"><i class="fas fa-book fa-fw"></i></a>
+<a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
 </div>

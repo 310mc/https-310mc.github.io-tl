@@ -55,7 +55,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
     <p><span><b>Location:</b> Hallway</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/prologue.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_zZohuPO679933997.webp?timestamp=1738093470796 %}
 
 {% bubble Shinobu v2 %}
 —Hm? Ahh, this poster is peeling off at the corner.
@@ -79,7 +79,7 @@ I just need to head over there first\~! But I shouldn’t run in the hallways, s
     <p><span><b>Location:</b> Student Council Office</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/prologue1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_7egI67993399iTN4.webp?timestamp=1738093471538 %}
 
 {% bubble Shinobu v2 %}
 Please excuse me, Isara-dono!

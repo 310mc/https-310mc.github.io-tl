@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Tetora's first Mini Talk from Ninja Clan. Fr
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_tetora1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_8PVE67993399fyK4.webp?timestamp=1738093473570 %}
 
 {% bubble Tetora %}
 'Suuup, Anego~! This seat's free!

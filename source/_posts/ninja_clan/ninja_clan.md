@@ -14,7 +14,7 @@ permalink: ninja_clan/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="preview-background" style="background-image: url('/img/es/eventstory/ninjaclan/shinobubcgframe.jpg')"></div>
+        <div class="preview-background" style="background-image: url('https://f005.backblazeb2.com/file/reitoouji/ro_mw6799326bs17lW2.webp?timestamp=1738093174776')"></div>
         <div class="preview-box">
             <div class="title-area">
                 <div class="title-area__title">Ninja Clan</div>
@@ -107,10 +107,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
 
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
-        <div class="story-background" style="background: top/cover url(/img/es/eventstory/ninjaclan/shinobuorigcg.jpg)"></div>
+        <div class="story-background" style="background: top/cover url(https://f005.backblazeb2.com/file/reitoouji/ro_CYMLVN67993340E6.webp?timestamp=1738093381770)"></div>
         <div class="story-box">
             <div class="story-cover">
-                <div><img src="/img/es/eventstory/ninjaclan/shinobubcgframe.jpg"></div>
+                <div><img src="https://f005.backblazeb2.com/file/reitoouji/ro_mw6799326bs17lW2.webp?timestamp=1738093174776"></div>
             </div>
             <div class="title-area">
                 <div class="title-area__title">Ninja Clan</div>
@@ -216,7 +216,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                         <div class="gallery">
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/shinobuorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_CYMLVN67993340E6.webp?timestamp=1738093381770">
                                 </div>
                                 <div class="caption">
                                     It's All Over 2
@@ -224,7 +224,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/tetoraorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Eu7eeV67993340z6.webp?timestamp=1738093381550">
                                 </div>
                                 <div class="caption">
                                     Fumbling Around in the Dark 1
@@ -232,7 +232,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/midoriorigcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_EH4x67993340qu24.webp?timestamp=1738093380854">
                                 </div>
                                 <div class="caption">
                                     Fumbling Around in the Dark 3
@@ -240,7 +240,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/tetorabcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_qxv64P67993340F6.webp?timestamp=1738093381613">
                                 </div>
                                 <div class="caption">
                                     Demonstrating the Elements 3
@@ -248,7 +248,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/midoribcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_Tmw0xAO679933407.webp?timestamp=1738093381562">
                                 </div>
                                 <div class="caption">
                                     Demonstrating the Elements 3
@@ -256,7 +256,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             </div>
                             <div class="gallery-item">
                                 <div class="image">
-                                    <img src="/img/es/eventstory/ninjaclan/shinobubcg.jpg">
+                                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_H8tg67993340Pow4.webp?timestamp=1738093381849">
                                 </div>
                                 <div class="caption">
                                     Demonstrating the Elements 3
@@ -274,10 +274,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/shinobucard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_BiN6799326bi3Cz3.webp?timestamp=1738093174734">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/shinobubcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_t1yHR6799326b465.webp?timestamp=1738093174221">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -310,10 +310,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/tetoracard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_C6799326bTkSgiH1.webp?timestamp=1738093174742">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/tetorabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_bcNgi6799326bZZ5.webp?timestamp=1738093174965">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -346,10 +346,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/midoricard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_p1Ha6799326bpZz4.webp?timestamp=1738093173924">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/midoribcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_i6799326bQimwhG1.webp?timestamp=1738093174731">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -382,10 +382,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/chiakicard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_K6799326b7Znpa81.webp?timestamp=1738093175004">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/chiakibcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_LdYYZQa6799326b7.webp?timestamp=1738093173916">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -418,10 +418,10 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <div class="cards-item">
                                 <div class="image">
                                     <div class="single unbloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/kanatacard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_p5zo66799326ba65.webp?timestamp=1738093174894">
                                     </div>
                                     <div class="single bloomed">
-                                        <img src="/img/es/eventstory/ninjaclan/kanatabcard.jpg">
+                                        <img src="https://f005.backblazeb2.com/file/reitoouji/ro_l64Yb6799326bto5.webp?timestamp=1738093174559">
                                     </div>
                                     <div class="quotes__wrapper">
                                         <div class="quotes">
@@ -536,7 +536,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/midoriframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_p1Ha6799326bpZz4.webp?timestamp=1738093173924"
                 alt="Relaxing Gameplay"
             />
         </div>
@@ -548,7 +548,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/midoribcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_i6799326bQimwhG1.webp?timestamp=1738093174731"
                 alt="Eeeggy-eggy-eggyplant"
             />
         </div>
@@ -560,7 +560,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/tetoraframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_C6799326bTkSgiH1.webp?timestamp=1738093174742"
                 alt="Thrilling Gameplay"
             />
         </div>
@@ -572,7 +572,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/tetorabcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_bcNgi6799326bZZ5.webp?timestamp=1738093174965"
                 alt="I Don't Get It"
             />
         </div>
@@ -584,7 +584,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/chiakiframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_K6799326b7Znpa81.webp?timestamp=1738093175004"
                 alt="An Invasion from a Formidable Enemy"
             />
         </div>
@@ -596,7 +596,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_LdYYZQa6799326b7.webp?timestamp=1738093173916"
                 alt="Sightseeing the Historical Village"
             />
         </div>

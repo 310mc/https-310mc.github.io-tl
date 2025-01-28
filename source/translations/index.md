@@ -225,7 +225,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_2G679937f4gMmun2.webp?timestamp=1738094586032"
                 alt="Comet Show"
             />
         </div>
@@ -261,7 +261,7 @@ Please feel free to let me know by messaging me on <a href="https://twitter.com/
     <div class="story">
         <div class="thumbimage">
             <img
-                src="/img/es/eventstory/ninjaclan/shinobubcgframe_300px.jpg"
+                src="https://f005.backblazeb2.com/file/reitoouji/ro_t1yHR6799326b465.webp?timestamp=1738093174221"
                 alt="Ninja Clan"
             />
         </div>

@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Tetora's second Mini Talk from Ninja Clan. F
 
 #### <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/ninjaclan/minitalk_tetora2_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_dig0967993399OO5.webp?timestamp=1738093471482 %}
 
 {% bubble Tetora %}
 Uumyu… How the heck did our seniors understand what they needed to do through "eggy-eggplant" alone?

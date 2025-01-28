@@ -172,7 +172,7 @@ body {
     <article class="tl scout">
         <article class="box">
             <div class="left">
-                <img src="/img/es/eventstory/cometshow/chiakibcgframe_300px.jpg" class="stories-image">
+                <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2G679937f4gMmun2.webp?timestamp=1738094586032" class="stories-image">
             </div>
             <div class="right">
                 <h2>Climax</h2>

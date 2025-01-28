@@ -66,7 +66,7 @@ description: "[ES!!] Ryuseitai receives an order from their agency to combine Ry
     <p><span><b>Location:</b> Comet Show Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/cometshow/ep1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_poCJ679935afKB64.webp?timestamp=1738094006573 %}
 
 {% bubble Kanata grin %}
 “♪\~♪\~♪”
@@ -206,7 +206,7 @@ I’m sure everything’ll go just fine if we do that! Even if that's just me be
     <p><em>(Screen fades to black for a moment)</em></p>
 </div>
 
-{% img /img/es/eventstory/cometshow/ep1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_NQa679935af1yrn3.webp?timestamp=1738094006574 %}
 
 {% bubble Shinobu surprised0 %}
 —Eeep!?
@@ -286,7 +286,7 @@ yes. but it looks like what is [before] us right now is actually the [fire-breat
 
 ## Chapter 2
 
-{% img /img/es/eventstory/cometshow/ep2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_WyC6A6679935afI6.webp?timestamp=1738094006960 %}
 
 {% bubble Kaijuu %}
 “ROOOOOOOOOOAR!!! GROOOOOOOOOWL!!”
@@ -380,7 +380,7 @@ no, it is more like… something i can relate to.
 “However, mankind mustn’t give up! Where darkness may lie, let there be light! When evil surges forth, justice shall too!”
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Oi679935afCHvv92.webp?timestamp=1738094011220 %}
 
 {% bubble Shinobu v2 %}
 “‘I want to protect our wonderful planet!’ ‘I want to protect my loved ones!’ ‘I want to live happily forever, without any worries or anguish!’”
@@ -410,7 +410,7 @@ Eh, what’s the big deal… Didn’t you guys wanna make this our final parting
 You sound like you’ve got a problem with that, Midori-kun.
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_IdrKTb679935afZ6.webp?timestamp=1738094012168 %}
 
 {% bubble Midori csbcg %}
 I have more than one, actually…
@@ -452,7 +452,7 @@ As a ninja, my duty is to support from the sidelines while everyone takes action
 you three have become so very [reliable], but that does not mean that i am no longer [needed].
 {% endbubble %}
 
-{% img /img/es/eventstory/cometshow/kanatabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_LxN679935afyTDr3.webp?timestamp=1738094011209 %}
 
 {% bubble Kanata csbcg %}
 in fact, now that we have all grown stronger, we may be able to accomplish much more [valuable] things than we could ever before.
@@ -506,7 +506,7 @@ So I’ll proudly yell my own catchphrase with my head held high!
 
 ## Chapter 3
 
-{% img /img/es/eventstory/cometshow/ep3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_T6EW9679935afNn5.webp?timestamp=1738094007682 %}
 
 {% bubble Chiaki fist %}
 “Let’s go, you guys! We’ll defeat the Great Kaijuu before it destroys our world!”

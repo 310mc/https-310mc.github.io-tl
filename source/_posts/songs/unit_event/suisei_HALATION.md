@@ -69,7 +69,7 @@ permalink: suisei_HALATION/
 
 <h4 style="text-align:center;">Suisei HALATION – Comet HALATION</h4>
 
-{% img /img/es/eventstory/cometshow/songcover.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_YK679935afWJ1mQ2.webp?timestamp=1738094011215 %}
 
 <p style="text-align:center;font-size:22px;">Click <a href="https://www.youtube.com/watch?v=5yXAi6lbvIs" target="_blank">here</a> for the video! Follow along the timestamps written in the translation!</p>
 

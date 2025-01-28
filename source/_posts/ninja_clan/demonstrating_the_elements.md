@@ -63,7 +63,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
     <p><span><b>Location:</b> Garden Terrace</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/5ch1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_c867993399c6kHL2.webp?timestamp=1738093473330 %}
 
 <div class="msr-narration">
     <p>Next day…</p>
@@ -77,9 +77,7 @@ Aight, show us the outfits you’ve designed, Shinobu-kun!
 What style did you go with…?
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/5ch1_1.jpg %}
-
-{% bubble Shinobu v2 %}
+{% bubble Shinobu blushshy %}
 Uuu… I need to show it now…?
 
 I rarely ever design outfits, so it’s a little embarrassing…
@@ -258,7 +256,7 @@ Really\~!? I’ll think up lots and lots of ideas, then\~!
     <p><span><b>Location:</b> Historical Village</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/5ch2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_o67993399CYikan1.webp?timestamp=1738093470687 %}
 
 <div class="msr-narration">
     <p>Day of the performance…</p>
@@ -430,7 +428,7 @@ I’ll be alright! That aside, we should hurry over to the appointed meeting pla
     <p><span><b>Location:</b> Ninja Clan Stage</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/5ch3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Uy67993399Zeuer2.webp?timestamp=1738093470830 %}
 
 <div class="msr-narration">
     <p>Before the performance…</p>
@@ -586,7 +584,7 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 *<th>(whispering)</th>* But I feel like the better his performance, the more likely my sloppiness will stand out… which kinda scares me.
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/tetorabcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_qxv64P67993340F6.webp?timestamp=1738093381613 %}
 
 {% bubble Tetora v2 %}
 *<th>(whispering)</th>* What’re you talking about! Instead of making yourself look bad, just match your pace to the performance itself!
@@ -600,7 +598,7 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 <th>(Ah—he’s gone. Gosh, I wouldn’t be struggling here if that was easy to do, y’know…)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/midoribcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Tmw0xAO679933407.webp?timestamp=1738093381562 %}
 
 {% bubble Midori %}
 <th>(But I know Shinobu-kun loves ninjas the same way I love mascots, and that’s what made him work so hard all this time…)</th>
@@ -626,7 +624,7 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
 <th>(But my love for them only grows stronger each passing day, so I won’t stop expressing how I feel about them!)</th>
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/shinobubcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_H8tg67993340Pow4.webp?timestamp=1738093381849 %}
 
 {% bubble Shinobu v2 %}
 “I am Ryusei Yellow, Sengoku Shinobu! I adore ninjas, and act as the inheritor of the ninja spirit!”

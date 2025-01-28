@@ -60,7 +60,7 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
     <p><span><b>Location:</b> Empty Classroom</span></p>
 </div>
 
-{% img /img/es/eventstory/ninjaclan/ep.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_t9M67993399RlJj3.webp?timestamp=1738093469740 %}
 
 <div class="msr-narration">
     <p>A week later…</p>
@@ -106,7 +106,7 @@ Mmm. Alright, it’s about time I report to Isara-dono.
 Yes, who is it~? Is it you, Isara-dono?
 {% endbubble %}
 
-{% img /img/es/eventstory/ninjaclan/ep_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Rltlfj67993399H6.webp?timestamp=1738093471088 %}
 
 {% bubble Mayoi %}
 ………

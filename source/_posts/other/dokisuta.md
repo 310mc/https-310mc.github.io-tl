@@ -104,7 +104,7 @@ We don't have to try and do everything all by ourselves. *All for one, one for a
 
 <h4>※ While he may be just a regular young man with his own worries and weaknesses; he possesses <u>the will to be someone strong and dependable</u></h4>
 
-{% img /img/es/eventstory/cometshow/chiakibcg.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_Oi679935afCHvv92.webp?timestamp=1738094011220 %}
 
 {% bubble Chiaki csbcg %}
 We’ll start over and assemble everything all over again. What we want to protect isn’t a tradition — it’s our freedom, our happiness, and the smiles of ourselves and our fans.
@@ -306,7 +306,7 @@ And if I were to abandon my friend in trouble, I'd be a failure of a human!
 
 <h4>※ Unyielding, unbending, never once giving up; he is a <u>hard-worker who endures all hardships</u></h4>
 
-{% img https://f005.backblazeb2.com/file/reitoouji/ro_2qGqJ67570f49Eo5.webp?timestamp=1733758795193 %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_pc67993df56exn62.webp?timestamp=1738096120943 %}
 
 {% bubble Shinobu v2 %}
 Everyone honed me and made me stronger.

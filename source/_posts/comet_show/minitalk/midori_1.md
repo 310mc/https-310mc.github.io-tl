@@ -50,7 +50,7 @@ description: "[ES!!] Translation of Midori's first Mini Talk from Comet Show. Fr
 
 ## <div mt="rare"></div> 1/3
 
-{% img /img/es/eventstory/cometshow/minitalk_midori1_1.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_iko679935afbxEk3.webp?timestamp=1738094011488 %}
 
 {% bubble Midori sigh %}
 <th>(*Sigh*… I've had to deliver so many veggies today…)</th>
@@ -128,7 +128,7 @@ description: "[ES!!] Translation of Midori's first Mini Talk from Comet Show. Fr
 
 ## <div mt="rare"></div> 2/3
 
-{% img /img/es/eventstory/cometshow/minitalk_midori1_2.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_0X679935afUsSFp2.webp?timestamp=1738094011331 %}
 
 {% bubble Midori curious %}
 Huh…? You're wondering why I keep sighing over and over again…?
@@ -203,7 +203,7 @@ You probably already know this, but Ryuseitai hasn't been doing well lately…
 
 ## <div mt="rare"></div> 3/3
 
-{% img /img/es/eventstory/cometshow/minitalk_midori1_3.jpg %}
+{% img https://f005.backblazeb2.com/file/reitoouji/ro_OeNY679935afoO54.webp?timestamp=1738094010498 %}
 
 {% bubble Midori norsmile %}
 Thanks for lending an ear, Anzu-san…
