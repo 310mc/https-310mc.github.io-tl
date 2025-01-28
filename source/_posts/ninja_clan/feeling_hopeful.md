@@ -20,11 +20,11 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -328,7 +328,7 @@ That’s how you’ll see a glimmer of light at the end of the tunnel!
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/ninja_clan/grasping_for_something" title="Previous Chapter: Grasping for Something"><i class="fa fa-arrow-left"></i></a>
+            <a href="/ninja_clan/fumbling_in_the_dark" title="Previous Chapter: Fumbling Around in the Dark"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>
@@ -340,7 +340,7 @@ That’s how you’ll see a glimmer of light at the end of the tunnel!
                 <div class="dropup-content">
                     <a href="/ninja_clan/prologue">Prologue</a>
                     <a href="/ninja_clan/its_all_over">It's All Over</a>
-                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/fumbling_in_the_dark">Fumbling Around in the Dark</a>
                     <div>Feeling Hopeful</div>
                     <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
                     <a href="/ninja_clan/epilogue">Epilogue</a>

@@ -19,10 +19,10 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Mao" character="Mao"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Mao" character="Mao"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -425,14 +425,14 @@ Sengoku. You need *just* one person. Get me one member to join your club before 
                 <div class="dropup-content">
                     <a href="/ninja_clan/prologue">Prologue</a>
                     <div>It's All Over</div>
-                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/fumbling_in_the_dark">Fumbling Around in the Dark</a>
                     <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
                     <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
                     <a href="/ninja_clan/epilogue">Epilogue</a>
                     <a href="/ninja_clan/#Mini-Talks">Mini Talks</a>
                 </div>
             </div>
-            <a href="/ninja_clan/grasping_for_something" title="Next Chapter: Grasping for Something"><i class="fa fa-arrow-right"></i></a>
+            <a href="/ninja_clan/fumbling_in_the_dark" title="Next Chapter: Fumbling Around in the Dark"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -55,13 +55,13 @@ permalink: ninja_clan/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Mao" character="Mao"></a>
-                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Mao" character="Mao"></a>
+                            <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -151,13 +151,13 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Mao" character="Mao"></a>
-                        <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
+                            <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Mao" character="Mao"></a>
+                            <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -227,7 +227,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                                     <img src="/img/es/eventstory/ninjaclan/tetoraorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Grasping for Something 1
+                                    Fumbling Around in the Dark 1
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -235,7 +235,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                                     <img src="/img/es/eventstory/ninjaclan/midoriorigcg.jpg">
                                 </div>
                                 <div class="caption">
-                                    Grasping for Something 3
+                                    Fumbling Around in the Dark 3
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -465,7 +465,7 @@ This story is related to <a href="https://citrinesea.github.io/translation/scrol
                             <a href="its_all_over" id="">It's All Over</a>
                         </li>
                         <li>
-                            <a href="grasping_for_something" id="">Grasping for Something</a>
+                            <a href="fumbling_in_the_dark" id="">Fumbling Around in the Dark</a>
                         </li>
                         <li>
                             <a href="feeling_hopeful" id="">Feeling Hopeful</a>

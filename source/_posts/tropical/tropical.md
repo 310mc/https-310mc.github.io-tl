@@ -30,7 +30,7 @@ permalink: tropical/
                             Season
                         </div>
                         <div class="value">
-                            Spring (ES 2nd Year)
+                            Spring (ES 2nd Year, April)
                         </div>
                     </div>
                     <div class="info-item chapters">

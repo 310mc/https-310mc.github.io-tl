@@ -201,7 +201,7 @@ Aaack!? He fainteeeddd!? G-Get a hold of yourself, Sengokuuu!!!
                 <div class="dropup-content">
                     <div>Prologue</div>
                     <a href="/ninja_clan/its_all_over">It's All Over</a>
-                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/fumbling_in_the_dark">Fumbling Around in the Dark</a>
                     <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
                     <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
                     <a href="/ninja_clan/epilogue">Epilogue</a>

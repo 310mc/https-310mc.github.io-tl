@@ -633,7 +633,7 @@ Ahaha, even when we’re in the highest year in school, you two are the same as 
             <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
                 <div class="dropup-content">
                     <a href="/wildland/prologue">Prologue</a>
-                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <a href="/wildland/first_half">The Tiger Fumbles Around and Searches</a>
                     <a href="/wildland/second_half">Possibility and Guiding Star</a>
                     <div>Epilogue</div>
                     <a href="/wildland/#Mini-Talks">Mini Talks</a>

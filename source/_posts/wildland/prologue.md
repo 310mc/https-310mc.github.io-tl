@@ -381,13 +381,13 @@ Buchou? What’s wrong?
             <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
                 <div class="dropup-content">
                     <div>Prologue</div>
-                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <a href="/wildland/first_half">The Tiger Fumbles Around and Searches</a>
                     <a href="/wildland/second_half">Possibility and Guiding Star</a>
                     <a href="/wildland/epilogue">Epilogue</a>
                     <a href="/wildland/#Mini-Talks">Mini Talks</a>
                 </div>
             </div>
-            <a href="/wildland/first_half" title="Next Chapter: The Tiger Feels Around and Searches"><i class="fa fa-arrow-right"></i></a>
+            <a href="/wildland/first_half" title="Next Chapter: The Tiger Fumbles Around and Searches"><i class="fa fa-arrow-right"></i></a>
             <a href="#top" class="top-arrow" title="Back to Top"><i class="fa fa-arrow-up"></i></a>
         </div>
     </div>

@@ -1,5 +1,5 @@
 ---
-title: "[ES!!] VS★GOURMET"
+title: "[ES!!] Audition VS★GOURMET -Second piece-"
 date: 2024/7/8 9:00:00
 categories:
 - [Enstars, 1. Era, ES Era, Year 2]
@@ -30,7 +30,7 @@ permalink: vs_gourmet/
                             Season
                         </div>
                         <div class="value">
-                            Spring (ES 2nd Year)
+                            Spring (ES 2nd Year, Late May)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -110,6 +110,13 @@ permalink: vs_gourmet/
 
 <link rel="stylesheet" href="/cssfolder/removewidth.css">
 
+<div style="display:flex;width:100%;margin-bottom: 0.8rem;">
+<div style="text-align:left;width:50%">
+<a href="https://twilightmalachite.tumblr.com/vsprincess">← Audition VS PRINCESS -First piece-</a></div>
+<div style="text-align:right;width:50%">
+<a href="https://citrinesea.github.io/translation/vs_audience/">Audition VS AUDIENCE -Third piece- →</a></div>
+</div>
+
 <div class="story-wrapper" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
     <div class="grid-wrapper">
         <div class="story-background" style="background: top/cover url(https://i.ibb.co/GcgG3nd/mitsurucg.jpg)"></div>
@@ -135,7 +142,7 @@ permalink: vs_gourmet/
                             Season
                         </div>
                         <div class="value">
-                            Spring (ES 2nd Year)
+                            Spring (ES 2nd Year, Late May)
                         </div>
                     </div>
                     <div class="info-item chapters">

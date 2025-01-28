@@ -1,5 +1,5 @@
 ---
-title: "Ninja Clan – Grasping for Something"
+title: "Ninja Clan – Fumbling Around in the Dark"
 date: 2021-11-30 9:02:00
 categories:
 - [Enstars, Shinobu]
@@ -20,11 +20,11 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -648,7 +648,7 @@ Now then, feel free to speak to us!
                 <div class="dropup-content">
                     <a href="/ninja_clan/prologue">Prologue</a>
                     <a href="/ninja_clan/its_all_over">It's All Over</a>
-                    <div>Grasping For Something</div>
+                    <div>Fumbling Around in the Dark</div>
                     <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
                     <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
                     <a href="/ninja_clan/epilogue">Epilogue</a>

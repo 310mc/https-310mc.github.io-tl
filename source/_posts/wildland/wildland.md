@@ -30,7 +30,7 @@ permalink: wildland/
                             Season
                         </div>
                         <div class="value">
-                            ES 2nd Year — Spring (May), Summer (June)
+                            ES 2nd Year — Spring (Late May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -131,7 +131,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            ES 2nd Year — Spring (May), Summer (June)
+                            ES 2nd Year — Spring (Late May), Summer (June)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -230,7 +230,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_JjyLF66e722352s5.webp?timestamp=1726423612363">
                                 </div>
                                 <div class="caption">
-                                    The Tiger Feels Around and Searches 4
+                                    The Tiger Fumbles Around and Searches 4
                                 </div>
                             </div>
                             <div class="gallery-item">
@@ -465,7 +465,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             <a href="prologue" id="">Prologue</a>
                         </li>
                         <li>
-                            <a href="first_half" id="">The Tiger Feels Around and Searches</a>
+                            <a href="first_half" id="">The Tiger Fumbles Around and Searches</a>
                         </li>
                         <li>
                             <a href="second_half" id="">Possibility and Guiding Star</a>

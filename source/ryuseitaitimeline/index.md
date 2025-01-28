@@ -919,6 +919,10 @@ description: Ryuseitai Timeline in chronological order.
                     <figcaption>Illuminate</figcaption>
                 </article>
                 <article class="stories-image">
+                    <img src="https://f005.backblazeb2.com/file/reitoouji/ro_679682e7uBbDoId0.webp?timestamp=1737917163098" class="stories-image">
+                    <figcaption>(★ April) Flower of Worship</figcaption>
+                </article>
+                <article class="stories-image">
                     <img src="https://f005.backblazeb2.com/file/reitoouji/ro_2h677e84b2qoxFd2.webp?timestamp=1736344760011" class="stories-image">
                     <figcaption>Wink Killer</figcaption>
                 </article>

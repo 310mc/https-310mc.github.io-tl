@@ -912,7 +912,7 @@ shinobu and i will help the staff onto the [car], so the rest of you keep a look
 {% endbubble %}
 
 {% bubble Chiaki norsmile3 %}
-I’m so glad this is ending on a good note. Of course, we can’t keep our guard down until we’re back, though.
+I’m so glad this is ending on a good note. Of course, we can’t let our guard down until we’re back, though.
 {% endbubble %}
 
 {% bubble Midori norsmile %}
@@ -1238,7 +1238,7 @@ Hah, well, now that the case is closed, it’s ‘bout time we head to the stage
         </div>
         <div class="toolbar">
             <a target="_blank" href="/translations" class="home-button" title="Translations Masterlist"><i class="fa fa-home"></i></a>
-            <a href="/wildland/first_half" title="Previous Chapter: The Tiger Feels Around and Searches"><i class="fa fa-arrow-left"></i></a>
+            <a href="/wildland/first_half" title="Previous Chapter: The Tiger Fumbles Around and Searches"><i class="fa fa-arrow-left"></i></a>
             <div class="toolbar__section">
                 <a id="sliderDrop">
                     <span class="material-icons-round" title="Text Size">format_size</span>
@@ -1249,7 +1249,7 @@ Hah, well, now that the case is closed, it’s ‘bout time we head to the stage
             <button class="dropbtn"><i class="fa fa-list-ol"></i></button>
                 <div class="dropup-content">
                     <a href="/wildland/prologue">Prologue</a>
-                    <a href="/wildland/first_half">The Tiger Feels Around and Searches</a>
+                    <a href="/wildland/first_half">The Tiger Fumbles Around and Searches</a>
                     <div>Possibility and Guiding Star</div>
                     <a href="/wildland/epilogue">Epilogue</a>
                     <a href="/wildland/#Mini-Talks">Mini Talks</a>

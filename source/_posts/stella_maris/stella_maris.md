@@ -33,7 +33,7 @@ permalink: stella_maris/
                             Season
                         </div>
                         <div class="value">
-                            Spring (ES 2nd Year)
+                            Spring (ES 2nd Year, May)
                         </div>
                     </div>
                     <div class="info-item chapters">
@@ -137,7 +137,7 @@ For more information on Ryuseitai's status after <b><a href="/supervillain" targ
                             Season
                         </div>
                         <div class="value">
-                            Spring (ES 2nd Year)
+                            Spring (ES 2nd Year, May)
                         </div>
                     </div>
                     <div class="info-item chapters">

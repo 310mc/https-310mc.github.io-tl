@@ -355,7 +355,7 @@ The walls are thin at home though, so I can’t really be moving around and sing
 {% endbubble %}
 
 {% bubble Midori %}
-That so… Ryuseitai had just finished a big job, so we're on break now…
+That so… Ryuseitai’s just finished a big job, so we're on break now…
 
 And if I go home I’ll just be told to help out in the store, so maybe I’ll go somewhere else to kill time…
 
@@ -505,11 +505,11 @@ Ah— Alright, got it… Sorry…
 {% endbubble %}
 
 {% bubble Keito %}
-There's no need to apologize. You guys did nothing wrong… Just be more dignified — So incorrigible.
+There's no need to apologize. You guys didn’t do anything wrong… Just be more dignified — So incorrigible.
 {% endbubble %}
 
 {% bubble Midori %}
-<th>(Ah, he left… What was that about… I think we got scolded for some reason though…)</th>
+<th>(Ah, he left… What was that about… I think we got scolded for some reason, though…)</th>
 
 <th>(I guess he was just warning us not to slip and hurt ourselves… So basically he was worried about us or something…?)</th>
 
@@ -535,7 +535,7 @@ Although, when you compare that glasses-vice-president to the person who carries
 
 But I get nervous just remembering he’s an upperclassman or part of the Student Council…
 
-Whenever Morisawa-senpai does something dumb, that person usually scolds him with a death glare…
+Whenever Morisawa-senpai does something dumb, that person scolds him with a death glare…
 
 So even though I haven’t actually done anything wrong, just encountering him makes me think I might get scolded viciously…
 
@@ -703,7 +703,7 @@ Ahh, um, he's the library committee member.
 
 He’s usually there whenever I go to the library, and he sometimes helps me out in finding books, so that's how I’ve talked to him before.
 
-Umm, Aoba-senpai, what happened? Were those screams we were hearing for some time now from you…?
+Umm, Aoba-senpai, what happened? Those screams that we heard… Were they you…?
 {% endbubble %}
 
 {% bubble Tsumugi hidden %}

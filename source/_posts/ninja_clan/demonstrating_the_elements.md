@@ -20,11 +20,11 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                <a href="/categories/Enstars/Midori" character="Midori"></a>
-                <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
-                <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                    <a href="/categories/Enstars/Midori" character="Midori"></a>
+                    <a href="/categories/Enstars/Chiaki" character="Chiaki"></a>
+                    <a href="/categories/Enstars/Kanata" character="Kanata"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -653,7 +653,7 @@ Aaalrighty then! It’s time to commence our “Ninja Association Promotion” m
                 <div class="dropup-content">
                     <a href="/ninja_clan/prologue">Prologue</a>
                     <a href="/ninja_clan/its_all_over">It's All Over</a>
-                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/fumbling_in_the_dark">Fumbling Around in the Dark</a>
                     <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
                     <div>Demonstrating the Elements</div>
                     <a href="/ninja_clan/epilogue">Epilogue</a>

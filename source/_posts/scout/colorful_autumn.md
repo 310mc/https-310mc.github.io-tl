@@ -12,7 +12,7 @@ tags:
 - Scout Story
 - Yuuki Yoshino
 - Story Index
-description: "[ES!] Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them."
+description: "[ES!] Midori has to make a lot of signboards for the shopping district’s fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them."
 permalink: colorful_autumn/
 ---
 <div class="preview-wrapper reverse" style="--storyColor:#5ac189;--storyColor-rgb:90,193,137;--storyColor-h:147.4;--storyColor-s:45.4%;--storyColor-l:55.5%;">
@@ -26,7 +26,7 @@ permalink: colorful_autumn/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
+                    Midori has to make a lot of signboards for the shopping district’s fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -58,10 +58,10 @@ permalink: colorful_autumn/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Souma" character="Souma"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -114,7 +114,7 @@ permalink: colorful_autumn/
             </div>
             <div class="info-area">
                 <div class="synopsis">
-                    Midori has to make a lot of signboards for the shopping district's fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
+                    Midori has to make a lot of signboards for the shopping district’s fair. As he was feeling extremely depressed about it, Tetora and the others offer to split the workload between them.
                 </div>
                 <div class="info">
                     <div class="info-item season">
@@ -146,10 +146,10 @@ permalink: colorful_autumn/
                             Characters
                         </div>
                         <div class="value">
-                        <a href="/categories/Enstars/Midori" character="Midori"></a>
-                        <a href="/categories/Enstars/Tetora" character="Tetora"></a>
-                        <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-                        <a href="/categories/Enstars/Souma" character="Souma"></a>
+                            <a href="/categories/Enstars/Midori" character="Midori"></a>
+                            <a href="/categories/Enstars/Tetora" character="Tetora"></a>
+                            <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+                            <a href="/categories/Enstars/Souma" character="Souma"></a>
                         </div>
                     </div>
                     <div class="info-item tl">
@@ -561,7 +561,7 @@ If you don’t have enough helping hands, just let us know. We’d be glad to he
 {% endbubble %}
 
 {% bubble Midori frownshake %}
-Ughh… I feel like if Morisawa-senpai finds out about this, he’ll say “There was no need to hold back, Takamine!” and barge right into my house…
+Ughh… I feel like if Morisawa-senpai found out about this, he’d say “There was no need to hold back, Takamine!” and barge right into my house…
 
 I bet my parents would be super happy about it too, and I wouldn’t have any time to skip out on work…
 

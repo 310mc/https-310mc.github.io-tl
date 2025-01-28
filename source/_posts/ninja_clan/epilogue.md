@@ -17,8 +17,8 @@ description: "[ES!!] Mao informs Shinobu that Ninja Association will have its ac
                     Characters
                 </div>
                 <div class="value">
-				<a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
-                <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
+                    <a href="/categories/Enstars/Shinobu" character="Shinobu"></a>
+                    <a href="/categories/Enstars/Mayoi" character="Mayoi"></a>
                 </div>
             </div>
             <div class="info-item one">
@@ -257,7 +257,7 @@ I welcome you to the Ninja Association!
                 <div class="dropup-content">
                     <a href="/ninja_clan/prologue">Prologue</a>
                     <a href="/ninja_clan/its_all_over">It's All Over</a>
-                    <a href="/ninja_clan/grasping_for_something">Grasping For Something</a>
+                    <a href="/ninja_clan/fumbling_in_the_dark">Fumbling Around in the Dark</a>
                     <a href="/ninja_clan/feeling_hopeful">Feeling Hopeful</a>
                     <a href="/ninja_clan/demonstrating_the_elements">Demonstrating the Elements</a>
                     <div>Epilogue</div>
